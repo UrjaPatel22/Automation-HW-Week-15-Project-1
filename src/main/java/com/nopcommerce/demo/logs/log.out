@@ -1,0 +1,1389 @@
+2023-05-14 17:05:528 INFO  HomePage :38 - Select Menu
+2023-05-14 17:05:773 INFO  ComputerPage :28 - Click On Desktop
+2023-05-14 17:05:178 INFO  HomePage :38 - Select Menu
+2023-05-14 17:05:816 INFO  ComputerPage :28 - Click On Desktop
+2023-05-14 17:05:820 INFO  HomePage :38 - Select Menu
+2023-05-14 17:05:894 INFO  ComputerPage :28 - Click On Desktop
+2023-05-14 17:05:451 INFO  DesktopPage :36 - Select Sort By Position
+2023-05-14 17:05:946 INFO  HomePage :38 - Select Menu
+2023-05-14 17:05:992 INFO  ComputerPage :28 - Click On Desktop
+2023-05-14 17:05:471 INFO  DesktopPage :36 - Select Sort By Position
+2023-05-14 17:05:785 INFO  HomePage :38 - Select Menu
+2023-05-14 17:05:805 INFO  ComputerPage :28 - Click On Desktop
+2023-05-14 17:05:325 INFO  DesktopPage :36 - Select Sort By Position
+2023-05-14 17:05:467 INFO  DesktopPage :42 - Return List of Product Name Elements
+2023-05-14 17:05:500 INFO  DesktopPage :42 - Return List of Product Name Elements
+2023-05-14 17:05:98 INFO  HomePage :38 - Select Menu
+2023-05-14 17:05:970 INFO  ComputerPage :28 - Click On Desktop
+2023-05-14 17:05:553 INFO  DesktopPage :39 - Select Sort By Position
+2023-05-14 17:05:742 INFO  DesktopPage :57 - Return List of Product Name Elements
+2023-05-14 17:05:828 INFO  DesktopPage :57 - Return List of Product Name Elements
+2023-05-14 17:05:679 INFO  HomePage :38 - Select Menu
+2023-05-14 17:05:450 INFO  ComputerPage :28 - Click On Desktop
+2023-05-14 17:05:94 INFO  DesktopPage :39 - Select Sort By Position
+2023-05-14 17:05:916 INFO  HomePage :38 - Select Menu
+2023-05-14 17:05:224 INFO  ComputerPage :28 - Click On Desktop
+2023-05-14 17:05:888 INFO  DesktopPage :39 - Select Sort By Position
+2023-05-14 17:05:869 INFO  HomePage :38 - Select Menu
+2023-05-14 17:05:170 INFO  ComputerPage :28 - Click On Desktop
+2023-05-14 17:05:871 INFO  DesktopPage :39 - Select Sort By Position
+2023-05-14 17:05:292 INFO  HomePage :38 - Select Menu
+2023-05-14 17:05:336 INFO  ComputerPage :28 - Click On Desktop
+2023-05-14 17:05:889 INFO  DesktopPage :39 - Select Sort By Position
+2023-05-14 18:05:456 INFO  HomePage :38 - Select Menu
+2023-05-14 18:05:239 INFO  ComputerPage :28 - Click On Desktop
+2023-05-14 18:05:786 INFO  DesktopPage :39 - Select Sort By Position
+2023-05-14 18:05:925 INFO  DesktopPage :64 - Click On Add To Cart
+2023-05-14 18:05:424 INFO  HomePage :38 - Select Menu
+2023-05-14 18:05:478 INFO  ComputerPage :28 - Click On Desktop
+2023-05-14 18:05:61 INFO  DesktopPage :39 - Select Sort By Position
+2023-05-14 18:05:244 INFO  DesktopPage :65 - Click On Add To Cart
+2023-05-14 18:05:350 INFO  BuildYourOwnComputerPage :68 - Get Text From build your own computer
+2023-05-14 18:05:197 INFO  BuildYourOwnComputerPage :73 - select processor[[ChromeDriver: chrome on WINDOWS (db07399622ea73a2a688585d5b43c593)] -> css selector: #product_attribute_1]
+2023-05-14 18:05:355 INFO  BuildYourOwnComputerPage :79 - select RAM[[ChromeDriver: chrome on WINDOWS (db07399622ea73a2a688585d5b43c593)] -> css selector: #product_attribute_2]
+2023-05-14 18:05:518 INFO  BuildYourOwnComputerPage :85 - click on HDD[[ChromeDriver: chrome on WINDOWS (db07399622ea73a2a688585d5b43c593)] -> css selector: #product_attribute_3_7]
+2023-05-14 18:05:624 INFO  BuildYourOwnComputerPage :90 - click on OS[[ChromeDriver: chrome on WINDOWS (db07399622ea73a2a688585d5b43c593)] -> css selector: #product_attribute_4_9]
+2023-05-14 18:05:694 INFO  BuildYourOwnComputerPage :95 - select Microsoft office[[ChromeDriver: chrome on WINDOWS (db07399622ea73a2a688585d5b43c593)] -> css selector: #product_attribute_5_10]
+2023-05-14 18:05:726 INFO  BuildYourOwnComputerPage :103 - click on total commander[[ChromeDriver: chrome on WINDOWS (db07399622ea73a2a688585d5b43c593)] -> css selector: #product_attribute_5_12]
+2023-05-14 21:05:634 INFO  HomePage :38 - Select Menu
+2023-05-14 21:05:497 INFO  ComputerPage :28 - Click On Desktop
+2023-05-14 21:05:117 INFO  DesktopPage :39 - Select Sort By Position
+2023-05-14 21:05:304 INFO  DesktopPage :65 - Click On Add To Cart
+2023-05-14 21:05:411 INFO  BuildYourOwnComputerPage :68 - Get Text From build your own computer
+2023-05-14 21:05:303 INFO  BuildYourOwnComputerPage :73 - select processor[[ChromeDriver: chrome on WINDOWS (fcc95347602c19775f2ea489d717003c)] -> css selector: #product_attribute_1]
+2023-05-14 21:05:472 INFO  BuildYourOwnComputerPage :79 - select RAM[[ChromeDriver: chrome on WINDOWS (fcc95347602c19775f2ea489d717003c)] -> css selector: #product_attribute_2]
+2023-05-14 21:05:701 INFO  BuildYourOwnComputerPage :85 - click on HDD[[ChromeDriver: chrome on WINDOWS (fcc95347602c19775f2ea489d717003c)] -> css selector: #product_attribute_3_7]
+2023-05-14 21:05:806 INFO  BuildYourOwnComputerPage :90 - click on OS[[ChromeDriver: chrome on WINDOWS (fcc95347602c19775f2ea489d717003c)] -> css selector: #product_attribute_4_9]
+2023-05-14 21:05:902 INFO  BuildYourOwnComputerPage :95 - select Microsoft office[[ChromeDriver: chrome on WINDOWS (fcc95347602c19775f2ea489d717003c)] -> css selector: #product_attribute_5_10]
+2023-05-14 21:05:944 INFO  BuildYourOwnComputerPage :103 - click on total commander[[ChromeDriver: chrome on WINDOWS (fcc95347602c19775f2ea489d717003c)] -> css selector: #product_attribute_5_12]
+2023-05-14 21:05:28 INFO  BuildYourOwnComputerPage :108 - Check Total Price
+2023-05-14 21:05:111 INFO  BuildYourOwnComputerPage :113 - click on add to cart button[[ChromeDriver: chrome on WINDOWS (fcc95347602c19775f2ea489d717003c)] -> xpath: //button[@id='add-to-cart-button-1']]
+2023-05-14 21:05:182 INFO  BuildYourOwnComputerPage :119 - Get shopping cart message
+2023-05-14 21:05:517 INFO  BuildYourOwnComputerPage :125 - click on cross bar[[ChromeDriver: chrome on WINDOWS (fcc95347602c19775f2ea489d717003c)] -> xpath: //span[@title='Close']]
+2023-05-14 21:05:585 INFO  HomePage :38 - Select Menu
+2023-05-14 21:05:265 INFO  ComputerPage :28 - Click On Desktop
+2023-05-14 21:05:863 INFO  DesktopPage :39 - Select Sort By Position
+2023-05-14 21:05:88 INFO  DesktopPage :65 - Click On Add To Cart
+2023-05-14 21:05:192 INFO  BuildYourOwnComputerPage :68 - Get Text From build your own computer
+2023-05-14 21:05:191 INFO  BuildYourOwnComputerPage :73 - select processor[[ChromeDriver: chrome on WINDOWS (27958247ab49cdee03e6b61552bf36a6)] -> css selector: #product_attribute_1]
+2023-05-14 21:05:411 INFO  BuildYourOwnComputerPage :79 - select RAM[[ChromeDriver: chrome on WINDOWS (27958247ab49cdee03e6b61552bf36a6)] -> css selector: #product_attribute_2]
+2023-05-14 21:05:598 INFO  BuildYourOwnComputerPage :85 - click on HDD[[ChromeDriver: chrome on WINDOWS (27958247ab49cdee03e6b61552bf36a6)] -> css selector: #product_attribute_3_7]
+2023-05-14 21:05:699 INFO  BuildYourOwnComputerPage :90 - click on OS[[ChromeDriver: chrome on WINDOWS (27958247ab49cdee03e6b61552bf36a6)] -> css selector: #product_attribute_4_9]
+2023-05-14 21:05:786 INFO  BuildYourOwnComputerPage :95 - select Microsoft office[[ChromeDriver: chrome on WINDOWS (27958247ab49cdee03e6b61552bf36a6)] -> css selector: #product_attribute_5_10]
+2023-05-14 21:05:832 INFO  BuildYourOwnComputerPage :103 - click on total commander[[ChromeDriver: chrome on WINDOWS (27958247ab49cdee03e6b61552bf36a6)] -> css selector: #product_attribute_5_12]
+2023-05-14 21:05:893 INFO  BuildYourOwnComputerPage :108 - Check Total Price
+2023-05-14 21:05:995 INFO  BuildYourOwnComputerPage :113 - click on add to cart button[[ChromeDriver: chrome on WINDOWS (27958247ab49cdee03e6b61552bf36a6)] -> xpath: //button[@id='add-to-cart-button-1']]
+2023-05-14 21:05:71 INFO  BuildYourOwnComputerPage :119 - Get shopping cart message
+2023-05-14 21:05:330 INFO  BuildYourOwnComputerPage :125 - click on cross bar[[ChromeDriver: chrome on WINDOWS (27958247ab49cdee03e6b61552bf36a6)] -> xpath: //span[@title='Close']]
+2023-05-14 21:05:443 INFO  ShoppingCartPage :66 - Mouse hover on shopping cart
+2023-05-14 21:05:708 INFO  ShoppingCartPage :71 - click On go to cart 
+2023-05-14 21:05:993 INFO  ShoppingCartPage :61 - Get text from shopping cart
+2023-05-14 21:05:51 INFO  ShoppingCartPage :86 - clear an element from updated shopping cart 
+2023-05-14 21:05:185 INFO  ShoppingCartPage :76 - Update the quantity 2 to quantity field [[ChromeDriver: chrome on WINDOWS (27958247ab49cdee03e6b61552bf36a6)] -> xpath: //input[@class='qty-input']]
+2023-05-14 21:05:401 INFO  ShoppingCartPage :81 - click On update cart button 
+2023-05-14 21:05:190 INFO  ShoppingCartPage :93 - Get text from total
+2023-05-14 21:05:269 INFO  ShoppingCartPage :99 - click on check box 
+2023-05-14 21:05:423 INFO  ShoppingCartPage :104 - click on check out 
+2023-05-14 21:05:138 INFO  CheckOutPage :69 - get text from welcome text
+2023-05-14 21:05:183 INFO  CheckOutPage :74 - click on check out 
+2023-05-14 21:05:885 INFO  CheckOutPage :79 - Enter first name John to username field [[ChromeDriver: chrome on WINDOWS (27958247ab49cdee03e6b61552bf36a6)] -> css selector: #BillingNewAddress_FirstName]
+2023-05-14 21:05:990 INFO  CheckOutPage :84 - Enter last name Smith to username field [[ChromeDriver: chrome on WINDOWS (27958247ab49cdee03e6b61552bf36a6)] -> css selector: #BillingNewAddress_LastName]
+2023-05-14 21:05:115 INFO  CheckOutPage :89 - Enter email xyz@email.com to username field [[ChromeDriver: chrome on WINDOWS (27958247ab49cdee03e6b61552bf36a6)] -> css selector: #BillingNewAddress_Email]
+2023-05-14 21:05:206 INFO  CheckOutPage :94 - select country from dropdown list
+2023-05-14 21:05:398 INFO  CheckOutPage :99 - Enter city name London to username field [[ChromeDriver: chrome on WINDOWS (27958247ab49cdee03e6b61552bf36a6)] -> css selector: #BillingNewAddress_City]
+2023-05-14 21:05:487 INFO  CheckOutPage :104 - Enter address Random Street to username field [[ChromeDriver: chrome on WINDOWS (27958247ab49cdee03e6b61552bf36a6)] -> css selector: #BillingNewAddress_Address1]
+2023-05-14 21:05:631 INFO  CheckOutPage :109 - Enter postcode WES 6RT to username field [[ChromeDriver: chrome on WINDOWS (27958247ab49cdee03e6b61552bf36a6)] -> css selector: #BillingNewAddress_ZipPostalCode]
+2023-05-14 21:05:725 INFO  CheckOutPage :114 - Enter phone number 0777777777 to username field [[ChromeDriver: chrome on WINDOWS (27958247ab49cdee03e6b61552bf36a6)] -> css selector: #BillingNewAddress_PhoneNumber]
+2023-05-14 21:05:803 INFO  CheckOutPage :119 - click on continue 
+2023-05-14 21:05:889 INFO  ShippingPage :31 - click on next day air radio  
+2023-05-14 21:05:266 INFO  ShippingPage :36 - click on continue button 
+2023-05-14 21:05:342 INFO  PaymentPage :58 - Select Credit Card Radio Button
+2023-05-14 21:05:698 INFO  PaymentPage :63 - Continue Payment Button
+2023-05-14 21:05:992 INFO  PaymentPage :68 - Select Credit Card  2 to Credit Card  field [[ChromeDriver: chrome on WINDOWS (27958247ab49cdee03e6b61552bf36a6)] -> id: CreditCardType]
+2023-05-14 21:05:166 INFO  PaymentPage :73 - Select card Holder Name  Mr. Smith to Credit Card  field [[ChromeDriver: chrome on WINDOWS (27958247ab49cdee03e6b61552bf36a6)] -> id: CardholderName]
+2023-05-14 21:05:265 INFO  PaymentPage :78 - Select card Number   5425233430109903 to Credit Card  field [[ChromeDriver: chrome on WINDOWS (27958247ab49cdee03e6b61552bf36a6)] -> id: CardNumber]
+2023-05-14 21:05:367 INFO  PaymentPage :83 - Select Expiry Month 1 to Credit Card  field [[ChromeDriver: chrome on WINDOWS (27958247ab49cdee03e6b61552bf36a6)] -> id: ExpireMonth]
+2023-05-14 21:05:500 INFO  PaymentPage :89 - Select Expiry Year 3 to Credit Card  field [[ChromeDriver: chrome on WINDOWS (27958247ab49cdee03e6b61552bf36a6)] -> id: ExpireYear]
+2023-05-14 21:05:685 INFO  PaymentPage :94 - Enter Card Code 123 to Credit Card  field [[ChromeDriver: chrome on WINDOWS (27958247ab49cdee03e6b61552bf36a6)] -> xpath: //input[@data-val-regex-pattern='^[0-9]{3,4}$']]
+2023-05-14 21:05:764 INFO  PaymentPage :99 - Click Payment Continue Button
+2023-05-14 21:05:831 INFO  OrderConfirmationPage :38 - Get Text From Payment Method
+2023-05-14 21:05:114 INFO  OrderConfirmationPage :44 - Get Text From Shipping Method
+2023-05-14 21:05:177 INFO  OrderConfirmationPage :49 - Get Text From Total Price
+2023-05-14 21:05:214 INFO  OrderConfirmationPage :54 - Click On Confirm Button
+2023-05-14 21:05:321 INFO  OrderCompletionPage :37 - Get Text From ThankYou Title
+2023-05-14 21:05:49 INFO  OrderCompletionPage :41 - Get Text From Order SuccessMessage
+2023-05-14 21:05:85 INFO  OrderCompletionPage :46 - Click On Continue Order Completion Button
+2023-05-14 21:05:703 INFO  HomePage :53 - Get Text From Welcome Store
+2023-05-14 21:05:164 INFO  HomePage :58 - Mouse Hover On Electronics
+2023-05-14 21:05:419 INFO  HomePage :63 - Mouse Hover And Click OnCell Phone
+2023-05-14 21:05:551 INFO  CellPhonePage :31 - Get page title text of cell phone page
+2023-05-14 21:05:961 INFO  HomePage :38 - Select Menu
+2023-05-14 21:05:10 INFO  ComputerPage :28 - Click On Desktop
+2023-05-14 21:05:484 INFO  DesktopPage :39 - Select Sort By Position
+2023-05-14 21:05:617 INFO  DesktopPage :65 - Click On Add To Cart
+2023-05-14 21:05:716 INFO  BuildYourOwnComputerPage :68 - Get Text From build your own computer
+2023-05-14 21:05:653 INFO  BuildYourOwnComputerPage :73 - select processor[[ChromeDriver: chrome on WINDOWS (cfc568d166b2b3ecc2c607f69ff454e3)] -> css selector: #product_attribute_1]
+2023-05-14 21:05:839 INFO  BuildYourOwnComputerPage :79 - select RAM[[ChromeDriver: chrome on WINDOWS (cfc568d166b2b3ecc2c607f69ff454e3)] -> css selector: #product_attribute_2]
+2023-05-14 21:05:11 INFO  BuildYourOwnComputerPage :85 - click on HDD[[ChromeDriver: chrome on WINDOWS (cfc568d166b2b3ecc2c607f69ff454e3)] -> css selector: #product_attribute_3_7]
+2023-05-14 21:05:92 INFO  BuildYourOwnComputerPage :90 - click on OS[[ChromeDriver: chrome on WINDOWS (cfc568d166b2b3ecc2c607f69ff454e3)] -> css selector: #product_attribute_4_9]
+2023-05-14 21:05:156 INFO  BuildYourOwnComputerPage :95 - select Microsoft office[[ChromeDriver: chrome on WINDOWS (cfc568d166b2b3ecc2c607f69ff454e3)] -> css selector: #product_attribute_5_10]
+2023-05-14 21:05:202 INFO  BuildYourOwnComputerPage :103 - click on total commander[[ChromeDriver: chrome on WINDOWS (cfc568d166b2b3ecc2c607f69ff454e3)] -> css selector: #product_attribute_5_12]
+2023-05-14 21:05:258 INFO  BuildYourOwnComputerPage :108 - Check Total Price
+2023-05-14 21:05:297 INFO  BuildYourOwnComputerPage :113 - click on add to cart button[[ChromeDriver: chrome on WINDOWS (cfc568d166b2b3ecc2c607f69ff454e3)] -> xpath: //button[@id='add-to-cart-button-1']]
+2023-05-14 21:05:354 INFO  BuildYourOwnComputerPage :119 - Get shopping cart message
+2023-05-14 21:05:53 INFO  BuildYourOwnComputerPage :125 - click on cross bar[[ChromeDriver: chrome on WINDOWS (cfc568d166b2b3ecc2c607f69ff454e3)] -> xpath: //span[@title='Close']]
+2023-05-14 21:05:185 INFO  ShoppingCartPage :66 - Mouse hover on shopping cart
+2023-05-14 21:05:464 INFO  ShoppingCartPage :71 - click On go to cart 
+2023-05-14 21:05:695 INFO  ShoppingCartPage :61 - Get text from shopping cart
+2023-05-14 21:05:730 INFO  ShoppingCartPage :86 - clear an element from updated shopping cart 
+2023-05-14 21:05:815 INFO  ShoppingCartPage :76 - Update the quantity 2 to quantity field [[ChromeDriver: chrome on WINDOWS (cfc568d166b2b3ecc2c607f69ff454e3)] -> xpath: //input[@class='qty-input']]
+2023-05-14 21:05:898 INFO  ShoppingCartPage :81 - click On update cart button 
+2023-05-14 21:05:458 INFO  ShoppingCartPage :93 - Get text from total
+2023-05-14 21:05:505 INFO  ShoppingCartPage :99 - click on check box 
+2023-05-14 21:05:595 INFO  ShoppingCartPage :104 - click on check out 
+2023-05-14 21:05:262 INFO  CheckOutPage :69 - get text from welcome text
+2023-05-14 21:05:296 INFO  CheckOutPage :74 - click on check out 
+2023-05-14 21:05:207 INFO  CheckOutPage :79 - Enter first name John to username field [[ChromeDriver: chrome on WINDOWS (cfc568d166b2b3ecc2c607f69ff454e3)] -> css selector: #BillingNewAddress_FirstName]
+2023-05-14 21:05:295 INFO  CheckOutPage :84 - Enter last name Smith to username field [[ChromeDriver: chrome on WINDOWS (cfc568d166b2b3ecc2c607f69ff454e3)] -> css selector: #BillingNewAddress_LastName]
+2023-05-14 21:05:387 INFO  CheckOutPage :89 - Enter email xyz@email.com to username field [[ChromeDriver: chrome on WINDOWS (cfc568d166b2b3ecc2c607f69ff454e3)] -> css selector: #BillingNewAddress_Email]
+2023-05-14 21:05:457 INFO  CheckOutPage :94 - select country from dropdown list
+2023-05-14 21:05:624 INFO  CheckOutPage :99 - Enter city name London to username field [[ChromeDriver: chrome on WINDOWS (cfc568d166b2b3ecc2c607f69ff454e3)] -> css selector: #BillingNewAddress_City]
+2023-05-14 21:05:709 INFO  CheckOutPage :104 - Enter address Random Street to username field [[ChromeDriver: chrome on WINDOWS (cfc568d166b2b3ecc2c607f69ff454e3)] -> css selector: #BillingNewAddress_Address1]
+2023-05-14 21:05:808 INFO  CheckOutPage :109 - Enter postcode WES 6RT to username field [[ChromeDriver: chrome on WINDOWS (cfc568d166b2b3ecc2c607f69ff454e3)] -> css selector: #BillingNewAddress_ZipPostalCode]
+2023-05-14 21:05:885 INFO  CheckOutPage :114 - Enter phone number 0777777777 to username field [[ChromeDriver: chrome on WINDOWS (cfc568d166b2b3ecc2c607f69ff454e3)] -> css selector: #BillingNewAddress_PhoneNumber]
+2023-05-14 21:05:970 INFO  CheckOutPage :119 - click on continue 
+2023-05-14 21:05:37 INFO  ShippingPage :31 - click on next day air radio  
+2023-05-14 21:05:386 INFO  ShippingPage :36 - click on continue button 
+2023-05-14 21:05:466 INFO  PaymentPage :58 - Select Credit Card Radio Button
+2023-05-14 21:05:761 INFO  PaymentPage :63 - Continue Payment Button
+2023-05-14 21:05:29 INFO  PaymentPage :68 - Select Credit Card  2 to Credit Card  field [[ChromeDriver: chrome on WINDOWS (cfc568d166b2b3ecc2c607f69ff454e3)] -> id: CreditCardType]
+2023-05-14 21:05:233 INFO  PaymentPage :73 - Select card Holder Name  Mr. Smith to Credit Card  field [[ChromeDriver: chrome on WINDOWS (cfc568d166b2b3ecc2c607f69ff454e3)] -> id: CardholderName]
+2023-05-14 21:05:347 INFO  PaymentPage :78 - Select card Number   5425233430109903 to Credit Card  field [[ChromeDriver: chrome on WINDOWS (cfc568d166b2b3ecc2c607f69ff454e3)] -> id: CardNumber]
+2023-05-14 21:05:427 INFO  PaymentPage :83 - Select Expiry Month 1 to Credit Card  field [[ChromeDriver: chrome on WINDOWS (cfc568d166b2b3ecc2c607f69ff454e3)] -> id: ExpireMonth]
+2023-05-14 21:05:539 INFO  PaymentPage :89 - Select Expiry Year 3 to Credit Card  field [[ChromeDriver: chrome on WINDOWS (cfc568d166b2b3ecc2c607f69ff454e3)] -> id: ExpireYear]
+2023-05-14 21:05:664 INFO  PaymentPage :94 - Enter Card Code 123 to Credit Card  field [[ChromeDriver: chrome on WINDOWS (cfc568d166b2b3ecc2c607f69ff454e3)] -> xpath: //input[@data-val-regex-pattern='^[0-9]{3,4}$']]
+2023-05-14 21:05:726 INFO  PaymentPage :99 - Click Payment Continue Button
+2023-05-14 21:05:796 INFO  OrderConfirmationPage :38 - Get Text From Payment Method
+2023-05-14 21:05:86 INFO  OrderConfirmationPage :44 - Get Text From Shipping Method
+2023-05-14 21:05:127 INFO  OrderConfirmationPage :49 - Get Text From Total Price
+2023-05-14 21:05:158 INFO  OrderConfirmationPage :54 - Click On Confirm Button
+2023-05-14 21:05:234 INFO  OrderCompletionPage :37 - Get Text From ThankYou Title
+2023-05-14 21:05:907 INFO  OrderCompletionPage :41 - Get Text From Order SuccessMessage
+2023-05-14 21:05:949 INFO  OrderCompletionPage :46 - Click On Continue Order Completion Button
+2023-05-14 21:05:423 INFO  HomePage :53 - Get Text From Welcome Store
+2023-05-14 21:05:271 INFO  HomePage :58 - Mouse Hover On Electronics
+2023-05-14 21:05:937 INFO  HomePage :63 - Mouse Hover And Click OnCell Phone
+2023-05-14 21:05:640 INFO  CellPhonePage :31 - Get page title text of cell phone page
+2023-05-14 21:05:707 INFO  CellPhonePage :36 - click on list view icon[[ChromeDriver: chrome on WINDOWS (3cb9d3bfbf680b437b4cedcdc5e5473e)] -> xpath: //a[contains(text(),'List')]]
+2023-05-14 21:05:797 INFO  CellPhonePage :41 - click on product nokia lumia 1020
+2023-05-14 21:05:883 INFO  HomePage :58 - Mouse Hover On Electronics
+2023-05-14 21:05:70 INFO  HomePage :63 - Mouse Hover And Click OnCell Phone
+2023-05-14 21:05:129 INFO  CellPhonePage :31 - Get page title text of cell phone page
+2023-05-14 21:05:192 INFO  CellPhonePage :36 - click on list view icon[[ChromeDriver: chrome on WINDOWS (5678813a82ae8042ceea873743b081de)] -> xpath: //a[contains(text(),'List')]]
+2023-05-14 21:05:280 INFO  CellPhonePage :41 - click on product nokia lumia 1020
+2023-05-14 21:05:438 INFO  HomePage :58 - Mouse Hover On Electronics
+2023-05-14 21:05:605 INFO  HomePage :63 - Mouse Hover And Click OnCell Phone
+2023-05-14 21:05:630 INFO  CellPhonePage :31 - Get page title text of cell phone page
+2023-05-14 21:05:694 INFO  CellPhonePage :36 - click on list view icon[[ChromeDriver: chrome on WINDOWS (18dbb76a28c8d5704dee0fde2a33b99e)] -> xpath: //a[contains(text(),'List')]]
+2023-05-14 21:05:764 INFO  CellPhonePage :42 - click on product nokia lumia 1020
+2023-05-14 21:05:686 INFO  NokiaLumia1020Page :50 - Actual Title Text Of Product NokiaLumia1020Page
+2023-05-14 21:05:721 INFO  NokiaLumia1020Page :55 - Actual Price  Of Product NokiaLumia1020
+2023-05-14 21:05:745 INFO  NokiaLumia1020Page :60 - Clear An Element Before Entering Qty
+2023-05-14 21:05:830 INFO  NokiaLumia1020Page :65 - Update the Quantity  2to Quantity Field[[ChromeDriver: chrome on WINDOWS (18dbb76a28c8d5704dee0fde2a33b99e)] -> xpath: (//input[@id='product_enteredQuantity_20'])[1]]
+2023-05-14 21:05:916 INFO  NokiaLumia1020Page :70 - Click On Button Add To Cart From Page NokiaLumia1020
+2023-05-14 21:05:18 INFO  NokiaLumia1020Page :76 - Actual Message Of Product Being In Shopping Cart
+2023-05-14 21:05:47 INFO  NokiaLumia1020Page :81 - Click On Cross From Message
+2023-05-14 21:05:673 INFO  HomePage :58 - Mouse Hover On Electronics
+2023-05-14 21:05:847 INFO  HomePage :63 - Mouse Hover And Click OnCell Phone
+2023-05-14 21:05:505 INFO  CellPhonePage :31 - Get page title text of cell phone page
+2023-05-14 21:05:563 INFO  CellPhonePage :36 - click on list view icon[[ChromeDriver: chrome on WINDOWS (c150af88ca61f957c4c6c8b37974da2f)] -> xpath: //a[contains(text(),'List')]]
+2023-05-14 21:05:636 INFO  CellPhonePage :42 - click on product nokia lumia 1020
+2023-05-14 21:05:473 INFO  NokiaLumia1020Page :50 - Actual Title Text Of Product NokiaLumia1020Page
+2023-05-14 21:05:500 INFO  NokiaLumia1020Page :55 - Actual Price  Of Product NokiaLumia1020
+2023-05-14 21:05:530 INFO  NokiaLumia1020Page :60 - Clear An Element Before Entering Qty
+2023-05-14 21:05:604 INFO  NokiaLumia1020Page :65 - Update the Quantity  2to Quantity Field[[ChromeDriver: chrome on WINDOWS (c150af88ca61f957c4c6c8b37974da2f)] -> xpath: (//input[@id='product_enteredQuantity_20'])[1]]
+2023-05-14 21:05:682 INFO  NokiaLumia1020Page :70 - Click On Button Add To Cart From Page NokiaLumia1020
+2023-05-14 21:05:762 INFO  NokiaLumia1020Page :76 - Actual Message Of Product Being In Shopping Cart
+2023-05-14 21:05:803 INFO  NokiaLumia1020Page :81 - Click On Cross From Message
+2023-05-14 21:05:884 INFO  ShoppingCartPage :61 - Get text from shopping cart
+2023-05-14 21:05:158 INFO  HomePage :58 - Mouse Hover On Electronics
+2023-05-14 21:05:353 INFO  HomePage :63 - Mouse Hover And Click OnCell Phone
+2023-05-14 21:05:469 INFO  CellPhonePage :31 - Get page title text of cell phone page
+2023-05-14 21:05:523 INFO  CellPhonePage :36 - click on list view icon[[ChromeDriver: chrome on WINDOWS (750f8236db9e4bbcf809a59191271267)] -> xpath: //a[contains(text(),'List')]]
+2023-05-14 21:05:607 INFO  CellPhonePage :42 - click on product nokia lumia 1020
+2023-05-14 21:05:497 INFO  NokiaLumia1020Page :50 - Actual Title Text Of Product NokiaLumia1020Page
+2023-05-14 21:05:533 INFO  NokiaLumia1020Page :55 - Actual Price  Of Product NokiaLumia1020
+2023-05-14 21:05:572 INFO  NokiaLumia1020Page :60 - Clear An Element Before Entering Qty
+2023-05-14 21:05:658 INFO  NokiaLumia1020Page :65 - Update the Quantity  2to Quantity Field[[ChromeDriver: chrome on WINDOWS (750f8236db9e4bbcf809a59191271267)] -> xpath: (//input[@id='product_enteredQuantity_20'])[1]]
+2023-05-14 21:05:741 INFO  NokiaLumia1020Page :70 - Click On Button Add To Cart From Page NokiaLumia1020
+2023-05-14 21:05:828 INFO  NokiaLumia1020Page :76 - Actual Message Of Product Being In Shopping Cart
+2023-05-14 21:05:867 INFO  NokiaLumia1020Page :81 - Click On Cross From Message
+2023-05-14 21:05:964 INFO  ShoppingCartPage :61 - Get text from shopping cart
+2023-05-14 21:05:305 INFO  HomePage :58 - Mouse Hover On Electronics
+2023-05-14 21:05:509 INFO  HomePage :63 - Mouse Hover And Click OnCell Phone
+2023-05-14 21:05:192 INFO  CellPhonePage :31 - Get page title text of cell phone page
+2023-05-14 21:05:259 INFO  CellPhonePage :36 - click on list view icon[[ChromeDriver: chrome on WINDOWS (3749a7ccaa50ed4b2c6f67c2eb974fbe)] -> xpath: //a[contains(text(),'List')]]
+2023-05-14 21:05:338 INFO  CellPhonePage :42 - click on product nokia lumia 1020
+2023-05-14 21:05:246 INFO  NokiaLumia1020Page :50 - Actual Title Text Of Product NokiaLumia1020Page
+2023-05-14 21:05:275 INFO  NokiaLumia1020Page :55 - Actual Price  Of Product NokiaLumia1020
+2023-05-14 21:05:309 INFO  NokiaLumia1020Page :60 - Clear An Element Before Entering Qty
+2023-05-14 21:05:384 INFO  NokiaLumia1020Page :65 - Update the Quantity  2to Quantity Field[[ChromeDriver: chrome on WINDOWS (3749a7ccaa50ed4b2c6f67c2eb974fbe)] -> xpath: (//input[@id='product_enteredQuantity_20'])[1]]
+2023-05-14 21:05:457 INFO  NokiaLumia1020Page :70 - Click On Button Add To Cart From Page NokiaLumia1020
+2023-05-14 21:05:539 INFO  NokiaLumia1020Page :76 - Actual Message Of Product Being In Shopping Cart
+2023-05-14 21:05:583 INFO  NokiaLumia1020Page :81 - Click On Cross From Message
+2023-05-14 21:05:671 INFO  ShoppingCartPage :61 - Get text from shopping cart
+2023-05-14 21:05:93 INFO  HomePage :58 - Mouse Hover On Electronics
+2023-05-14 21:05:282 INFO  HomePage :63 - Mouse Hover And Click OnCell Phone
+2023-05-14 21:05:408 INFO  CellPhonePage :31 - Get page title text of cell phone page
+2023-05-14 21:05:487 INFO  CellPhonePage :36 - click on list view icon[[ChromeDriver: chrome on WINDOWS (a98fd831861d3da3f8c48c244c9ec860)] -> xpath: //a[contains(text(),'List')]]
+2023-05-14 21:05:590 INFO  CellPhonePage :42 - click on product nokia lumia 1020
+2023-05-14 21:05:509 INFO  NokiaLumia1020Page :50 - Actual Title Text Of Product NokiaLumia1020Page
+2023-05-14 21:05:541 INFO  NokiaLumia1020Page :55 - Actual Price  Of Product NokiaLumia1020
+2023-05-14 21:05:568 INFO  NokiaLumia1020Page :60 - Clear An Element Before Entering Qty
+2023-05-14 21:05:637 INFO  NokiaLumia1020Page :65 - Update the Quantity  2to Quantity Field[[ChromeDriver: chrome on WINDOWS (a98fd831861d3da3f8c48c244c9ec860)] -> xpath: (//input[@id='product_enteredQuantity_20'])[1]]
+2023-05-14 21:05:717 INFO  NokiaLumia1020Page :70 - Click On Button Add To Cart From Page NokiaLumia1020
+2023-05-14 21:05:807 INFO  NokiaLumia1020Page :76 - Actual Message Of Product Being In Shopping Cart
+2023-05-14 21:05:847 INFO  NokiaLumia1020Page :81 - Click On Cross From Message
+2023-05-14 21:05:930 INFO  NokiaLumia1020Page :87 - Hover To Shopping Cart And Click On Add To Cart
+2023-05-14 21:05:531 INFO  ShoppingCartPage :61 - Get text from shopping cart
+2023-05-14 21:05:570 INFO  ShoppingCartPage :113 - verifyQuantity 
+2023-05-14 21:05:624 INFO  ShoppingCartPage :93 - Get text from total
+2023-05-14 21:05:671 INFO  ShoppingCartPage :99 - click on check box 
+2023-05-14 21:05:779 INFO  ShoppingCartPage :104 - click on check out 
+2023-05-14 22:05:626 INFO  HomePage :58 - Mouse Hover On Electronics
+2023-05-14 22:05:815 INFO  HomePage :63 - Mouse Hover And Click OnCell Phone
+2023-05-14 22:05:869 INFO  CellPhonePage :31 - Get page title text of cell phone page
+2023-05-14 22:05:922 INFO  CellPhonePage :36 - click on list view icon[[ChromeDriver: chrome on WINDOWS (9601e1a163b991f64e18c73b6ba00c1d)] -> xpath: //a[contains(text(),'List')]]
+2023-05-14 22:05:991 INFO  CellPhonePage :42 - click on product nokia lumia 1020
+2023-05-14 22:05:851 INFO  NokiaLumia1020Page :50 - Actual Title Text Of Product NokiaLumia1020Page
+2023-05-14 22:05:884 INFO  NokiaLumia1020Page :55 - Actual Price  Of Product NokiaLumia1020
+2023-05-14 22:05:913 INFO  NokiaLumia1020Page :60 - Clear An Element Before Entering Qty
+2023-05-14 22:05:991 INFO  NokiaLumia1020Page :65 - Update the Quantity  2to Quantity Field[[ChromeDriver: chrome on WINDOWS (9601e1a163b991f64e18c73b6ba00c1d)] -> xpath: (//input[@id='product_enteredQuantity_20'])[1]]
+2023-05-14 22:05:65 INFO  NokiaLumia1020Page :70 - Click On Button Add To Cart From Page NokiaLumia1020
+2023-05-14 22:05:150 INFO  NokiaLumia1020Page :76 - Actual Message Of Product Being In Shopping Cart
+2023-05-14 22:05:195 INFO  NokiaLumia1020Page :81 - Click On Cross From Message
+2023-05-14 22:05:279 INFO  NokiaLumia1020Page :87 - Hover To Shopping Cart And Click On Add To Cart
+2023-05-14 22:05:842 INFO  ShoppingCartPage :61 - Get text from shopping cart
+2023-05-14 22:05:887 INFO  ShoppingCartPage :113 - verifyQuantity 
+2023-05-14 22:05:948 INFO  ShoppingCartPage :93 - Get text from total
+2023-05-14 22:05:989 INFO  ShoppingCartPage :99 - click on check box 
+2023-05-14 22:05:73 INFO  ShoppingCartPage :104 - click on check out 
+2023-05-14 22:05:687 INFO  CheckOutPage :69 - get text from welcome text
+2023-05-14 22:05:730 INFO  CheckOutPage :124 - click on button register 
+2023-05-14 22:05:109 INFO  RegisterPage :90 - get actual title text of register page
+2023-05-14 22:05:18 INFO  HomePage :58 - Mouse Hover On Electronics
+2023-05-14 22:05:218 INFO  HomePage :63 - Mouse Hover And Click OnCell Phone
+2023-05-14 22:05:42 INFO  CellPhonePage :31 - Get page title text of cell phone page
+2023-05-14 22:05:111 INFO  CellPhonePage :36 - click on list view icon[[ChromeDriver: chrome on WINDOWS (be60417ad2c770037a594a7bd5f382a4)] -> xpath: //a[contains(text(),'List')]]
+2023-05-14 22:05:204 INFO  CellPhonePage :42 - click on product nokia lumia 1020
+2023-05-14 22:05:262 INFO  NokiaLumia1020Page :50 - Actual Title Text Of Product NokiaLumia1020Page
+2023-05-14 22:05:293 INFO  NokiaLumia1020Page :55 - Actual Price  Of Product NokiaLumia1020
+2023-05-14 22:05:328 INFO  NokiaLumia1020Page :60 - Clear An Element Before Entering Qty
+2023-05-14 22:05:404 INFO  NokiaLumia1020Page :65 - Update the Quantity  2to Quantity Field[[ChromeDriver: chrome on WINDOWS (be60417ad2c770037a594a7bd5f382a4)] -> xpath: (//input[@id='product_enteredQuantity_20'])[1]]
+2023-05-14 22:05:490 INFO  NokiaLumia1020Page :70 - Click On Button Add To Cart From Page NokiaLumia1020
+2023-05-14 22:05:585 INFO  NokiaLumia1020Page :76 - Actual Message Of Product Being In Shopping Cart
+2023-05-14 22:05:634 INFO  NokiaLumia1020Page :81 - Click On Cross From Message
+2023-05-14 22:05:712 INFO  NokiaLumia1020Page :87 - Hover To Shopping Cart And Click On Add To Cart
+2023-05-14 22:05:296 INFO  ShoppingCartPage :61 - Get text from shopping cart
+2023-05-14 22:05:345 INFO  ShoppingCartPage :113 - verifyQuantity 
+2023-05-14 22:05:397 INFO  ShoppingCartPage :93 - Get text from total
+2023-05-14 22:05:428 INFO  ShoppingCartPage :99 - click on check box 
+2023-05-14 22:05:502 INFO  ShoppingCartPage :104 - click on check out 
+2023-05-14 22:05:93 INFO  CheckOutPage :69 - get text from welcome text
+2023-05-14 22:05:126 INFO  CheckOutPage :124 - click on button register 
+2023-05-14 22:05:564 INFO  RegisterPage :90 - get actual title text of register page
+2023-05-14 22:05:621 INFO  RegisterPage :54 - Enter first name John to username field [[ChromeDriver: chrome on WINDOWS (be60417ad2c770037a594a7bd5f382a4)] -> xpath: //input[@id='FirstName']]
+2023-05-14 22:05:717 INFO  RegisterPage :59 - Enter last name Smith to username field [[ChromeDriver: chrome on WINDOWS (be60417ad2c770037a594a7bd5f382a4)] -> xpath: //input[@id='LastName']]
+2023-05-14 22:05:815 INFO  RegisterPage :70 - Enter email [[ChromeDriver: chrome on WINDOWS (be60417ad2c770037a594a7bd5f382a4)] -> xpath: //input[@id='Email']]
+2023-05-14 22:05:921 INFO  RegisterPage :74 - Enter password Password1 to password field [[ChromeDriver: chrome on WINDOWS (be60417ad2c770037a594a7bd5f382a4)] -> xpath: //input[@id='Password']]
+2023-05-14 22:05:28 INFO  RegisterPage :79 - Enter confirm password Password1 to confirm password field [[ChromeDriver: chrome on WINDOWS (be60417ad2c770037a594a7bd5f382a4)] -> xpath: //input[@id='ConfirmPassword']]
+2023-05-14 22:05:95 INFO  RegisterPage :84 - click on button register next step 
+2023-05-14 22:05:709 INFO  RegistrationSuccessfulPage :30 - Get text successful registration
+2023-05-14 22:05:750 INFO  RegistrationSuccessfulPage :35 - click on continue button 
+2023-05-14 22:05:168 INFO  ShoppingCartPage :61 - Get text from shopping cart
+2023-05-14 22:05:208 INFO  LoginPage :45 - Click On Login Link
+2023-05-14 22:05:640 INFO  LoginPage :50 - Enter email  mocky368121068e0rDpmouse@gmail.com to Email  field [[ChromeDriver: chrome on WINDOWS (be60417ad2c770037a594a7bd5f382a4)] -> css selector: #Email]
+2023-05-14 22:05:740 INFO  LoginPage :55 - Enter Password  Password1 to Password  field [[ChromeDriver: chrome on WINDOWS (be60417ad2c770037a594a7bd5f382a4)] -> css selector: #Password]
+2023-05-14 22:05:848 INFO  LoginPage :61 - Click On Login Button
+2023-05-14 22:05:566 INFO  LoginPage :66 - click on check box 
+2023-05-14 22:05:686 INFO  LoginPage :71 - click on check out 
+2023-05-14 23:05:639 INFO  HomePage :59 - Mouse Hover On Electronics
+2023-05-14 23:05:930 INFO  HomePage :64 - Mouse Hover And Click OnCell Phone
+2023-05-14 23:05:46 INFO  CellPhonePage :31 - Get page title text of cell phone page
+2023-05-14 23:05:100 INFO  CellPhonePage :36 - click on list view icon[[ChromeDriver: chrome on WINDOWS (f59e60097f8b320e08b914cf1604a68d)] -> xpath: //a[contains(text(),'List')]]
+2023-05-14 23:05:170 INFO  CellPhonePage :42 - click on product nokia lumia 1020
+2023-05-14 23:05:43 INFO  NokiaLumia1020Page :50 - Actual Title Text Of Product NokiaLumia1020Page
+2023-05-14 23:05:75 INFO  NokiaLumia1020Page :55 - Actual Price  Of Product NokiaLumia1020
+2023-05-14 23:05:109 INFO  NokiaLumia1020Page :60 - Clear An Element Before Entering Qty
+2023-05-14 23:05:176 INFO  NokiaLumia1020Page :65 - Update the Quantity  2to Quantity Field[[ChromeDriver: chrome on WINDOWS (f59e60097f8b320e08b914cf1604a68d)] -> xpath: (//input[@id='product_enteredQuantity_20'])[1]]
+2023-05-14 23:05:255 INFO  NokiaLumia1020Page :70 - Click On Button Add To Cart From Page NokiaLumia1020
+2023-05-14 23:05:333 INFO  NokiaLumia1020Page :76 - Actual Message Of Product Being In Shopping Cart
+2023-05-14 23:05:368 INFO  NokiaLumia1020Page :81 - Click On Cross From Message
+2023-05-14 23:05:459 INFO  NokiaLumia1020Page :87 - Hover To Shopping Cart And Click On Add To Cart
+2023-05-14 23:05:16 INFO  ShoppingCartPage :61 - Get text from shopping cart
+2023-05-14 23:05:56 INFO  ShoppingCartPage :113 - verifyQuantity 
+2023-05-14 23:05:115 INFO  ShoppingCartPage :93 - Get text from total
+2023-05-14 23:05:150 INFO  ShoppingCartPage :99 - click on check box 
+2023-05-14 23:05:239 INFO  ShoppingCartPage :104 - click on check out 
+2023-05-14 23:05:839 INFO  CheckOutPage :69 - get text from welcome text
+2023-05-14 23:05:874 INFO  CheckOutPage :124 - click on button register 
+2023-05-14 23:05:262 INFO  RegisterPage :90 - get actual title text of register page
+2023-05-14 23:05:314 INFO  RegisterPage :54 - Enter first name John to username field [[ChromeDriver: chrome on WINDOWS (f59e60097f8b320e08b914cf1604a68d)] -> xpath: //input[@id='FirstName']]
+2023-05-14 23:05:434 INFO  RegisterPage :59 - Enter last name Smith to username field [[ChromeDriver: chrome on WINDOWS (f59e60097f8b320e08b914cf1604a68d)] -> xpath: //input[@id='LastName']]
+2023-05-14 23:05:550 INFO  RegisterPage :70 - Enter email [[ChromeDriver: chrome on WINDOWS (f59e60097f8b320e08b914cf1604a68d)] -> xpath: //input[@id='Email']]
+2023-05-14 23:05:653 INFO  RegisterPage :74 - Enter password Password1 to password field [[ChromeDriver: chrome on WINDOWS (f59e60097f8b320e08b914cf1604a68d)] -> xpath: //input[@id='Password']]
+2023-05-14 23:05:758 INFO  RegisterPage :79 - Enter confirm password Password1 to confirm password field [[ChromeDriver: chrome on WINDOWS (f59e60097f8b320e08b914cf1604a68d)] -> xpath: //input[@id='ConfirmPassword']]
+2023-05-14 23:05:818 INFO  RegisterPage :84 - click on button register next step 
+2023-05-14 23:05:434 INFO  RegistrationSuccessfulPage :30 - Get text successful registration
+2023-05-14 23:05:475 INFO  RegistrationSuccessfulPage :35 - click on continue button 
+2023-05-14 23:05:880 INFO  ShoppingCartPage :61 - Get text from shopping cart
+2023-05-14 23:05:909 INFO  LoginPage :45 - Click On Login Link
+2023-05-14 23:05:262 INFO  LoginPage :50 - Enter email  mocky368121068ow8EQmouse@gmail.com to Email  field [[ChromeDriver: chrome on WINDOWS (f59e60097f8b320e08b914cf1604a68d)] -> css selector: #Email]
+2023-05-14 23:05:364 INFO  LoginPage :55 - Enter Password  Password1 to Password  field [[ChromeDriver: chrome on WINDOWS (f59e60097f8b320e08b914cf1604a68d)] -> css selector: #Password]
+2023-05-14 23:05:472 INFO  LoginPage :61 - Click On Login Button
+2023-05-14 23:05:93 INFO  LoginPage :66 - click on check box 
+2023-05-14 23:05:185 INFO  LoginPage :71 - click on check out 
+2023-05-14 23:05:97 INFO  CheckOutAfterRegistrationPage :126 - Enter first name John to username field [[ChromeDriver: chrome on WINDOWS (f59e60097f8b320e08b914cf1604a68d)] -> xpath: //input[@id='BillingNewAddress_FirstName']]
+2023-05-14 23:05:233 INFO  CheckOutAfterRegistrationPage :132 - Enter last name Smith to username field [[ChromeDriver: chrome on WINDOWS (f59e60097f8b320e08b914cf1604a68d)] -> xpath: //input[@id='BillingNewAddress_LastName']]
+2023-05-14 23:05:347 INFO  CheckOutAfterRegistrationPage :138 - Enter email mocky368121068ow8EQmouse@gmail.com to username field [[ChromeDriver: chrome on WINDOWS (f59e60097f8b320e08b914cf1604a68d)] -> xpath: //input[@id='BillingNewAddress_Email']]
+2023-05-14 23:05:458 INFO  CheckOutAfterRegistrationPage :144 - select country from dropdown list
+2023-05-14 23:05:707 INFO  CheckOutAfterRegistrationPage :149 - Enter city name London to username field [[ChromeDriver: chrome on WINDOWS (f59e60097f8b320e08b914cf1604a68d)] -> xpath: //input[@id='BillingNewAddress_City']]
+2023-05-14 23:05:790 INFO  CheckOutAfterRegistrationPage :154 - Enter address 101 House to username field [[ChromeDriver: chrome on WINDOWS (f59e60097f8b320e08b914cf1604a68d)] -> xpath: //input[@id='BillingNewAddress_Address1']]
+2023-05-14 23:05:884 INFO  CheckOutAfterRegistrationPage :159 - Enter postcode GS1 2FG to username field [[ChromeDriver: chrome on WINDOWS (f59e60097f8b320e08b914cf1604a68d)] -> xpath: //input[@id='BillingNewAddress_ZipPostalCode']]
+2023-05-14 23:05:965 INFO  CheckOutAfterRegistrationPage :164 - Enter phone number 02022039384 to username field [[ChromeDriver: chrome on WINDOWS (f59e60097f8b320e08b914cf1604a68d)] -> xpath: //input[@id='BillingNewAddress_PhoneNumber']]
+2023-05-14 23:05:39 INFO  CheckOutAfterRegistrationPage :169 - click on continue 
+2023-05-14 23:05:106 INFO  CheckOutAfterRegistrationPage :265 - click on radio button 2nd DayAir 
+2023-05-14 23:05:509 INFO  CheckOutAfterRegistrationPage :194 - click on button continue from payment method 
+2023-05-14 23:05:371 INFO  HomePage :59 - Mouse Hover On Electronics
+2023-05-14 23:05:612 INFO  HomePage :64 - Mouse Hover And Click OnCell Phone
+2023-05-14 23:05:463 INFO  CellPhonePage :31 - Get page title text of cell phone page
+2023-05-14 23:05:550 INFO  CellPhonePage :36 - click on list view icon[[ChromeDriver: chrome on WINDOWS (7365cf4579d6bc98fb500fb1e4ec7d6f)] -> xpath: //a[contains(text(),'List')]]
+2023-05-14 23:05:664 INFO  CellPhonePage :42 - click on product nokia lumia 1020
+2023-05-14 23:05:505 INFO  NokiaLumia1020Page :50 - Actual Title Text Of Product NokiaLumia1020Page
+2023-05-14 23:05:534 INFO  NokiaLumia1020Page :55 - Actual Price  Of Product NokiaLumia1020
+2023-05-14 23:05:568 INFO  NokiaLumia1020Page :60 - Clear An Element Before Entering Qty
+2023-05-14 23:05:642 INFO  NokiaLumia1020Page :65 - Update the Quantity  2to Quantity Field[[ChromeDriver: chrome on WINDOWS (7365cf4579d6bc98fb500fb1e4ec7d6f)] -> xpath: (//input[@id='product_enteredQuantity_20'])[1]]
+2023-05-14 23:05:721 INFO  NokiaLumia1020Page :70 - Click On Button Add To Cart From Page NokiaLumia1020
+2023-05-14 23:05:805 INFO  NokiaLumia1020Page :76 - Actual Message Of Product Being In Shopping Cart
+2023-05-14 23:05:851 INFO  NokiaLumia1020Page :81 - Click On Cross From Message
+2023-05-14 23:05:928 INFO  NokiaLumia1020Page :87 - Hover To Shopping Cart And Click On Add To Cart
+2023-05-14 23:05:544 INFO  ShoppingCartPage :61 - Get text from shopping cart
+2023-05-14 23:05:586 INFO  ShoppingCartPage :113 - verifyQuantity 
+2023-05-14 23:05:646 INFO  ShoppingCartPage :93 - Get text from total
+2023-05-14 23:05:682 INFO  ShoppingCartPage :99 - click on check box 
+2023-05-14 23:05:763 INFO  ShoppingCartPage :104 - click on check out 
+2023-05-14 23:05:240 INFO  CheckOutPage :69 - get text from welcome text
+2023-05-14 23:05:362 INFO  CheckOutPage :124 - click on button register 
+2023-05-14 23:05:756 INFO  RegisterPage :90 - get actual title text of register page
+2023-05-14 23:05:815 INFO  RegisterPage :54 - Enter first name John to username field [[ChromeDriver: chrome on WINDOWS (7365cf4579d6bc98fb500fb1e4ec7d6f)] -> xpath: //input[@id='FirstName']]
+2023-05-14 23:05:932 INFO  RegisterPage :59 - Enter last name Smith to username field [[ChromeDriver: chrome on WINDOWS (7365cf4579d6bc98fb500fb1e4ec7d6f)] -> xpath: //input[@id='LastName']]
+2023-05-14 23:05:40 INFO  RegisterPage :70 - Enter email [[ChromeDriver: chrome on WINDOWS (7365cf4579d6bc98fb500fb1e4ec7d6f)] -> xpath: //input[@id='Email']]
+2023-05-14 23:05:137 INFO  RegisterPage :74 - Enter password Password1 to password field [[ChromeDriver: chrome on WINDOWS (7365cf4579d6bc98fb500fb1e4ec7d6f)] -> xpath: //input[@id='Password']]
+2023-05-14 23:05:231 INFO  RegisterPage :79 - Enter confirm password Password1 to confirm password field [[ChromeDriver: chrome on WINDOWS (7365cf4579d6bc98fb500fb1e4ec7d6f)] -> xpath: //input[@id='ConfirmPassword']]
+2023-05-14 23:05:316 INFO  RegisterPage :84 - click on button register next step 
+2023-05-14 23:05:938 INFO  RegistrationSuccessfulPage :30 - Get text successful registration
+2023-05-14 23:05:978 INFO  RegistrationSuccessfulPage :35 - click on continue button 
+2023-05-14 23:05:365 INFO  ShoppingCartPage :61 - Get text from shopping cart
+2023-05-14 23:05:401 INFO  LoginPage :45 - Click On Login Link
+2023-05-14 23:05:823 INFO  LoginPage :50 - Enter email  mocky3681210684bHt2mouse@gmail.com to Email  field [[ChromeDriver: chrome on WINDOWS (7365cf4579d6bc98fb500fb1e4ec7d6f)] -> css selector: #Email]
+2023-05-14 23:05:919 INFO  LoginPage :55 - Enter Password  Password1 to Password  field [[ChromeDriver: chrome on WINDOWS (7365cf4579d6bc98fb500fb1e4ec7d6f)] -> css selector: #Password]
+2023-05-14 23:05:42 INFO  LoginPage :61 - Click On Login Button
+2023-05-14 23:05:703 INFO  LoginPage :66 - click on check box 
+2023-05-14 23:05:837 INFO  LoginPage :71 - click on check out 
+2023-05-14 23:05:793 INFO  CheckOutAfterRegistrationPage :126 - Enter first name John to username field [[ChromeDriver: chrome on WINDOWS (7365cf4579d6bc98fb500fb1e4ec7d6f)] -> xpath: //input[@id='BillingNewAddress_FirstName']]
+2023-05-14 23:05:921 INFO  CheckOutAfterRegistrationPage :132 - Enter last name Smith to username field [[ChromeDriver: chrome on WINDOWS (7365cf4579d6bc98fb500fb1e4ec7d6f)] -> xpath: //input[@id='BillingNewAddress_LastName']]
+2023-05-14 23:05:51 INFO  CheckOutAfterRegistrationPage :138 - Enter email mocky3681210684bHt2mouse@gmail.com to username field [[ChromeDriver: chrome on WINDOWS (7365cf4579d6bc98fb500fb1e4ec7d6f)] -> xpath: //input[@id='BillingNewAddress_Email']]
+2023-05-14 23:05:173 INFO  CheckOutAfterRegistrationPage :144 - select country from dropdown list
+2023-05-14 23:05:383 INFO  CheckOutAfterRegistrationPage :149 - Enter city name London to username field [[ChromeDriver: chrome on WINDOWS (7365cf4579d6bc98fb500fb1e4ec7d6f)] -> xpath: //input[@id='BillingNewAddress_City']]
+2023-05-14 23:05:467 INFO  CheckOutAfterRegistrationPage :154 - Enter address 101 House to username field [[ChromeDriver: chrome on WINDOWS (7365cf4579d6bc98fb500fb1e4ec7d6f)] -> xpath: //input[@id='BillingNewAddress_Address1']]
+2023-05-14 23:05:587 INFO  CheckOutAfterRegistrationPage :159 - Enter postcode GS1 2FG to username field [[ChromeDriver: chrome on WINDOWS (7365cf4579d6bc98fb500fb1e4ec7d6f)] -> xpath: //input[@id='BillingNewAddress_ZipPostalCode']]
+2023-05-14 23:05:680 INFO  CheckOutAfterRegistrationPage :164 - Enter phone number 02022039384 to username field [[ChromeDriver: chrome on WINDOWS (7365cf4579d6bc98fb500fb1e4ec7d6f)] -> xpath: //input[@id='BillingNewAddress_PhoneNumber']]
+2023-05-14 23:05:752 INFO  CheckOutAfterRegistrationPage :169 - click on continue 
+2023-05-14 23:05:816 INFO  CheckOutAfterRegistrationPage :266 - click on radio button 2nd DayAir 
+2023-05-14 23:05:194 INFO  CheckOutAfterRegistrationPage :195 - click on button continue from payment method 
+2023-05-15 09:05:647 INFO  HomePage :59 - Mouse Hover On Electronics
+2023-05-15 09:05:833 INFO  HomePage :64 - Mouse Hover And Click OnCell Phone
+2023-05-15 09:05:911 INFO  CellPhonePage :31 - Get page title text of cell phone page
+2023-05-15 09:05:971 INFO  CellPhonePage :36 - click on list view icon[[ChromeDriver: chrome on WINDOWS (0943f30d7495e26deaf61b70a10bded8)] -> xpath: //a[contains(text(),'List')]]
+2023-05-15 09:05:54 INFO  CellPhonePage :42 - click on product nokia lumia 1020
+2023-05-15 09:05:293 INFO  NokiaLumia1020Page :50 - Actual Title Text Of Product NokiaLumia1020Page
+2023-05-15 09:05:338 INFO  NokiaLumia1020Page :55 - Actual Price  Of Product NokiaLumia1020
+2023-05-15 09:05:380 INFO  NokiaLumia1020Page :60 - Clear An Element Before Entering Qty
+2023-05-15 09:05:491 INFO  NokiaLumia1020Page :65 - Update the Quantity  2to Quantity Field[[ChromeDriver: chrome on WINDOWS (0943f30d7495e26deaf61b70a10bded8)] -> xpath: (//input[@id='product_enteredQuantity_20'])[1]]
+2023-05-15 09:05:622 INFO  NokiaLumia1020Page :70 - Click On Button Add To Cart From Page NokiaLumia1020
+2023-05-15 09:05:753 INFO  NokiaLumia1020Page :76 - Actual Message Of Product Being In Shopping Cart
+2023-05-15 09:05:805 INFO  NokiaLumia1020Page :81 - Click On Cross From Message
+2023-05-15 09:05:896 INFO  NokiaLumia1020Page :87 - Hover To Shopping Cart And Click On Add To Cart
+2023-05-15 09:05:504 INFO  ShoppingCartPage :61 - Get text from shopping cart
+2023-05-15 09:05:552 INFO  ShoppingCartPage :113 - verifyQuantity 
+2023-05-15 09:05:632 INFO  ShoppingCartPage :93 - Get text from total
+2023-05-15 09:05:672 INFO  ShoppingCartPage :99 - click on check box 
+2023-05-15 09:05:762 INFO  ShoppingCartPage :104 - click on check out 
+2023-05-15 09:05:533 INFO  CheckOutPage :69 - get text from welcome text
+2023-05-15 09:05:580 INFO  CheckOutPage :124 - click on button register 
+2023-05-15 09:05:47 INFO  RegisterPage :90 - get actual title text of register page
+2023-05-15 09:05:119 INFO  RegisterPage :54 - Enter first name John to username field [[ChromeDriver: chrome on WINDOWS (0943f30d7495e26deaf61b70a10bded8)] -> xpath: //input[@id='FirstName']]
+2023-05-15 09:05:231 INFO  RegisterPage :59 - Enter last name Smith to username field [[ChromeDriver: chrome on WINDOWS (0943f30d7495e26deaf61b70a10bded8)] -> xpath: //input[@id='LastName']]
+2023-05-15 09:05:359 INFO  RegisterPage :70 - Enter email [[ChromeDriver: chrome on WINDOWS (0943f30d7495e26deaf61b70a10bded8)] -> xpath: //input[@id='Email']]
+2023-05-15 09:05:481 INFO  RegisterPage :74 - Enter password Password1 to password field [[ChromeDriver: chrome on WINDOWS (0943f30d7495e26deaf61b70a10bded8)] -> xpath: //input[@id='Password']]
+2023-05-15 09:05:616 INFO  RegisterPage :79 - Enter confirm password Password1 to confirm password field [[ChromeDriver: chrome on WINDOWS (0943f30d7495e26deaf61b70a10bded8)] -> xpath: //input[@id='ConfirmPassword']]
+2023-05-15 09:05:724 INFO  RegisterPage :84 - click on button register next step 
+2023-05-15 09:05:507 INFO  RegistrationSuccessfulPage :30 - Get text successful registration
+2023-05-15 09:05:558 INFO  RegistrationSuccessfulPage :35 - click on continue button 
+2023-05-15 09:05:62 INFO  ShoppingCartPage :61 - Get text from shopping cart
+2023-05-15 09:05:97 INFO  LoginPage :45 - Click On Login Link
+2023-05-15 09:05:514 INFO  LoginPage :50 - Enter email  mocky368121068uoRXfmouse@gmail.com to Email  field [[ChromeDriver: chrome on WINDOWS (0943f30d7495e26deaf61b70a10bded8)] -> css selector: #Email]
+2023-05-15 09:05:624 INFO  LoginPage :55 - Enter Password  Password1 to Password  field [[ChromeDriver: chrome on WINDOWS (0943f30d7495e26deaf61b70a10bded8)] -> css selector: #Password]
+2023-05-15 09:05:740 INFO  LoginPage :61 - Click On Login Button
+2023-05-15 09:05:383 INFO  LoginPage :66 - click on check box 
+2023-05-15 09:05:485 INFO  LoginPage :71 - click on check out 
+2023-05-15 09:05:397 INFO  CheckOutAfterRegistrationPage :127 - Enter first name John to username field [[ChromeDriver: chrome on WINDOWS (0943f30d7495e26deaf61b70a10bded8)] -> xpath: //input[@id='BillingNewAddress_FirstName']]
+2023-05-15 09:05:602 INFO  CheckOutAfterRegistrationPage :133 - Enter last name Smith to username field [[ChromeDriver: chrome on WINDOWS (0943f30d7495e26deaf61b70a10bded8)] -> xpath: //input[@id='BillingNewAddress_LastName']]
+2023-05-15 09:05:804 INFO  CheckOutAfterRegistrationPage :139 - Enter email mocky368121068uoRXfmouse@gmail.com to username field [[ChromeDriver: chrome on WINDOWS (0943f30d7495e26deaf61b70a10bded8)] -> xpath: //input[@id='BillingNewAddress_Email']]
+2023-05-15 09:05:48 INFO  CheckOutAfterRegistrationPage :145 - select country from dropdown list
+2023-05-15 09:05:509 INFO  CheckOutAfterRegistrationPage :150 - Enter city name London to username field [[ChromeDriver: chrome on WINDOWS (0943f30d7495e26deaf61b70a10bded8)] -> xpath: //input[@id='BillingNewAddress_City']]
+2023-05-15 09:05:621 INFO  CheckOutAfterRegistrationPage :155 - Enter address 101 House to username field [[ChromeDriver: chrome on WINDOWS (0943f30d7495e26deaf61b70a10bded8)] -> xpath: //input[@id='BillingNewAddress_Address1']]
+2023-05-15 09:05:731 INFO  CheckOutAfterRegistrationPage :160 - Enter postcode GS1 2FG to username field [[ChromeDriver: chrome on WINDOWS (0943f30d7495e26deaf61b70a10bded8)] -> xpath: //input[@id='BillingNewAddress_ZipPostalCode']]
+2023-05-15 09:05:857 INFO  CheckOutAfterRegistrationPage :165 - Enter phone number 02022039384 to username field [[ChromeDriver: chrome on WINDOWS (0943f30d7495e26deaf61b70a10bded8)] -> xpath: //input[@id='BillingNewAddress_PhoneNumber']]
+2023-05-15 09:05:979 INFO  CheckOutAfterRegistrationPage :170 - click on continue 
+2023-05-15 09:05:72 INFO  CheckOutAfterRegistrationPage :267 - click on radio button 2nd DayAir 
+2023-05-15 09:05:526 INFO  CheckOutAfterRegistrationPage :196 - click on button continue from payment method 
+2023-05-15 09:05:506 INFO  HomePage :59 - Mouse Hover On Electronics
+2023-05-15 09:05:681 INFO  HomePage :64 - Mouse Hover And Click OnCell Phone
+2023-05-15 09:05:308 INFO  CellPhonePage :31 - Get page title text of cell phone page
+2023-05-15 09:05:351 INFO  CellPhonePage :36 - click on list view icon[[ChromeDriver: chrome on WINDOWS (ba5c6002ec63ad86d6e6cac3ea644b1a)] -> xpath: //a[contains(text(),'List')]]
+2023-05-15 09:05:427 INFO  CellPhonePage :42 - click on product nokia lumia 1020
+2023-05-15 09:05:293 INFO  NokiaLumia1020Page :50 - Actual Title Text Of Product NokiaLumia1020Page
+2023-05-15 09:05:333 INFO  NokiaLumia1020Page :55 - Actual Price  Of Product NokiaLumia1020
+2023-05-15 09:05:372 INFO  NokiaLumia1020Page :60 - Clear An Element Before Entering Qty
+2023-05-15 09:05:466 INFO  NokiaLumia1020Page :65 - Update the Quantity  2to Quantity Field[[ChromeDriver: chrome on WINDOWS (ba5c6002ec63ad86d6e6cac3ea644b1a)] -> xpath: (//input[@id='product_enteredQuantity_20'])[1]]
+2023-05-15 09:05:557 INFO  NokiaLumia1020Page :70 - Click On Button Add To Cart From Page NokiaLumia1020
+2023-05-15 09:05:644 INFO  NokiaLumia1020Page :76 - Actual Message Of Product Being In Shopping Cart
+2023-05-15 09:05:690 INFO  NokiaLumia1020Page :81 - Click On Cross From Message
+2023-05-15 09:05:760 INFO  NokiaLumia1020Page :87 - Hover To Shopping Cart And Click On Add To Cart
+2023-05-15 09:05:319 INFO  ShoppingCartPage :61 - Get text from shopping cart
+2023-05-15 09:05:374 INFO  ShoppingCartPage :113 - verifyQuantity 
+2023-05-15 09:05:451 INFO  ShoppingCartPage :93 - Get text from total
+2023-05-15 09:05:504 INFO  ShoppingCartPage :99 - click on check box 
+2023-05-15 09:05:619 INFO  ShoppingCartPage :104 - click on check out 
+2023-05-15 09:05:357 INFO  CheckOutPage :69 - get text from welcome text
+2023-05-15 09:05:399 INFO  CheckOutPage :124 - click on button register 
+2023-05-15 09:05:875 INFO  RegisterPage :90 - get actual title text of register page
+2023-05-15 09:05:939 INFO  RegisterPage :54 - Enter first name John to username field [[ChromeDriver: chrome on WINDOWS (ba5c6002ec63ad86d6e6cac3ea644b1a)] -> xpath: //input[@id='FirstName']]
+2023-05-15 09:05:38 INFO  RegisterPage :59 - Enter last name Smith to username field [[ChromeDriver: chrome on WINDOWS (ba5c6002ec63ad86d6e6cac3ea644b1a)] -> xpath: //input[@id='LastName']]
+2023-05-15 09:05:141 INFO  RegisterPage :70 - Enter email [[ChromeDriver: chrome on WINDOWS (ba5c6002ec63ad86d6e6cac3ea644b1a)] -> xpath: //input[@id='Email']]
+2023-05-15 09:05:269 INFO  RegisterPage :74 - Enter password Password1 to password field [[ChromeDriver: chrome on WINDOWS (ba5c6002ec63ad86d6e6cac3ea644b1a)] -> xpath: //input[@id='Password']]
+2023-05-15 09:05:391 INFO  RegisterPage :79 - Enter confirm password Password1 to confirm password field [[ChromeDriver: chrome on WINDOWS (ba5c6002ec63ad86d6e6cac3ea644b1a)] -> xpath: //input[@id='ConfirmPassword']]
+2023-05-15 09:05:476 INFO  RegisterPage :84 - click on button register next step 
+2023-05-15 09:05:247 INFO  RegistrationSuccessfulPage :30 - Get text successful registration
+2023-05-15 09:05:293 INFO  RegistrationSuccessfulPage :35 - click on continue button 
+2023-05-15 09:05:812 INFO  ShoppingCartPage :61 - Get text from shopping cart
+2023-05-15 09:05:855 INFO  LoginPage :45 - Click On Login Link
+2023-05-15 09:05:364 INFO  LoginPage :50 - Enter email  mocky368121068oLsHKmouse@gmail.com to Email  field [[ChromeDriver: chrome on WINDOWS (ba5c6002ec63ad86d6e6cac3ea644b1a)] -> css selector: #Email]
+2023-05-15 09:05:497 INFO  LoginPage :55 - Enter Password  Password1 to Password  field [[ChromeDriver: chrome on WINDOWS (ba5c6002ec63ad86d6e6cac3ea644b1a)] -> css selector: #Password]
+2023-05-15 09:05:622 INFO  LoginPage :61 - Click On Login Button
+2023-05-15 09:05:277 INFO  LoginPage :66 - click on check box 
+2023-05-15 09:05:368 INFO  LoginPage :71 - click on check out 
+2023-05-15 09:05:393 INFO  CheckOutAfterRegistrationPage :127 - Enter first name John to username field [[ChromeDriver: chrome on WINDOWS (ba5c6002ec63ad86d6e6cac3ea644b1a)] -> xpath: //input[@id='BillingNewAddress_FirstName']]
+2023-05-15 09:05:541 INFO  CheckOutAfterRegistrationPage :133 - Enter last name Smith to username field [[ChromeDriver: chrome on WINDOWS (ba5c6002ec63ad86d6e6cac3ea644b1a)] -> xpath: //input[@id='BillingNewAddress_LastName']]
+2023-05-15 09:05:693 INFO  CheckOutAfterRegistrationPage :139 - Enter email mocky368121068oLsHKmouse@gmail.com to username field [[ChromeDriver: chrome on WINDOWS (ba5c6002ec63ad86d6e6cac3ea644b1a)] -> xpath: //input[@id='BillingNewAddress_Email']]
+2023-05-15 09:05:857 INFO  CheckOutAfterRegistrationPage :145 - select country from dropdown list
+2023-05-15 09:05:203 INFO  CheckOutAfterRegistrationPage :150 - Enter city name London to username field [[ChromeDriver: chrome on WINDOWS (ba5c6002ec63ad86d6e6cac3ea644b1a)] -> xpath: //input[@id='BillingNewAddress_City']]
+2023-05-15 09:05:314 INFO  CheckOutAfterRegistrationPage :155 - Enter address 101 House to username field [[ChromeDriver: chrome on WINDOWS (ba5c6002ec63ad86d6e6cac3ea644b1a)] -> xpath: //input[@id='BillingNewAddress_Address1']]
+2023-05-15 09:05:414 INFO  CheckOutAfterRegistrationPage :160 - Enter postcode GS1 2FG to username field [[ChromeDriver: chrome on WINDOWS (ba5c6002ec63ad86d6e6cac3ea644b1a)] -> xpath: //input[@id='BillingNewAddress_ZipPostalCode']]
+2023-05-15 09:05:515 INFO  CheckOutAfterRegistrationPage :165 - Enter phone number 02022039384 to username field [[ChromeDriver: chrome on WINDOWS (ba5c6002ec63ad86d6e6cac3ea644b1a)] -> xpath: //input[@id='BillingNewAddress_PhoneNumber']]
+2023-05-15 09:05:600 INFO  CheckOutAfterRegistrationPage :170 - click on continue 
+2023-05-15 09:05:683 INFO  CheckOutAfterRegistrationPage :267 - click on radio button 2nd DayAir 
+2023-05-15 09:05:110 INFO  CheckOutAfterRegistrationPage :196 - click on button continue from payment method 
+2023-05-15 11:05:158 INFO  HomePage :39 - Select Menu
+2023-05-15 11:05:655 INFO  HomePage :59 - Mouse Hover On Electronics
+2023-05-15 11:05:400 INFO  HomePage :64 - Mouse Hover And Click OnCell Phone
+2023-05-15 11:05:981 INFO  CellPhonePage :31 - Get page title text of cell phone page
+2023-05-15 11:05:88 INFO  CellPhonePage :36 - click on list view icon[[ChromeDriver: chrome on WINDOWS (5d4aaea5e270696dd0f8596eba63dd2f)] -> xpath: //a[contains(text(),'List')]]
+2023-05-15 11:05:217 INFO  CellPhonePage :42 - click on product nokia lumia 1020
+2023-05-15 11:05:380 INFO  NokiaLumia1020Page :50 - Actual Title Text Of Product NokiaLumia1020Page
+2023-05-15 11:05:442 INFO  NokiaLumia1020Page :55 - Actual Price  Of Product NokiaLumia1020
+2023-05-15 11:05:512 INFO  NokiaLumia1020Page :60 - Clear An Element Before Entering Qty
+2023-05-15 11:05:656 INFO  NokiaLumia1020Page :65 - Update the Quantity  2to Quantity Field[[ChromeDriver: chrome on WINDOWS (5d4aaea5e270696dd0f8596eba63dd2f)] -> xpath: (//input[@id='product_enteredQuantity_20'])[1]]
+2023-05-15 11:05:771 INFO  NokiaLumia1020Page :70 - Click On Button Add To Cart From Page NokiaLumia1020
+2023-05-15 11:05:904 INFO  NokiaLumia1020Page :76 - Actual Message Of Product Being In Shopping Cart
+2023-05-15 11:05:948 INFO  NokiaLumia1020Page :81 - Click On Cross From Message
+2023-05-15 11:05:63 INFO  NokiaLumia1020Page :87 - Hover To Shopping Cart And Click On Add To Cart
+2023-05-15 11:05:720 INFO  ShoppingCartPage :61 - Get text from shopping cart
+2023-05-15 11:05:781 INFO  ShoppingCartPage :113 - verifyQuantity 
+2023-05-15 11:05:884 INFO  ShoppingCartPage :93 - Get text from total
+2023-05-15 11:05:944 INFO  ShoppingCartPage :99 - click on check box 
+2023-05-15 11:05:107 INFO  ShoppingCartPage :104 - click on check out 
+2023-05-15 11:05:823 INFO  CheckOutPage :69 - get text from welcome text
+2023-05-15 11:05:907 INFO  CheckOutPage :124 - click on button register 
+2023-05-15 11:05:408 INFO  RegisterPage :90 - get actual title text of register page
+2023-05-15 11:05:499 INFO  RegisterPage :54 - Enter first name John to username field [[ChromeDriver: chrome on WINDOWS (5d4aaea5e270696dd0f8596eba63dd2f)] -> xpath: //input[@id='FirstName']]
+2023-05-15 11:05:679 INFO  RegisterPage :59 - Enter last name Smith to username field [[ChromeDriver: chrome on WINDOWS (5d4aaea5e270696dd0f8596eba63dd2f)] -> xpath: //input[@id='LastName']]
+2023-05-15 11:05:854 INFO  RegisterPage :70 - Enter email [[ChromeDriver: chrome on WINDOWS (5d4aaea5e270696dd0f8596eba63dd2f)] -> xpath: //input[@id='Email']]
+2023-05-15 11:05:996 INFO  RegisterPage :74 - Enter password Password1 to password field [[ChromeDriver: chrome on WINDOWS (5d4aaea5e270696dd0f8596eba63dd2f)] -> xpath: //input[@id='Password']]
+2023-05-15 11:05:150 INFO  RegisterPage :79 - Enter confirm password Password1 to confirm password field [[ChromeDriver: chrome on WINDOWS (5d4aaea5e270696dd0f8596eba63dd2f)] -> xpath: //input[@id='ConfirmPassword']]
+2023-05-15 11:05:278 INFO  RegisterPage :84 - click on button register next step 
+2023-05-15 11:05:84 INFO  RegistrationSuccessfulPage :30 - Get text successful registration
+2023-05-15 11:05:132 INFO  RegistrationSuccessfulPage :35 - click on continue button 
+2023-05-15 11:05:625 INFO  ShoppingCartPage :61 - Get text from shopping cart
+2023-05-15 11:05:664 INFO  LoginPage :45 - Click On Login Link
+2023-05-15 11:05:210 INFO  LoginPage :50 - Enter email  mocky368121068ZHmSQmouse@gmail.com to Email  field [[ChromeDriver: chrome on WINDOWS (5d4aaea5e270696dd0f8596eba63dd2f)] -> css selector: #Email]
+2023-05-15 11:05:419 INFO  LoginPage :55 - Enter Password  Password1 to Password  field [[ChromeDriver: chrome on WINDOWS (5d4aaea5e270696dd0f8596eba63dd2f)] -> css selector: #Password]
+2023-05-15 11:05:546 INFO  LoginPage :61 - Click On Login Button
+2023-05-15 11:05:312 INFO  LoginPage :66 - click on check box 
+2023-05-15 11:05:637 INFO  LoginPage :71 - click on check out 
+2023-05-15 11:05:917 INFO  CheckOutAfterRegistrationPage :127 - Enter first name John to username field [[ChromeDriver: chrome on WINDOWS (5d4aaea5e270696dd0f8596eba63dd2f)] -> xpath: //input[@id='BillingNewAddress_FirstName']]
+2023-05-15 11:05:150 INFO  CheckOutAfterRegistrationPage :133 - Enter last name Smith to username field [[ChromeDriver: chrome on WINDOWS (5d4aaea5e270696dd0f8596eba63dd2f)] -> xpath: //input[@id='BillingNewAddress_LastName']]
+2023-05-15 11:05:358 INFO  CheckOutAfterRegistrationPage :139 - Enter email mocky368121068ZHmSQmouse@gmail.com to username field [[ChromeDriver: chrome on WINDOWS (5d4aaea5e270696dd0f8596eba63dd2f)] -> xpath: //input[@id='BillingNewAddress_Email']]
+2023-05-15 11:05:542 INFO  CheckOutAfterRegistrationPage :145 - select country from dropdown list
+2023-05-15 11:05:852 INFO  CheckOutAfterRegistrationPage :150 - Enter city name London to username field [[ChromeDriver: chrome on WINDOWS (5d4aaea5e270696dd0f8596eba63dd2f)] -> xpath: //input[@id='BillingNewAddress_City']]
+2023-05-15 11:05:11 INFO  CheckOutAfterRegistrationPage :155 - Enter address 101 House to username field [[ChromeDriver: chrome on WINDOWS (5d4aaea5e270696dd0f8596eba63dd2f)] -> xpath: //input[@id='BillingNewAddress_Address1']]
+2023-05-15 11:05:189 INFO  CheckOutAfterRegistrationPage :160 - Enter postcode GS1 2FG to username field [[ChromeDriver: chrome on WINDOWS (5d4aaea5e270696dd0f8596eba63dd2f)] -> xpath: //input[@id='BillingNewAddress_ZipPostalCode']]
+2023-05-15 11:05:322 INFO  CheckOutAfterRegistrationPage :165 - Enter phone number 02022039384 to username field [[ChromeDriver: chrome on WINDOWS (5d4aaea5e270696dd0f8596eba63dd2f)] -> xpath: //input[@id='BillingNewAddress_PhoneNumber']]
+2023-05-15 11:05:476 INFO  CheckOutAfterRegistrationPage :170 - click on continue 
+2023-05-15 11:05:605 INFO  CheckOutAfterRegistrationPage :267 - click on radio button 2nd DayAir 
+2023-05-15 11:05:42 INFO  CheckOutAfterRegistrationPage :183 - click on button continue from shipping method 
+2023-05-15 11:05:935 INFO  HomePage :59 - Mouse Hover On Electronics
+2023-05-15 11:05:430 INFO  HomePage :64 - Mouse Hover And Click OnCell Phone
+2023-05-15 11:05:673 INFO  CellPhonePage :31 - Get page title text of cell phone page
+2023-05-15 11:05:782 INFO  CellPhonePage :36 - click on list view icon[[ChromeDriver: chrome on WINDOWS (076ef1cc99a844f3a992242a2ad3739a)] -> xpath: //a[contains(text(),'List')]]
+2023-05-15 11:05:914 INFO  CellPhonePage :42 - click on product nokia lumia 1020
+2023-05-15 11:05:998 INFO  NokiaLumia1020Page :50 - Actual Title Text Of Product NokiaLumia1020Page
+2023-05-15 11:05:45 INFO  NokiaLumia1020Page :55 - Actual Price  Of Product NokiaLumia1020
+2023-05-15 11:05:99 INFO  NokiaLumia1020Page :60 - Clear An Element Before Entering Qty
+2023-05-15 11:05:251 INFO  NokiaLumia1020Page :65 - Update the Quantity  2to Quantity Field[[ChromeDriver: chrome on WINDOWS (076ef1cc99a844f3a992242a2ad3739a)] -> xpath: (//input[@id='product_enteredQuantity_20'])[1]]
+2023-05-15 11:05:375 INFO  NokiaLumia1020Page :70 - Click On Button Add To Cart From Page NokiaLumia1020
+2023-05-15 11:05:503 INFO  NokiaLumia1020Page :76 - Actual Message Of Product Being In Shopping Cart
+2023-05-15 11:05:544 INFO  NokiaLumia1020Page :81 - Click On Cross From Message
+2023-05-15 11:05:676 INFO  NokiaLumia1020Page :87 - Hover To Shopping Cart And Click On Add To Cart
+2023-05-15 11:05:372 INFO  ShoppingCartPage :61 - Get text from shopping cart
+2023-05-15 11:05:427 INFO  ShoppingCartPage :113 - verifyQuantity 
+2023-05-15 11:05:527 INFO  ShoppingCartPage :93 - Get text from total
+2023-05-15 11:05:580 INFO  ShoppingCartPage :99 - click on check box 
+2023-05-15 11:05:859 INFO  ShoppingCartPage :104 - click on check out 
+2023-05-15 11:05:562 INFO  CheckOutPage :69 - get text from welcome text
+2023-05-15 11:05:634 INFO  CheckOutPage :124 - click on button register 
+2023-05-15 11:05:143 INFO  RegisterPage :90 - get actual title text of register page
+2023-05-15 11:05:217 INFO  RegisterPage :54 - Enter first name John to username field [[ChromeDriver: chrome on WINDOWS (076ef1cc99a844f3a992242a2ad3739a)] -> xpath: //input[@id='FirstName']]
+2023-05-15 11:05:363 INFO  RegisterPage :59 - Enter last name Smith to username field [[ChromeDriver: chrome on WINDOWS (076ef1cc99a844f3a992242a2ad3739a)] -> xpath: //input[@id='LastName']]
+2023-05-15 11:05:495 INFO  RegisterPage :70 - Enter email [[ChromeDriver: chrome on WINDOWS (076ef1cc99a844f3a992242a2ad3739a)] -> xpath: //input[@id='Email']]
+2023-05-15 11:05:649 INFO  RegisterPage :74 - Enter password Password1 to password field [[ChromeDriver: chrome on WINDOWS (076ef1cc99a844f3a992242a2ad3739a)] -> xpath: //input[@id='Password']]
+2023-05-15 11:05:799 INFO  RegisterPage :79 - Enter confirm password Password1 to confirm password field [[ChromeDriver: chrome on WINDOWS (076ef1cc99a844f3a992242a2ad3739a)] -> xpath: //input[@id='ConfirmPassword']]
+2023-05-15 11:05:917 INFO  RegisterPage :84 - click on button register next step 
+2023-05-15 11:05:526 INFO  RegistrationSuccessfulPage :30 - Get text successful registration
+2023-05-15 11:05:571 INFO  RegistrationSuccessfulPage :35 - click on continue button 
+2023-05-15 11:05:70 INFO  ShoppingCartPage :61 - Get text from shopping cart
+2023-05-15 11:05:113 INFO  LoginPage :45 - Click On Login Link
+2023-05-15 11:05:696 INFO  LoginPage :50 - Enter email  mocky368121068bwK32mouse@gmail.com to Email  field [[ChromeDriver: chrome on WINDOWS (076ef1cc99a844f3a992242a2ad3739a)] -> css selector: #Email]
+2023-05-15 11:05:901 INFO  LoginPage :55 - Enter Password  Password1 to Password  field [[ChromeDriver: chrome on WINDOWS (076ef1cc99a844f3a992242a2ad3739a)] -> css selector: #Password]
+2023-05-15 11:05:998 INFO  LoginPage :61 - Click On Login Button
+2023-05-15 11:05:895 INFO  LoginPage :66 - click on check box 
+2023-05-15 11:05:158 INFO  LoginPage :71 - click on check out 
+2023-05-15 11:05:324 INFO  CheckOutAfterRegistrationPage :127 - Enter first name John to username field [[ChromeDriver: chrome on WINDOWS (076ef1cc99a844f3a992242a2ad3739a)] -> xpath: //input[@id='BillingNewAddress_FirstName']]
+2023-05-15 11:05:506 INFO  CheckOutAfterRegistrationPage :133 - Enter last name Smith to username field [[ChromeDriver: chrome on WINDOWS (076ef1cc99a844f3a992242a2ad3739a)] -> xpath: //input[@id='BillingNewAddress_LastName']]
+2023-05-15 11:05:705 INFO  CheckOutAfterRegistrationPage :139 - Enter email mocky368121068bwK32mouse@gmail.com to username field [[ChromeDriver: chrome on WINDOWS (076ef1cc99a844f3a992242a2ad3739a)] -> xpath: //input[@id='BillingNewAddress_Email']]
+2023-05-15 11:05:877 INFO  CheckOutAfterRegistrationPage :145 - select country from dropdown list
+2023-05-15 11:05:253 INFO  CheckOutAfterRegistrationPage :150 - Enter city name London to username field [[ChromeDriver: chrome on WINDOWS (076ef1cc99a844f3a992242a2ad3739a)] -> xpath: //input[@id='BillingNewAddress_City']]
+2023-05-15 11:05:435 INFO  CheckOutAfterRegistrationPage :155 - Enter address 101 House to username field [[ChromeDriver: chrome on WINDOWS (076ef1cc99a844f3a992242a2ad3739a)] -> xpath: //input[@id='BillingNewAddress_Address1']]
+2023-05-15 11:05:567 INFO  CheckOutAfterRegistrationPage :160 - Enter postcode GS1 2FG to username field [[ChromeDriver: chrome on WINDOWS (076ef1cc99a844f3a992242a2ad3739a)] -> xpath: //input[@id='BillingNewAddress_ZipPostalCode']]
+2023-05-15 11:05:712 INFO  CheckOutAfterRegistrationPage :165 - Enter phone number 02022039384 to username field [[ChromeDriver: chrome on WINDOWS (076ef1cc99a844f3a992242a2ad3739a)] -> xpath: //input[@id='BillingNewAddress_PhoneNumber']]
+2023-05-15 11:05:870 INFO  CheckOutAfterRegistrationPage :170 - click on continue 
+2023-05-15 11:05:992 INFO  CheckOutAfterRegistrationPage :267 - click on radio button 2nd DayAir 
+2023-05-15 11:05:88 INFO  CheckOutAfterRegistrationPage :183 - click on button continue from shipping method 
+2023-05-15 11:05:366 INFO  HomePage :59 - Mouse Hover On Electronics
+2023-05-15 11:05:660 INFO  HomePage :64 - Mouse Hover And Click OnCell Phone
+2023-05-15 11:05:64 INFO  CellPhonePage :31 - Get page title text of cell phone page
+2023-05-15 11:05:164 INFO  CellPhonePage :36 - click on list view icon[[ChromeDriver: chrome on WINDOWS (10672659183a9187a4fc553919cb600f)] -> xpath: //a[contains(text(),'List')]]
+2023-05-15 11:05:284 INFO  CellPhonePage :42 - click on product nokia lumia 1020
+2023-05-15 11:05:371 INFO  NokiaLumia1020Page :50 - Actual Title Text Of Product NokiaLumia1020Page
+2023-05-15 11:05:429 INFO  NokiaLumia1020Page :55 - Actual Price  Of Product NokiaLumia1020
+2023-05-15 11:05:493 INFO  NokiaLumia1020Page :60 - Clear An Element Before Entering Qty
+2023-05-15 11:05:678 INFO  NokiaLumia1020Page :65 - Update the Quantity  2to Quantity Field[[ChromeDriver: chrome on WINDOWS (10672659183a9187a4fc553919cb600f)] -> xpath: (//input[@id='product_enteredQuantity_20'])[1]]
+2023-05-15 11:05:780 INFO  NokiaLumia1020Page :70 - Click On Button Add To Cart From Page NokiaLumia1020
+2023-05-15 11:05:892 INFO  NokiaLumia1020Page :76 - Actual Message Of Product Being In Shopping Cart
+2023-05-15 11:05:951 INFO  NokiaLumia1020Page :81 - Click On Cross From Message
+2023-05-15 11:05:43 INFO  NokiaLumia1020Page :87 - Hover To Shopping Cart And Click On Add To Cart
+2023-05-15 11:05:748 INFO  ShoppingCartPage :61 - Get text from shopping cart
+2023-05-15 11:05:811 INFO  ShoppingCartPage :113 - verifyQuantity 
+2023-05-15 11:05:900 INFO  ShoppingCartPage :93 - Get text from total
+2023-05-15 11:05:950 INFO  ShoppingCartPage :99 - click on check box 
+2023-05-15 11:05:89 INFO  ShoppingCartPage :104 - click on check out 
+2023-05-15 11:05:752 INFO  CheckOutPage :69 - get text from welcome text
+2023-05-15 11:05:877 INFO  CheckOutPage :124 - click on button register 
+2023-05-15 11:05:388 INFO  RegisterPage :90 - get actual title text of register page
+2023-05-15 11:05:465 INFO  RegisterPage :54 - Enter first name John to username field [[ChromeDriver: chrome on WINDOWS (10672659183a9187a4fc553919cb600f)] -> xpath: //input[@id='FirstName']]
+2023-05-15 11:05:629 INFO  RegisterPage :59 - Enter last name Smith to username field [[ChromeDriver: chrome on WINDOWS (10672659183a9187a4fc553919cb600f)] -> xpath: //input[@id='LastName']]
+2023-05-15 11:05:787 INFO  RegisterPage :70 - Enter email [[ChromeDriver: chrome on WINDOWS (10672659183a9187a4fc553919cb600f)] -> xpath: //input[@id='Email']]
+2023-05-15 11:05:941 INFO  RegisterPage :74 - Enter password Password1 to password field [[ChromeDriver: chrome on WINDOWS (10672659183a9187a4fc553919cb600f)] -> xpath: //input[@id='Password']]
+2023-05-15 11:05:119 INFO  RegisterPage :79 - Enter confirm password Password1 to confirm password field [[ChromeDriver: chrome on WINDOWS (10672659183a9187a4fc553919cb600f)] -> xpath: //input[@id='ConfirmPassword']]
+2023-05-15 11:05:240 INFO  RegisterPage :84 - click on button register next step 
+2023-05-15 11:05:959 INFO  RegistrationSuccessfulPage :30 - Get text successful registration
+2023-05-15 11:05:19 INFO  RegistrationSuccessfulPage :35 - click on continue button 
+2023-05-15 11:05:562 INFO  ShoppingCartPage :61 - Get text from shopping cart
+2023-05-15 11:05:606 INFO  LoginPage :45 - Click On Login Link
+2023-05-15 11:05:132 INFO  LoginPage :50 - Enter email  mocky3681210682ULIkmouse@gmail.com to Email  field [[ChromeDriver: chrome on WINDOWS (10672659183a9187a4fc553919cb600f)] -> css selector: #Email]
+2023-05-15 11:05:371 INFO  LoginPage :55 - Enter Password  Password1 to Password  field [[ChromeDriver: chrome on WINDOWS (10672659183a9187a4fc553919cb600f)] -> css selector: #Password]
+2023-05-15 11:05:486 INFO  LoginPage :61 - Click On Login Button
+2023-05-15 11:05:246 INFO  LoginPage :66 - click on check box 
+2023-05-15 11:05:540 INFO  LoginPage :71 - click on check out 
+2023-05-15 11:05:626 INFO  CheckOutAfterRegistrationPage :127 - Enter first name John to username field [[ChromeDriver: chrome on WINDOWS (10672659183a9187a4fc553919cb600f)] -> xpath: //input[@id='BillingNewAddress_FirstName']]
+2023-05-15 11:05:824 INFO  CheckOutAfterRegistrationPage :133 - Enter last name Smith to username field [[ChromeDriver: chrome on WINDOWS (10672659183a9187a4fc553919cb600f)] -> xpath: //input[@id='BillingNewAddress_LastName']]
+2023-05-15 11:05:34 INFO  CheckOutAfterRegistrationPage :139 - Enter email mocky3681210682ULIkmouse@gmail.com to username field [[ChromeDriver: chrome on WINDOWS (10672659183a9187a4fc553919cb600f)] -> xpath: //input[@id='BillingNewAddress_Email']]
+2023-05-15 11:05:197 INFO  CheckOutAfterRegistrationPage :145 - select country from dropdown list
+2023-05-15 11:05:546 INFO  CheckOutAfterRegistrationPage :150 - Enter city name London to username field [[ChromeDriver: chrome on WINDOWS (10672659183a9187a4fc553919cb600f)] -> xpath: //input[@id='BillingNewAddress_City']]
+2023-05-15 11:05:708 INFO  CheckOutAfterRegistrationPage :155 - Enter address 101 House to username field [[ChromeDriver: chrome on WINDOWS (10672659183a9187a4fc553919cb600f)] -> xpath: //input[@id='BillingNewAddress_Address1']]
+2023-05-15 11:05:850 INFO  CheckOutAfterRegistrationPage :160 - Enter postcode GS1 2FG to username field [[ChromeDriver: chrome on WINDOWS (10672659183a9187a4fc553919cb600f)] -> xpath: //input[@id='BillingNewAddress_ZipPostalCode']]
+2023-05-15 11:05:01 INFO  CheckOutAfterRegistrationPage :165 - Enter phone number 02022039384 to username field [[ChromeDriver: chrome on WINDOWS (10672659183a9187a4fc553919cb600f)] -> xpath: //input[@id='BillingNewAddress_PhoneNumber']]
+2023-05-15 11:05:139 INFO  CheckOutAfterRegistrationPage :170 - click on continue 
+2023-05-15 11:05:242 INFO  CheckOutAfterRegistrationPage :267 - click on radio button 2nd DayAir 
+2023-05-15 11:05:336 INFO  CheckOutAfterRegistrationPage :183 - click on button continue from shipping method 
+2023-05-15 11:05:708 INFO  HomePage :59 - Mouse Hover On Electronics
+2023-05-15 11:05:932 INFO  HomePage :64 - Mouse Hover And Click OnCell Phone
+2023-05-15 11:05:880 INFO  CellPhonePage :31 - Get page title text of cell phone page
+2023-05-15 11:05:974 INFO  CellPhonePage :36 - click on list view icon[[ChromeDriver: chrome on WINDOWS (270c52d6acaa0d3f80ad2ea1fdc54b5d)] -> xpath: //a[contains(text(),'List')]]
+2023-05-15 11:05:129 INFO  CellPhonePage :42 - click on product nokia lumia 1020
+2023-05-15 11:05:375 INFO  NokiaLumia1020Page :50 - Actual Title Text Of Product NokiaLumia1020Page
+2023-05-15 11:05:426 INFO  NokiaLumia1020Page :55 - Actual Price  Of Product NokiaLumia1020
+2023-05-15 11:05:477 INFO  NokiaLumia1020Page :60 - Clear An Element Before Entering Qty
+2023-05-15 11:05:635 INFO  NokiaLumia1020Page :65 - Update the Quantity  2to Quantity Field[[ChromeDriver: chrome on WINDOWS (270c52d6acaa0d3f80ad2ea1fdc54b5d)] -> xpath: (//input[@id='product_enteredQuantity_20'])[1]]
+2023-05-15 11:05:757 INFO  NokiaLumia1020Page :70 - Click On Button Add To Cart From Page NokiaLumia1020
+2023-05-15 11:05:875 INFO  NokiaLumia1020Page :76 - Actual Message Of Product Being In Shopping Cart
+2023-05-15 11:05:929 INFO  NokiaLumia1020Page :81 - Click On Cross From Message
+2023-05-15 11:05:100 INFO  NokiaLumia1020Page :87 - Hover To Shopping Cart And Click On Add To Cart
+2023-05-15 11:05:752 INFO  ShoppingCartPage :61 - Get text from shopping cart
+2023-05-15 11:05:808 INFO  ShoppingCartPage :113 - verifyQuantity 
+2023-05-15 11:05:903 INFO  ShoppingCartPage :93 - Get text from total
+2023-05-15 11:05:960 INFO  ShoppingCartPage :99 - click on check box 
+2023-05-15 11:05:89 INFO  ShoppingCartPage :104 - click on check out 
+2023-05-15 11:05:782 INFO  CheckOutPage :69 - get text from welcome text
+2023-05-15 11:05:849 INFO  CheckOutPage :124 - click on button register 
+2023-05-15 11:05:348 INFO  RegisterPage :90 - get actual title text of register page
+2023-05-15 11:05:432 INFO  RegisterPage :54 - Enter first name John to username field [[ChromeDriver: chrome on WINDOWS (270c52d6acaa0d3f80ad2ea1fdc54b5d)] -> xpath: //input[@id='FirstName']]
+2023-05-15 11:05:571 INFO  RegisterPage :59 - Enter last name Smith to username field [[ChromeDriver: chrome on WINDOWS (270c52d6acaa0d3f80ad2ea1fdc54b5d)] -> xpath: //input[@id='LastName']]
+2023-05-15 11:05:712 INFO  RegisterPage :70 - Enter email [[ChromeDriver: chrome on WINDOWS (270c52d6acaa0d3f80ad2ea1fdc54b5d)] -> xpath: //input[@id='Email']]
+2023-05-15 11:05:869 INFO  RegisterPage :74 - Enter password Password1 to password field [[ChromeDriver: chrome on WINDOWS (270c52d6acaa0d3f80ad2ea1fdc54b5d)] -> xpath: //input[@id='Password']]
+2023-05-15 11:05:37 INFO  RegisterPage :79 - Enter confirm password Password1 to confirm password field [[ChromeDriver: chrome on WINDOWS (270c52d6acaa0d3f80ad2ea1fdc54b5d)] -> xpath: //input[@id='ConfirmPassword']]
+2023-05-15 11:05:165 INFO  RegisterPage :84 - click on button register next step 
+2023-05-15 11:05:854 INFO  RegistrationSuccessfulPage :30 - Get text successful registration
+2023-05-15 11:05:893 INFO  RegistrationSuccessfulPage :35 - click on continue button 
+2023-05-15 11:05:414 INFO  ShoppingCartPage :61 - Get text from shopping cart
+2023-05-15 11:05:453 INFO  LoginPage :45 - Click On Login Link
+2023-05-15 11:05:926 INFO  LoginPage :50 - Enter email  mocky3681210682jT45mouse@gmail.com to Email  field [[ChromeDriver: chrome on WINDOWS (270c52d6acaa0d3f80ad2ea1fdc54b5d)] -> css selector: #Email]
+2023-05-15 11:05:103 INFO  LoginPage :55 - Enter Password  Password1 to Password  field [[ChromeDriver: chrome on WINDOWS (270c52d6acaa0d3f80ad2ea1fdc54b5d)] -> css selector: #Password]
+2023-05-15 11:05:214 INFO  LoginPage :61 - Click On Login Button
+2023-05-15 11:05:794 INFO  LoginPage :66 - click on check box 
+2023-05-15 11:05:116 INFO  LoginPage :71 - click on check out 
+2023-05-15 11:05:284 INFO  CheckOutAfterRegistrationPage :126 - Enter first name John to username field [[ChromeDriver: chrome on WINDOWS (270c52d6acaa0d3f80ad2ea1fdc54b5d)] -> xpath: //input[@id='BillingNewAddress_FirstName']]
+2023-05-15 11:05:472 INFO  CheckOutAfterRegistrationPage :132 - Enter last name Smith to username field [[ChromeDriver: chrome on WINDOWS (270c52d6acaa0d3f80ad2ea1fdc54b5d)] -> xpath: //input[@id='BillingNewAddress_LastName']]
+2023-05-15 11:05:655 INFO  CheckOutAfterRegistrationPage :138 - Enter email mocky3681210682jT45mouse@gmail.com to username field [[ChromeDriver: chrome on WINDOWS (270c52d6acaa0d3f80ad2ea1fdc54b5d)] -> xpath: //input[@id='BillingNewAddress_Email']]
+2023-05-15 11:05:878 INFO  CheckOutAfterRegistrationPage :144 - select country from dropdown list
+2023-05-15 11:05:281 INFO  CheckOutAfterRegistrationPage :149 - Enter city name London to username field [[ChromeDriver: chrome on WINDOWS (270c52d6acaa0d3f80ad2ea1fdc54b5d)] -> xpath: //input[@id='BillingNewAddress_City']]
+2023-05-15 11:05:434 INFO  CheckOutAfterRegistrationPage :154 - Enter address 101 House to username field [[ChromeDriver: chrome on WINDOWS (270c52d6acaa0d3f80ad2ea1fdc54b5d)] -> xpath: //input[@id='BillingNewAddress_Address1']]
+2023-05-15 11:05:641 INFO  CheckOutAfterRegistrationPage :159 - Enter postcode GS1 2FG to username field [[ChromeDriver: chrome on WINDOWS (270c52d6acaa0d3f80ad2ea1fdc54b5d)] -> xpath: //input[@id='BillingNewAddress_ZipPostalCode']]
+2023-05-15 11:05:813 INFO  CheckOutAfterRegistrationPage :164 - Enter phone number 02022039384 to username field [[ChromeDriver: chrome on WINDOWS (270c52d6acaa0d3f80ad2ea1fdc54b5d)] -> xpath: //input[@id='BillingNewAddress_PhoneNumber']]
+2023-05-15 11:05:992 INFO  CheckOutAfterRegistrationPage :169 - click on continue 
+2023-05-15 11:05:112 INFO  CheckOutAfterRegistrationPage :266 - click on radio button 2nd DayAir 
+2023-05-15 11:05:207 INFO  CheckOutAfterRegistrationPage :182 - click on button continue from shipping method 
+2023-05-15 11:05:286 INFO  CheckOutAfterRegistrationPage :189 - click on radio button credit card 
+2023-05-15 11:05:600 INFO  CheckOutAfterRegistrationPage :195 - click on button continue from payment method 
+2023-05-15 11:05:680 INFO  CheckOutAfterRegistrationPage :201 - click on drop down select card 
+2023-05-15 11:05:12 INFO  CheckOutAfterRegistrationPage :207 - Enter card holder name Mr Smith to username field [[ChromeDriver: chrome on WINDOWS (270c52d6acaa0d3f80ad2ea1fdc54b5d)] -> xpath: //input[@id='CardholderName']]
+2023-05-15 11:05:153 INFO  CheckOutAfterRegistrationPage :213 - Enter card number 5105105105105100 to username field [[ChromeDriver: chrome on WINDOWS (270c52d6acaa0d3f80ad2ea1fdc54b5d)] -> xpath: //input[@id='CardNumber']]
+2023-05-15 11:05:276 INFO  CheckOutAfterRegistrationPage :219 - select month from dropdown 
+2023-05-15 11:05:421 INFO  CheckOutAfterRegistrationPage :225 - select year from dropdown 
+2023-05-15 11:05:525 INFO  CheckOutAfterRegistrationPage :225 - select year from dropdown 
+2023-05-15 11:05:313 INFO  HomePage :59 - Mouse Hover On Electronics
+2023-05-15 11:05:614 INFO  HomePage :64 - Mouse Hover And Click OnCell Phone
+2023-05-15 11:05:07 INFO  CellPhonePage :31 - Get page title text of cell phone page
+2023-05-15 11:05:139 INFO  CellPhonePage :36 - click on list view icon[[ChromeDriver: chrome on WINDOWS (c770258c0dcf6dea16f65a31b6358bca)] -> xpath: //a[contains(text(),'List')]]
+2023-05-15 11:05:281 INFO  CellPhonePage :42 - click on product nokia lumia 1020
+2023-05-15 11:05:485 INFO  NokiaLumia1020Page :50 - Actual Title Text Of Product NokiaLumia1020Page
+2023-05-15 11:05:528 INFO  NokiaLumia1020Page :55 - Actual Price  Of Product NokiaLumia1020
+2023-05-15 11:05:587 INFO  NokiaLumia1020Page :60 - Clear An Element Before Entering Qty
+2023-05-15 11:05:735 INFO  NokiaLumia1020Page :65 - Update the Quantity  2to Quantity Field[[ChromeDriver: chrome on WINDOWS (c770258c0dcf6dea16f65a31b6358bca)] -> xpath: (//input[@id='product_enteredQuantity_20'])[1]]
+2023-05-15 11:05:833 INFO  NokiaLumia1020Page :70 - Click On Button Add To Cart From Page NokiaLumia1020
+2023-05-15 11:05:963 INFO  NokiaLumia1020Page :76 - Actual Message Of Product Being In Shopping Cart
+2023-05-15 11:05:15 INFO  NokiaLumia1020Page :81 - Click On Cross From Message
+2023-05-15 11:05:114 INFO  NokiaLumia1020Page :87 - Hover To Shopping Cart And Click On Add To Cart
+2023-05-15 11:05:735 INFO  ShoppingCartPage :61 - Get text from shopping cart
+2023-05-15 11:05:793 INFO  ShoppingCartPage :113 - verifyQuantity 
+2023-05-15 11:05:893 INFO  ShoppingCartPage :93 - Get text from total
+2023-05-15 11:05:957 INFO  ShoppingCartPage :99 - click on check box 
+2023-05-15 11:05:100 INFO  ShoppingCartPage :104 - click on check out 
+2023-05-15 11:05:766 INFO  CheckOutPage :69 - get text from welcome text
+2023-05-15 11:05:849 INFO  CheckOutPage :124 - click on button register 
+2023-05-15 11:05:350 INFO  RegisterPage :90 - get actual title text of register page
+2023-05-15 11:05:424 INFO  RegisterPage :54 - Enter first name John to username field [[ChromeDriver: chrome on WINDOWS (c770258c0dcf6dea16f65a31b6358bca)] -> xpath: //input[@id='FirstName']]
+2023-05-15 11:05:559 INFO  RegisterPage :59 - Enter last name Smith to username field [[ChromeDriver: chrome on WINDOWS (c770258c0dcf6dea16f65a31b6358bca)] -> xpath: //input[@id='LastName']]
+2023-05-15 11:05:695 INFO  RegisterPage :70 - Enter email [[ChromeDriver: chrome on WINDOWS (c770258c0dcf6dea16f65a31b6358bca)] -> xpath: //input[@id='Email']]
+2023-05-15 11:05:874 INFO  RegisterPage :74 - Enter password Password1 to password field [[ChromeDriver: chrome on WINDOWS (c770258c0dcf6dea16f65a31b6358bca)] -> xpath: //input[@id='Password']]
+2023-05-15 11:05:04 INFO  RegisterPage :79 - Enter confirm password Password1 to confirm password field [[ChromeDriver: chrome on WINDOWS (c770258c0dcf6dea16f65a31b6358bca)] -> xpath: //input[@id='ConfirmPassword']]
+2023-05-15 11:05:147 INFO  RegisterPage :84 - click on button register next step 
+2023-05-15 11:05:864 INFO  RegistrationSuccessfulPage :30 - Get text successful registration
+2023-05-15 11:05:921 INFO  RegistrationSuccessfulPage :35 - click on continue button 
+2023-05-15 11:05:418 INFO  ShoppingCartPage :61 - Get text from shopping cart
+2023-05-15 11:05:470 INFO  LoginPage :45 - Click On Login Link
+2023-05-15 11:05:40 INFO  LoginPage :50 - Enter email  mocky368121068GOkCDmouse@gmail.com to Email  field [[ChromeDriver: chrome on WINDOWS (c770258c0dcf6dea16f65a31b6358bca)] -> css selector: #Email]
+2023-05-15 11:05:209 INFO  LoginPage :55 - Enter Password  Password1 to Password  field [[ChromeDriver: chrome on WINDOWS (c770258c0dcf6dea16f65a31b6358bca)] -> css selector: #Password]
+2023-05-15 11:05:309 INFO  LoginPage :61 - Click On Login Button
+2023-05-15 11:05:167 INFO  LoginPage :66 - click on check box 
+2023-05-15 11:05:583 INFO  LoginPage :71 - click on check out 
+2023-05-15 11:05:778 INFO  CheckOutAfterRegistrationPage :126 - Enter first name John to username field [[ChromeDriver: chrome on WINDOWS (c770258c0dcf6dea16f65a31b6358bca)] -> xpath: //input[@id='BillingNewAddress_FirstName']]
+2023-05-15 11:05:969 INFO  CheckOutAfterRegistrationPage :132 - Enter last name Smith to username field [[ChromeDriver: chrome on WINDOWS (c770258c0dcf6dea16f65a31b6358bca)] -> xpath: //input[@id='BillingNewAddress_LastName']]
+2023-05-15 11:05:154 INFO  CheckOutAfterRegistrationPage :138 - Enter email mocky368121068GOkCDmouse@gmail.com to username field [[ChromeDriver: chrome on WINDOWS (c770258c0dcf6dea16f65a31b6358bca)] -> xpath: //input[@id='BillingNewAddress_Email']]
+2023-05-15 11:05:423 INFO  CheckOutAfterRegistrationPage :144 - select country from dropdown list
+2023-05-15 11:05:721 INFO  CheckOutAfterRegistrationPage :149 - Enter city name London to username field [[ChromeDriver: chrome on WINDOWS (c770258c0dcf6dea16f65a31b6358bca)] -> xpath: //input[@id='BillingNewAddress_City']]
+2023-05-15 11:05:841 INFO  CheckOutAfterRegistrationPage :154 - Enter address 101 House to username field [[ChromeDriver: chrome on WINDOWS (c770258c0dcf6dea16f65a31b6358bca)] -> xpath: //input[@id='BillingNewAddress_Address1']]
+2023-05-15 11:05:18 INFO  CheckOutAfterRegistrationPage :159 - Enter postcode GS1 2FG to username field [[ChromeDriver: chrome on WINDOWS (c770258c0dcf6dea16f65a31b6358bca)] -> xpath: //input[@id='BillingNewAddress_ZipPostalCode']]
+2023-05-15 11:05:147 INFO  CheckOutAfterRegistrationPage :164 - Enter phone number 02022039384 to username field [[ChromeDriver: chrome on WINDOWS (c770258c0dcf6dea16f65a31b6358bca)] -> xpath: //input[@id='BillingNewAddress_PhoneNumber']]
+2023-05-15 11:05:287 INFO  CheckOutAfterRegistrationPage :169 - click on continue 
+2023-05-15 11:05:395 INFO  CheckOutAfterRegistrationPage :266 - click on radio button 2nd DayAir 
+2023-05-15 11:05:471 INFO  CheckOutAfterRegistrationPage :182 - click on button continue from shipping method 
+2023-05-15 11:05:525 INFO  CheckOutAfterRegistrationPage :189 - click on radio button credit card 
+2023-05-15 11:05:865 INFO  CheckOutAfterRegistrationPage :195 - click on button continue from payment method 
+2023-05-15 11:05:981 INFO  CheckOutAfterRegistrationPage :201 - click on drop down select card 
+2023-05-15 11:05:307 INFO  CheckOutAfterRegistrationPage :207 - Enter card holder name Mr Smith to username field [[ChromeDriver: chrome on WINDOWS (c770258c0dcf6dea16f65a31b6358bca)] -> xpath: //input[@id='CardholderName']]
+2023-05-15 11:05:428 INFO  CheckOutAfterRegistrationPage :213 - Enter card number 5105105105105100 to username field [[ChromeDriver: chrome on WINDOWS (c770258c0dcf6dea16f65a31b6358bca)] -> xpath: //input[@id='CardNumber']]
+2023-05-15 11:05:634 INFO  CheckOutAfterRegistrationPage :219 - select month from dropdown 
+2023-05-15 11:05:789 INFO  CheckOutAfterRegistrationPage :225 - select year from dropdown 
+2023-05-15 11:05:899 INFO  CheckOutAfterRegistrationPage :231 - Enter card code 203 to username field [[ChromeDriver: chrome on WINDOWS (c770258c0dcf6dea16f65a31b6358bca)] -> xpath: //input[@id='CardCode']]
+2023-05-15 11:05:17 INFO  CheckOutAfterRegistrationPage :237 - click On button continue from payment information 
+2023-05-15 11:05:117 INFO  CheckOutAfterRegistrationPage :243 - verify actual text of card method
+2023-05-15 11:05:443 INFO  CheckOutAfterRegistrationPage :249 - verify actual text of shipping method
+2023-05-15 11:05:494 INFO  CheckOutAfterRegistrationPage :255 - verify actual total final price
+2023-05-15 11:05:904 INFO  HomePage :59 - Mouse Hover On Electronics
+2023-05-15 11:05:348 INFO  HomePage :64 - Mouse Hover And Click OnCell Phone
+2023-05-15 11:05:648 INFO  CellPhonePage :31 - Get page title text of cell phone page
+2023-05-15 11:05:734 INFO  CellPhonePage :36 - click on list view icon[[ChromeDriver: chrome on WINDOWS (3e9b4fe4cb24219eb7148db3ac087bb5)] -> xpath: //a[contains(text(),'List')]]
+2023-05-15 11:05:850 INFO  CellPhonePage :42 - click on product nokia lumia 1020
+2023-05-15 11:05:863 INFO  NokiaLumia1020Page :50 - Actual Title Text Of Product NokiaLumia1020Page
+2023-05-15 11:05:912 INFO  NokiaLumia1020Page :55 - Actual Price  Of Product NokiaLumia1020
+2023-05-15 11:05:964 INFO  NokiaLumia1020Page :60 - Clear An Element Before Entering Qty
+2023-05-15 11:05:82 INFO  NokiaLumia1020Page :65 - Update the Quantity  2to Quantity Field[[ChromeDriver: chrome on WINDOWS (3e9b4fe4cb24219eb7148db3ac087bb5)] -> xpath: (//input[@id='product_enteredQuantity_20'])[1]]
+2023-05-15 11:05:196 INFO  NokiaLumia1020Page :70 - Click On Button Add To Cart From Page NokiaLumia1020
+2023-05-15 11:05:300 INFO  NokiaLumia1020Page :76 - Actual Message Of Product Being In Shopping Cart
+2023-05-15 11:05:333 INFO  NokiaLumia1020Page :81 - Click On Cross From Message
+2023-05-15 11:05:436 INFO  NokiaLumia1020Page :87 - Hover To Shopping Cart And Click On Add To Cart
+2023-05-15 11:05:52 INFO  ShoppingCartPage :61 - Get text from shopping cart
+2023-05-15 11:05:133 INFO  ShoppingCartPage :113 - verifyQuantity 
+2023-05-15 11:05:212 INFO  ShoppingCartPage :93 - Get text from total
+2023-05-15 11:05:263 INFO  ShoppingCartPage :99 - click on check box 
+2023-05-15 11:05:386 INFO  ShoppingCartPage :104 - click on check out 
+2023-05-15 11:05:34 INFO  CheckOutPage :69 - get text from welcome text
+2023-05-15 11:05:104 INFO  CheckOutPage :124 - click on button register 
+2023-05-15 11:05:915 INFO  RegisterPage :90 - get actual title text of register page
+2023-05-15 11:05:972 INFO  RegisterPage :54 - Enter first name John to username field [[ChromeDriver: chrome on WINDOWS (3e9b4fe4cb24219eb7148db3ac087bb5)] -> xpath: //input[@id='FirstName']]
+2023-05-15 11:05:108 INFO  RegisterPage :59 - Enter last name Smith to username field [[ChromeDriver: chrome on WINDOWS (3e9b4fe4cb24219eb7148db3ac087bb5)] -> xpath: //input[@id='LastName']]
+2023-05-15 11:05:217 INFO  RegisterPage :70 - Enter email [[ChromeDriver: chrome on WINDOWS (3e9b4fe4cb24219eb7148db3ac087bb5)] -> xpath: //input[@id='Email']]
+2023-05-15 11:05:362 INFO  RegisterPage :74 - Enter password Password1 to password field [[ChromeDriver: chrome on WINDOWS (3e9b4fe4cb24219eb7148db3ac087bb5)] -> xpath: //input[@id='Password']]
+2023-05-15 11:05:497 INFO  RegisterPage :79 - Enter confirm password Password1 to confirm password field [[ChromeDriver: chrome on WINDOWS (3e9b4fe4cb24219eb7148db3ac087bb5)] -> xpath: //input[@id='ConfirmPassword']]
+2023-05-15 11:05:579 INFO  RegisterPage :84 - click on button register next step 
+2023-05-15 11:05:168 INFO  RegistrationSuccessfulPage :30 - Get text successful registration
+2023-05-15 11:05:200 INFO  RegistrationSuccessfulPage :35 - click on continue button 
+2023-05-15 11:05:661 INFO  ShoppingCartPage :61 - Get text from shopping cart
+2023-05-15 11:05:689 INFO  LoginPage :45 - Click On Login Link
+2023-05-15 11:05:219 INFO  LoginPage :50 - Enter email  mocky368121068nnFeGmouse@gmail.com to Email  field [[ChromeDriver: chrome on WINDOWS (3e9b4fe4cb24219eb7148db3ac087bb5)] -> css selector: #Email]
+2023-05-15 11:05:377 INFO  LoginPage :55 - Enter Password  Password1 to Password  field [[ChromeDriver: chrome on WINDOWS (3e9b4fe4cb24219eb7148db3ac087bb5)] -> css selector: #Password]
+2023-05-15 11:05:458 INFO  LoginPage :61 - Click On Login Button
+2023-05-15 11:05:183 INFO  LoginPage :66 - click on check box 
+2023-05-15 11:05:394 INFO  LoginPage :71 - click on check out 
+2023-05-15 11:05:633 INFO  CheckOutAfterRegistrationPage :126 - Enter first name John to username field [[ChromeDriver: chrome on WINDOWS (3e9b4fe4cb24219eb7148db3ac087bb5)] -> xpath: //input[@id='BillingNewAddress_FirstName']]
+2023-05-15 11:05:798 INFO  CheckOutAfterRegistrationPage :132 - Enter last name Smith to username field [[ChromeDriver: chrome on WINDOWS (3e9b4fe4cb24219eb7148db3ac087bb5)] -> xpath: //input[@id='BillingNewAddress_LastName']]
+2023-05-15 11:05:988 INFO  CheckOutAfterRegistrationPage :138 - Enter email mocky368121068nnFeGmouse@gmail.com to username field [[ChromeDriver: chrome on WINDOWS (3e9b4fe4cb24219eb7148db3ac087bb5)] -> xpath: //input[@id='BillingNewAddress_Email']]
+2023-05-15 11:05:142 INFO  CheckOutAfterRegistrationPage :144 - select country from dropdown list
+2023-05-15 11:05:416 INFO  CheckOutAfterRegistrationPage :149 - Enter city name London to username field [[ChromeDriver: chrome on WINDOWS (3e9b4fe4cb24219eb7148db3ac087bb5)] -> xpath: //input[@id='BillingNewAddress_City']]
+2023-05-15 11:05:554 INFO  CheckOutAfterRegistrationPage :154 - Enter address 101 House to username field [[ChromeDriver: chrome on WINDOWS (3e9b4fe4cb24219eb7148db3ac087bb5)] -> xpath: //input[@id='BillingNewAddress_Address1']]
+2023-05-15 11:05:679 INFO  CheckOutAfterRegistrationPage :159 - Enter postcode GS1 2FG to username field [[ChromeDriver: chrome on WINDOWS (3e9b4fe4cb24219eb7148db3ac087bb5)] -> xpath: //input[@id='BillingNewAddress_ZipPostalCode']]
+2023-05-15 11:05:803 INFO  CheckOutAfterRegistrationPage :164 - Enter phone number 02022039384 to username field [[ChromeDriver: chrome on WINDOWS (3e9b4fe4cb24219eb7148db3ac087bb5)] -> xpath: //input[@id='BillingNewAddress_PhoneNumber']]
+2023-05-15 11:05:938 INFO  CheckOutAfterRegistrationPage :169 - click on continue 
+2023-05-15 11:05:23 INFO  CheckOutAfterRegistrationPage :266 - click on radio button 2nd DayAir 
+2023-05-15 11:05:89 INFO  CheckOutAfterRegistrationPage :182 - click on button continue from shipping method 
+2023-05-15 11:05:135 INFO  CheckOutAfterRegistrationPage :189 - click on radio button credit card 
+2023-05-15 11:05:466 INFO  CheckOutAfterRegistrationPage :195 - click on button continue from payment method 
+2023-05-15 11:05:539 INFO  CheckOutAfterRegistrationPage :201 - click on drop down select card 
+2023-05-15 11:05:836 INFO  CheckOutAfterRegistrationPage :207 - Enter card holder name Mr Smith to username field [[ChromeDriver: chrome on WINDOWS (3e9b4fe4cb24219eb7148db3ac087bb5)] -> xpath: //input[@id='CardholderName']]
+2023-05-15 11:05:958 INFO  CheckOutAfterRegistrationPage :213 - Enter card number 5105105105105100 to username field [[ChromeDriver: chrome on WINDOWS (3e9b4fe4cb24219eb7148db3ac087bb5)] -> xpath: //input[@id='CardNumber']]
+2023-05-15 11:05:105 INFO  CheckOutAfterRegistrationPage :219 - select month from dropdown 
+2023-05-15 11:05:240 INFO  CheckOutAfterRegistrationPage :225 - select year from dropdown 
+2023-05-15 11:05:330 INFO  CheckOutAfterRegistrationPage :231 - Enter card code 203 to username field [[ChromeDriver: chrome on WINDOWS (3e9b4fe4cb24219eb7148db3ac087bb5)] -> xpath: //input[@id='CardCode']]
+2023-05-15 11:05:422 INFO  CheckOutAfterRegistrationPage :237 - click On button continue from payment information 
+2023-05-15 11:05:519 INFO  CheckOutAfterRegistrationPage :243 - verify actual text of card method
+2023-05-15 11:05:794 INFO  CheckOutAfterRegistrationPage :249 - verify actual text of shipping method
+2023-05-15 11:05:842 INFO  CheckOutAfterRegistrationPage :255 - verify actual total final price
+2023-05-15 11:05:899 INFO  CheckOutAfterRegistrationPage :261 - click on button confirm 
+2023-05-15 11:05:38 INFO  OrderCompletionPage :37 - Get Text From ThankYou Title
+2023-05-15 11:05:713 INFO  OrderCompletionPage :41 - Get Text From Order SuccessMessage
+2023-05-15 11:05:752 INFO  OrderCompletionPage :46 - Click On Continue Order Completion Button
+2023-05-15 11:05:270 INFO  HomePage :54 - Get Text From Welcome Store
+2023-05-15 11:05:342 INFO  HomePage :59 - Mouse Hover On Electronics
+2023-05-15 11:05:778 INFO  HomePage :64 - Mouse Hover And Click OnCell Phone
+2023-05-15 11:05:358 INFO  CellPhonePage :31 - Get page title text of cell phone page
+2023-05-15 11:05:621 INFO  CellPhonePage :36 - click on list view icon[[ChromeDriver: chrome on WINDOWS (4b82a236a33ff5343610266d9e23424c)] -> xpath: //a[contains(text(),'List')]]
+2023-05-15 11:05:810 INFO  CellPhonePage :42 - click on product nokia lumia 1020
+2023-05-15 11:05:987 INFO  NokiaLumia1020Page :50 - Actual Title Text Of Product NokiaLumia1020Page
+2023-05-15 11:05:16 INFO  NokiaLumia1020Page :55 - Actual Price  Of Product NokiaLumia1020
+2023-05-15 11:05:70 INFO  NokiaLumia1020Page :60 - Clear An Element Before Entering Qty
+2023-05-15 11:05:202 INFO  NokiaLumia1020Page :65 - Update the Quantity  2to Quantity Field[[ChromeDriver: chrome on WINDOWS (4b82a236a33ff5343610266d9e23424c)] -> xpath: (//input[@id='product_enteredQuantity_20'])[1]]
+2023-05-15 11:05:322 INFO  NokiaLumia1020Page :70 - Click On Button Add To Cart From Page NokiaLumia1020
+2023-05-15 11:05:403 INFO  NokiaLumia1020Page :76 - Actual Message Of Product Being In Shopping Cart
+2023-05-15 11:05:453 INFO  NokiaLumia1020Page :81 - Click On Cross From Message
+2023-05-15 11:05:561 INFO  NokiaLumia1020Page :87 - Hover To Shopping Cart And Click On Add To Cart
+2023-05-15 11:05:172 INFO  ShoppingCartPage :61 - Get text from shopping cart
+2023-05-15 11:05:231 INFO  ShoppingCartPage :113 - verifyQuantity 
+2023-05-15 11:05:312 INFO  ShoppingCartPage :93 - Get text from total
+2023-05-15 11:05:370 INFO  ShoppingCartPage :99 - click on check box 
+2023-05-15 11:05:468 INFO  ShoppingCartPage :104 - click on check out 
+2023-05-15 11:05:149 INFO  CheckOutPage :69 - get text from welcome text
+2023-05-15 11:05:210 INFO  CheckOutPage :124 - click on button register 
+2023-05-15 11:05:712 INFO  RegisterPage :90 - get actual title text of register page
+2023-05-15 11:05:786 INFO  RegisterPage :70 - Enter email [[ChromeDriver: chrome on WINDOWS (4b82a236a33ff5343610266d9e23424c)] -> xpath: //input[@id='Email']]
+2023-05-15 11:05:983 INFO  RegisterPage :54 - Enter first name John to username field [[ChromeDriver: chrome on WINDOWS (4b82a236a33ff5343610266d9e23424c)] -> xpath: //input[@id='FirstName']]
+2023-05-15 11:05:92 INFO  RegisterPage :59 - Enter last name Smith to username field [[ChromeDriver: chrome on WINDOWS (4b82a236a33ff5343610266d9e23424c)] -> xpath: //input[@id='LastName']]
+2023-05-15 11:05:164 INFO  RegisterPage :74 - Enter password Password1 to password field [[ChromeDriver: chrome on WINDOWS (4b82a236a33ff5343610266d9e23424c)] -> xpath: //input[@id='Password']]
+2023-05-15 11:05:245 INFO  RegisterPage :79 - Enter confirm password Password1 to confirm password field [[ChromeDriver: chrome on WINDOWS (4b82a236a33ff5343610266d9e23424c)] -> xpath: //input[@id='ConfirmPassword']]
+2023-05-15 11:05:302 INFO  RegisterPage :84 - click on button register next step 
+2023-05-15 11:05:931 INFO  RegistrationSuccessfulPage :30 - Get text successful registration
+2023-05-15 11:05:975 INFO  RegistrationSuccessfulPage :35 - click on continue button 
+2023-05-15 11:05:406 INFO  ShoppingCartPage :61 - Get text from shopping cart
+2023-05-15 11:05:438 INFO  LoginPage :45 - Click On Login Link
+2023-05-15 11:05:945 INFO  LoginPage :50 - Enter email  mocky368121068FWrWwmouse@gmail.com to Email  field [[ChromeDriver: chrome on WINDOWS (4b82a236a33ff5343610266d9e23424c)] -> css selector: #Email]
+2023-05-15 11:05:146 INFO  LoginPage :55 - Enter Password  Password1 to Password  field [[ChromeDriver: chrome on WINDOWS (4b82a236a33ff5343610266d9e23424c)] -> css selector: #Password]
+2023-05-15 11:05:220 INFO  LoginPage :61 - Click On Login Button
+2023-05-15 11:05:801 INFO  LoginPage :66 - click on check box 
+2023-05-15 11:05:104 INFO  LoginPage :71 - click on check out 
+2023-05-15 11:05:273 INFO  CheckOutAfterRegistrationPage :126 - Enter first name John to username field [[ChromeDriver: chrome on WINDOWS (4b82a236a33ff5343610266d9e23424c)] -> xpath: //input[@id='BillingNewAddress_FirstName']]
+2023-05-15 11:05:463 INFO  CheckOutAfterRegistrationPage :132 - Enter last name Smith to username field [[ChromeDriver: chrome on WINDOWS (4b82a236a33ff5343610266d9e23424c)] -> xpath: //input[@id='BillingNewAddress_LastName']]
+2023-05-15 11:05:635 INFO  CheckOutAfterRegistrationPage :138 - Enter email mocky368121068FWrWwmouse@gmail.com to username field [[ChromeDriver: chrome on WINDOWS (4b82a236a33ff5343610266d9e23424c)] -> xpath: //input[@id='BillingNewAddress_Email']]
+2023-05-15 11:05:804 INFO  CheckOutAfterRegistrationPage :144 - select country from dropdown list
+2023-05-15 11:05:18 INFO  CheckOutAfterRegistrationPage :149 - Enter city name London to username field [[ChromeDriver: chrome on WINDOWS (4b82a236a33ff5343610266d9e23424c)] -> xpath: //input[@id='BillingNewAddress_City']]
+2023-05-15 11:05:126 INFO  CheckOutAfterRegistrationPage :154 - Enter address 101 House to username field [[ChromeDriver: chrome on WINDOWS (4b82a236a33ff5343610266d9e23424c)] -> xpath: //input[@id='BillingNewAddress_Address1']]
+2023-05-15 11:05:283 INFO  CheckOutAfterRegistrationPage :159 - Enter postcode GS1 2FG to username field [[ChromeDriver: chrome on WINDOWS (4b82a236a33ff5343610266d9e23424c)] -> xpath: //input[@id='BillingNewAddress_ZipPostalCode']]
+2023-05-15 11:05:396 INFO  CheckOutAfterRegistrationPage :164 - Enter phone number 02022039384 to username field [[ChromeDriver: chrome on WINDOWS (4b82a236a33ff5343610266d9e23424c)] -> xpath: //input[@id='BillingNewAddress_PhoneNumber']]
+2023-05-15 11:05:499 INFO  CheckOutAfterRegistrationPage :169 - click on continue 
+2023-05-15 11:05:588 INFO  CheckOutAfterRegistrationPage :266 - click on radio button 2nd DayAir 
+2023-05-15 11:05:656 INFO  CheckOutAfterRegistrationPage :182 - click on button continue from shipping method 
+2023-05-15 11:05:702 INFO  CheckOutAfterRegistrationPage :189 - click on radio button credit card 
+2023-05-15 11:05:27 INFO  CheckOutAfterRegistrationPage :195 - click on button continue from payment method 
+2023-05-15 11:05:95 INFO  CheckOutAfterRegistrationPage :201 - click on drop down select card 
+2023-05-15 11:05:415 INFO  CheckOutAfterRegistrationPage :207 - Enter card holder name Mr Smith to username field [[ChromeDriver: chrome on WINDOWS (4b82a236a33ff5343610266d9e23424c)] -> xpath: //input[@id='CardholderName']]
+2023-05-15 11:05:536 INFO  CheckOutAfterRegistrationPage :213 - Enter card number 5105105105105100 to username field [[ChromeDriver: chrome on WINDOWS (4b82a236a33ff5343610266d9e23424c)] -> xpath: //input[@id='CardNumber']]
+2023-05-15 11:05:694 INFO  CheckOutAfterRegistrationPage :219 - select month from dropdown 
+2023-05-15 11:05:836 INFO  CheckOutAfterRegistrationPage :225 - select year from dropdown 
+2023-05-15 11:05:940 INFO  CheckOutAfterRegistrationPage :231 - Enter card code 203 to username field [[ChromeDriver: chrome on WINDOWS (4b82a236a33ff5343610266d9e23424c)] -> xpath: //input[@id='CardCode']]
+2023-05-15 11:05:27 INFO  CheckOutAfterRegistrationPage :237 - click On button continue from payment information 
+2023-05-15 11:05:128 INFO  CheckOutAfterRegistrationPage :243 - verify actual text of card method
+2023-05-15 11:05:412 INFO  CheckOutAfterRegistrationPage :249 - verify actual text of shipping method
+2023-05-15 11:05:444 INFO  CheckOutAfterRegistrationPage :255 - verify actual total final price
+2023-05-15 11:05:498 INFO  CheckOutAfterRegistrationPage :261 - click on button confirm 
+2023-05-15 11:05:631 INFO  OrderCompletionPage :37 - Get Text From ThankYou Title
+2023-05-15 11:05:400 INFO  OrderCompletionPage :41 - Get Text From Order SuccessMessage
+2023-05-15 11:05:469 INFO  OrderCompletionPage :46 - Click On Continue Order Completion Button
+2023-05-15 11:05:989 INFO  HomePage :54 - Get Text From Welcome Store
+2023-05-15 11:05:116 INFO  HomePage :59 - Mouse Hover On Electronics
+2023-05-15 11:05:444 INFO  HomePage :64 - Mouse Hover And Click OnCell Phone
+2023-05-15 11:05:42 INFO  CellPhonePage :31 - Get page title text of cell phone page
+2023-05-15 11:05:145 INFO  CellPhonePage :36 - click on list view icon[[ChromeDriver: chrome on WINDOWS (03004f49d2a819fa5cd5ad8febb53879)] -> xpath: //a[contains(text(),'List')]]
+2023-05-15 11:05:255 INFO  CellPhonePage :42 - click on product nokia lumia 1020
+2023-05-15 11:05:864 INFO  NokiaLumia1020Page :50 - Actual Title Text Of Product NokiaLumia1020Page
+2023-05-15 11:05:907 INFO  NokiaLumia1020Page :55 - Actual Price  Of Product NokiaLumia1020
+2023-05-15 11:05:954 INFO  NokiaLumia1020Page :60 - Clear An Element Before Entering Qty
+2023-05-15 11:05:101 INFO  NokiaLumia1020Page :65 - Update the Quantity  2to Quantity Field[[ChromeDriver: chrome on WINDOWS (03004f49d2a819fa5cd5ad8febb53879)] -> xpath: (//input[@id='product_enteredQuantity_20'])[1]]
+2023-05-15 11:05:195 INFO  NokiaLumia1020Page :70 - Click On Button Add To Cart From Page NokiaLumia1020
+2023-05-15 11:05:308 INFO  NokiaLumia1020Page :76 - Actual Message Of Product Being In Shopping Cart
+2023-05-15 11:05:390 INFO  NokiaLumia1020Page :81 - Click On Cross From Message
+2023-05-15 11:05:795 INFO  NokiaLumia1020Page :87 - Hover To Shopping Cart And Click On Add To Cart
+2023-05-15 11:05:434 INFO  ShoppingCartPage :61 - Get text from shopping cart
+2023-05-15 11:05:498 INFO  ShoppingCartPage :113 - verifyQuantity 
+2023-05-15 11:05:575 INFO  ShoppingCartPage :93 - Get text from total
+2023-05-15 11:05:636 INFO  ShoppingCartPage :99 - click on check box 
+2023-05-15 11:05:732 INFO  ShoppingCartPage :104 - click on check out 
+2023-05-15 11:05:402 INFO  CheckOutPage :69 - get text from welcome text
+2023-05-15 11:05:451 INFO  CheckOutPage :124 - click on button register 
+2023-05-15 11:05:42 INFO  RegisterPage :90 - get actual title text of register page
+2023-05-15 11:05:302 INFO  RegisterPage :70 - Enter email [[ChromeDriver: chrome on WINDOWS (03004f49d2a819fa5cd5ad8febb53879)] -> xpath: //input[@id='Email']]
+2023-05-15 11:05:618 INFO  RegisterPage :54 - Enter first name John to username field [[ChromeDriver: chrome on WINDOWS (03004f49d2a819fa5cd5ad8febb53879)] -> xpath: //input[@id='FirstName']]
+2023-05-15 11:05:766 INFO  RegisterPage :59 - Enter last name Smith to username field [[ChromeDriver: chrome on WINDOWS (03004f49d2a819fa5cd5ad8febb53879)] -> xpath: //input[@id='LastName']]
+2023-05-15 11:05:853 INFO  RegisterPage :74 - Enter password Password1 to password field [[ChromeDriver: chrome on WINDOWS (03004f49d2a819fa5cd5ad8febb53879)] -> xpath: //input[@id='Password']]
+2023-05-15 11:05:944 INFO  RegisterPage :79 - Enter confirm password Password1 to confirm password field [[ChromeDriver: chrome on WINDOWS (03004f49d2a819fa5cd5ad8febb53879)] -> xpath: //input[@id='ConfirmPassword']]
+2023-05-15 11:05:09 INFO  RegisterPage :84 - click on button register next step 
+2023-05-15 11:05:699 INFO  RegistrationSuccessfulPage :30 - Get text successful registration
+2023-05-15 11:05:731 INFO  RegistrationSuccessfulPage :35 - click on continue button 
+2023-05-15 11:05:257 INFO  ShoppingCartPage :61 - Get text from shopping cart
+2023-05-15 11:05:291 INFO  LoginPage :45 - Click On Login Link
+2023-05-15 11:05:815 INFO  LoginPage :50 - Enter email  mocky3681210687W1cbmouse@gmail.com to Email  field [[ChromeDriver: chrome on WINDOWS (03004f49d2a819fa5cd5ad8febb53879)] -> css selector: #Email]
+2023-05-15 11:05:22 INFO  LoginPage :55 - Enter Password  Password1 to Password  field [[ChromeDriver: chrome on WINDOWS (03004f49d2a819fa5cd5ad8febb53879)] -> css selector: #Password]
+2023-05-15 11:05:320 INFO  LoginPage :61 - Click On Login Button
+2023-05-15 11:05:156 INFO  LoginPage :66 - click on check box 
+2023-05-15 11:05:488 INFO  LoginPage :71 - click on check out 
+2023-05-15 11:05:124 INFO  CheckOutAfterRegistrationPage :138 - Enter email mocky3681210687W1cbmouse@gmail.com to username field [[ChromeDriver: chrome on WINDOWS (03004f49d2a819fa5cd5ad8febb53879)] -> xpath: //input[@id='BillingNewAddress_Email']]
+2023-05-15 11:05:407 INFO  CheckOutAfterRegistrationPage :144 - select country from dropdown list
+2023-05-15 11:05:700 INFO  CheckOutAfterRegistrationPage :126 - Enter first name John to username field [[ChromeDriver: chrome on WINDOWS (03004f49d2a819fa5cd5ad8febb53879)] -> xpath: //input[@id='BillingNewAddress_FirstName']]
+2023-05-15 11:05:902 INFO  CheckOutAfterRegistrationPage :132 - Enter last name Smith to username field [[ChromeDriver: chrome on WINDOWS (03004f49d2a819fa5cd5ad8febb53879)] -> xpath: //input[@id='BillingNewAddress_LastName']]
+2023-05-15 11:05:15 INFO  CheckOutAfterRegistrationPage :149 - Enter city name London to username field [[ChromeDriver: chrome on WINDOWS (03004f49d2a819fa5cd5ad8febb53879)] -> xpath: //input[@id='BillingNewAddress_City']]
+2023-05-15 11:05:103 INFO  CheckOutAfterRegistrationPage :154 - Enter address 101 House to username field [[ChromeDriver: chrome on WINDOWS (03004f49d2a819fa5cd5ad8febb53879)] -> xpath: //input[@id='BillingNewAddress_Address1']]
+2023-05-15 11:05:189 INFO  CheckOutAfterRegistrationPage :159 - Enter postcode GS1 2FG to username field [[ChromeDriver: chrome on WINDOWS (03004f49d2a819fa5cd5ad8febb53879)] -> xpath: //input[@id='BillingNewAddress_ZipPostalCode']]
+2023-05-15 11:05:285 INFO  CheckOutAfterRegistrationPage :164 - Enter phone number 02022039384 to username field [[ChromeDriver: chrome on WINDOWS (03004f49d2a819fa5cd5ad8febb53879)] -> xpath: //input[@id='BillingNewAddress_PhoneNumber']]
+2023-05-15 11:05:392 INFO  CheckOutAfterRegistrationPage :169 - click on continue 
+2023-05-15 11:05:487 INFO  CheckOutAfterRegistrationPage :266 - click on radio button 2nd DayAir 
+2023-05-15 11:05:558 INFO  CheckOutAfterRegistrationPage :182 - click on button continue from shipping method 
+2023-05-15 11:05:607 INFO  CheckOutAfterRegistrationPage :189 - click on radio button credit card 
+2023-05-15 11:05:992 INFO  CheckOutAfterRegistrationPage :195 - click on button continue from payment method 
+2023-05-15 11:05:96 INFO  CheckOutAfterRegistrationPage :201 - click on drop down select card 
+2023-05-15 11:05:482 INFO  CheckOutAfterRegistrationPage :207 - Enter card holder name Mr Smith to username field [[ChromeDriver: chrome on WINDOWS (03004f49d2a819fa5cd5ad8febb53879)] -> xpath: //input[@id='CardholderName']]
+2023-05-15 11:05:641 INFO  CheckOutAfterRegistrationPage :213 - Enter card number 5105105105105100 to username field [[ChromeDriver: chrome on WINDOWS (03004f49d2a819fa5cd5ad8febb53879)] -> xpath: //input[@id='CardNumber']]
+2023-05-15 11:05:866 INFO  CheckOutAfterRegistrationPage :219 - select month from dropdown 
+2023-05-15 11:05:38 INFO  CheckOutAfterRegistrationPage :225 - select year from dropdown 
+2023-05-15 11:05:306 INFO  CheckOutAfterRegistrationPage :231 - Enter card code 203 to username field [[ChromeDriver: chrome on WINDOWS (03004f49d2a819fa5cd5ad8febb53879)] -> xpath: //input[@id='CardCode']]
+2023-05-15 11:05:628 INFO  CheckOutAfterRegistrationPage :237 - click On button continue from payment information 
+2023-05-15 11:05:02 INFO  CheckOutAfterRegistrationPage :243 - verify actual text of card method
+2023-05-15 11:05:412 INFO  CheckOutAfterRegistrationPage :249 - verify actual text of shipping method
+2023-05-15 11:05:478 INFO  CheckOutAfterRegistrationPage :255 - verify actual total final price
+2023-05-15 11:05:529 INFO  CheckOutAfterRegistrationPage :261 - click on button confirm 
+2023-05-15 11:05:664 INFO  OrderCompletionPage :37 - Get Text From ThankYou Title
+2023-05-15 11:05:356 INFO  OrderCompletionPage :41 - Get Text From Order SuccessMessage
+2023-05-15 11:05:434 INFO  OrderCompletionPage :46 - Click On Continue Order Completion Button
+2023-05-15 11:05:940 INFO  HomePage :54 - Get Text From Welcome Store
+2023-05-15 12:05:502 INFO  HomePage :59 - Mouse Hover On Electronics
+2023-05-15 12:05:976 INFO  HomePage :64 - Mouse Hover And Click OnCell Phone
+2023-05-15 12:05:613 INFO  CellPhonePage :31 - Get page title text of cell phone page
+2023-05-15 12:05:180 INFO  CellPhonePage :36 - click on list view icon[[ChromeDriver: chrome on WINDOWS (93f2cbc5fefc2dc044f9cee3357dfb9b)] -> xpath: //a[contains(text(),'List')]]
+2023-05-15 12:05:331 INFO  CellPhonePage :42 - click on product nokia lumia 1020
+2023-05-15 12:05:555 INFO  NokiaLumia1020Page :50 - Actual Title Text Of Product NokiaLumia1020Page
+2023-05-15 12:05:787 INFO  NokiaLumia1020Page :55 - Actual Price  Of Product NokiaLumia1020
+2023-05-15 12:05:17 INFO  NokiaLumia1020Page :60 - Clear An Element Before Entering Qty
+2023-05-15 12:05:509 INFO  NokiaLumia1020Page :65 - Update the Quantity  2to Quantity Field[[ChromeDriver: chrome on WINDOWS (93f2cbc5fefc2dc044f9cee3357dfb9b)] -> xpath: (//input[@id='product_enteredQuantity_20'])[1]]
+2023-05-15 12:05:785 INFO  NokiaLumia1020Page :70 - Click On Button Add To Cart From Page NokiaLumia1020
+2023-05-15 12:05:162 INFO  NokiaLumia1020Page :76 - Actual Message Of Product Being In Shopping Cart
+2023-05-15 12:05:425 INFO  NokiaLumia1020Page :81 - Click On Cross From Message
+2023-05-15 12:05:819 INFO  NokiaLumia1020Page :87 - Hover To Shopping Cart And Click On Add To Cart
+2023-05-15 12:05:750 INFO  ShoppingCartPage :61 - Get text from shopping cart
+2023-05-15 12:05:822 INFO  ShoppingCartPage :113 - verifyQuantity 
+2023-05-15 12:05:930 INFO  ShoppingCartPage :93 - Get text from total
+2023-05-15 12:05:996 INFO  ShoppingCartPage :99 - click on check box 
+2023-05-15 12:05:130 INFO  ShoppingCartPage :104 - click on check out 
+2023-05-15 12:05:427 INFO  CheckOutPage :69 - get text from welcome text
+2023-05-15 12:05:570 INFO  CheckOutPage :124 - click on button register 
+2023-05-15 12:05:353 INFO  RegisterPage :90 - get actual title text of register page
+2023-05-15 12:05:974 INFO  RegisterPage :70 - Enter email [[ChromeDriver: chrome on WINDOWS (93f2cbc5fefc2dc044f9cee3357dfb9b)] -> xpath: //input[@id='Email']]
+2023-05-15 12:05:452 INFO  RegisterPage :54 - Enter first name John to username field [[ChromeDriver: chrome on WINDOWS (93f2cbc5fefc2dc044f9cee3357dfb9b)] -> xpath: //input[@id='FirstName']]
+2023-05-15 12:05:795 INFO  RegisterPage :59 - Enter last name Smith to username field [[ChromeDriver: chrome on WINDOWS (93f2cbc5fefc2dc044f9cee3357dfb9b)] -> xpath: //input[@id='LastName']]
+2023-05-15 12:05:228 INFO  RegisterPage :74 - Enter password Password1 to password field [[ChromeDriver: chrome on WINDOWS (93f2cbc5fefc2dc044f9cee3357dfb9b)] -> xpath: //input[@id='Password']]
+2023-05-15 12:05:677 INFO  RegisterPage :79 - Enter confirm password Password1 to confirm password field [[ChromeDriver: chrome on WINDOWS (93f2cbc5fefc2dc044f9cee3357dfb9b)] -> xpath: //input[@id='ConfirmPassword']]
+2023-05-15 12:05:815 INFO  RegisterPage :84 - click on button register next step 
+2023-05-15 12:05:972 INFO  RegistrationSuccessfulPage :30 - Get text successful registration
+2023-05-15 12:05:42 INFO  RegistrationSuccessfulPage :35 - click on continue button 
+2023-05-15 12:05:847 INFO  ShoppingCartPage :61 - Get text from shopping cart
+2023-05-15 12:05:887 INFO  LoginPage :45 - Click On Login Link
+2023-05-15 12:05:653 INFO  LoginPage :50 - Enter email  mocky368121068SxN8Rmouse@gmail.com to Email  field [[ChromeDriver: chrome on WINDOWS (93f2cbc5fefc2dc044f9cee3357dfb9b)] -> css selector: #Email]
+2023-05-15 12:05:39 INFO  LoginPage :55 - Enter Password  Password1 to Password  field [[ChromeDriver: chrome on WINDOWS (93f2cbc5fefc2dc044f9cee3357dfb9b)] -> css selector: #Password]
+2023-05-15 12:05:280 INFO  LoginPage :61 - Click On Login Button
+2023-05-15 12:05:599 INFO  LoginPage :66 - click on check box 
+2023-05-15 12:05:518 INFO  LoginPage :71 - click on check out 
+2023-05-15 12:05:75 INFO  CheckOutAfterRegistrationPage :138 - Enter email mocky368121068SxN8Rmouse@gmail.com to username field [[ChromeDriver: chrome on WINDOWS (93f2cbc5fefc2dc044f9cee3357dfb9b)] -> xpath: //input[@id='BillingNewAddress_Email']]
+2023-05-15 12:05:332 INFO  CheckOutAfterRegistrationPage :144 - select country from dropdown list
+2023-05-15 12:05:700 INFO  CheckOutAfterRegistrationPage :126 - Enter first name John to username field [[ChromeDriver: chrome on WINDOWS (93f2cbc5fefc2dc044f9cee3357dfb9b)] -> xpath: //input[@id='BillingNewAddress_FirstName']]
+2023-05-15 12:05:240 INFO  CheckOutAfterRegistrationPage :132 - Enter last name Smith to username field [[ChromeDriver: chrome on WINDOWS (93f2cbc5fefc2dc044f9cee3357dfb9b)] -> xpath: //input[@id='BillingNewAddress_LastName']]
+2023-05-15 12:05:657 INFO  CheckOutAfterRegistrationPage :149 - Enter city name London to username field [[ChromeDriver: chrome on WINDOWS (93f2cbc5fefc2dc044f9cee3357dfb9b)] -> xpath: //input[@id='BillingNewAddress_City']]
+2023-05-15 12:05:828 INFO  CheckOutAfterRegistrationPage :154 - Enter address 101 House to username field [[ChromeDriver: chrome on WINDOWS (93f2cbc5fefc2dc044f9cee3357dfb9b)] -> xpath: //input[@id='BillingNewAddress_Address1']]
+2023-05-15 12:05:222 INFO  CheckOutAfterRegistrationPage :159 - Enter postcode GS1 2FG to username field [[ChromeDriver: chrome on WINDOWS (93f2cbc5fefc2dc044f9cee3357dfb9b)] -> xpath: //input[@id='BillingNewAddress_ZipPostalCode']]
+2023-05-15 12:05:838 INFO  CheckOutAfterRegistrationPage :164 - Enter phone number 02022039384 to username field [[ChromeDriver: chrome on WINDOWS (93f2cbc5fefc2dc044f9cee3357dfb9b)] -> xpath: //input[@id='BillingNewAddress_PhoneNumber']]
+2023-05-15 12:05:989 INFO  CheckOutAfterRegistrationPage :169 - click on continue 
+2023-05-15 12:05:88 INFO  CheckOutAfterRegistrationPage :266 - click on radio button 2nd DayAir 
+2023-05-15 12:05:508 INFO  CheckOutAfterRegistrationPage :182 - click on button continue from shipping method 
+2023-05-15 12:05:772 INFO  CheckOutAfterRegistrationPage :189 - click on radio button credit card 
+2023-05-15 12:05:205 INFO  CheckOutAfterRegistrationPage :195 - click on button continue from payment method 
+2023-05-15 12:05:293 INFO  CheckOutAfterRegistrationPage :201 - click on drop down select card 
+2023-05-15 12:05:654 INFO  CheckOutAfterRegistrationPage :207 - Enter card holder name Mr Smith to username field [[ChromeDriver: chrome on WINDOWS (93f2cbc5fefc2dc044f9cee3357dfb9b)] -> xpath: //input[@id='CardholderName']]
+2023-05-15 12:05:964 INFO  CheckOutAfterRegistrationPage :213 - Enter card number 5105105105105100 to username field [[ChromeDriver: chrome on WINDOWS (93f2cbc5fefc2dc044f9cee3357dfb9b)] -> xpath: //input[@id='CardNumber']]
+2023-05-15 12:05:290 INFO  CheckOutAfterRegistrationPage :219 - select month from dropdown 
+2023-05-15 12:05:507 INFO  CheckOutAfterRegistrationPage :225 - select year from dropdown 
+2023-05-15 12:05:673 INFO  CheckOutAfterRegistrationPage :231 - Enter card code 203 to username field [[ChromeDriver: chrome on WINDOWS (93f2cbc5fefc2dc044f9cee3357dfb9b)] -> xpath: //input[@id='CardCode']]
+2023-05-15 12:05:725 INFO  CheckOutAfterRegistrationPage :237 - click On button continue from payment information 
+2023-05-15 12:05:782 INFO  CheckOutAfterRegistrationPage :243 - verify actual text of card method
+2023-05-15 12:05:370 INFO  CheckOutAfterRegistrationPage :249 - verify actual text of shipping method
+2023-05-15 12:05:497 INFO  CheckOutAfterRegistrationPage :255 - verify actual total final price
+2023-05-15 12:05:615 INFO  CheckOutAfterRegistrationPage :261 - click on button confirm 
+2023-05-15 12:05:953 INFO  OrderCompletionPage :37 - Get Text From ThankYou Title
+2023-05-15 12:05:733 INFO  OrderCompletionPage :41 - Get Text From Order SuccessMessage
+2023-05-15 12:05:875 INFO  OrderCompletionPage :46 - Click On Continue Order Completion Button
+2023-05-15 12:05:946 INFO  HomePage :54 - Get Text From Welcome Store
+2023-05-15 12:05:571 INFO  HomePage :39 - Select Menu
+2023-05-15 12:05:572 INFO  ComputerPage :28 - Click On Desktop
+2023-05-15 12:05:825 INFO  DesktopPage :39 - Select Sort By Position
+2023-05-15 12:05:888 INFO  DesktopPage :65 - Click On Add To Cart
+2023-05-15 12:05:314 INFO  BuildYourOwnComputerPage :68 - Get Text From build your own computer
+2023-05-15 12:05:380 INFO  BuildYourOwnComputerPage :73 - select processor[[ChromeDriver: chrome on WINDOWS (4e54ee565b906a08732c814e855ecac4)] -> css selector: #product_attribute_1]
+2023-05-15 12:05:586 INFO  BuildYourOwnComputerPage :80 - select RAM[[ChromeDriver: chrome on WINDOWS (4e54ee565b906a08732c814e855ecac4)] -> css selector: #product_attribute_2]
+2023-05-15 12:05:117 INFO  HomePage :39 - Select Menu
+2023-05-15 12:05:637 INFO  ComputerPage :28 - Click On Desktop
+2023-05-15 12:05:251 INFO  DesktopPage :39 - Select Sort By Position
+2023-05-15 12:05:752 INFO  DesktopPage :65 - Click On Add To Cart
+2023-05-15 12:05:923 INFO  BuildYourOwnComputerPage :68 - Get Text From build your own computer
+2023-05-15 12:05:71 INFO  HomePage :39 - Select Menu
+2023-05-15 12:05:336 INFO  ComputerPage :28 - Click On Desktop
+2023-05-15 12:05:747 INFO  DesktopPage :39 - Select Sort By Position
+2023-05-15 12:05:582 INFO  DesktopPage :65 - Click On Add To Cart
+2023-05-15 12:05:904 INFO  BuildYourOwnComputerPage :68 - Get Text From build your own computer
+2023-05-15 13:05:448 INFO  HomePage :39 - Select Menu
+2023-05-15 13:05:42 INFO  ComputerPage :28 - Click On Desktop
+2023-05-15 13:05:715 INFO  DesktopPage :39 - Select Sort By Position
+2023-05-15 13:05:929 INFO  DesktopPage :65 - Click On Add To Cart
+2023-05-15 13:05:39 INFO  BuildYourOwnComputerPage :68 - Get Text From build your own computer
+2023-05-15 13:05:397 INFO  BuildYourOwnComputerPage :73 - select processor[[ChromeDriver: chrome on WINDOWS (a2d42ac74416aa1a2247b527f72e8f7f)] -> css selector: #product_attribute_1]
+2023-05-15 13:05:520 INFO  BuildYourOwnComputerPage :80 - select RAM[[ChromeDriver: chrome on WINDOWS (a2d42ac74416aa1a2247b527f72e8f7f)] -> css selector: #product_attribute_2]
+2023-05-15 13:05:626 INFO  BuildYourOwnComputerPage :88 - click on HDD[[ChromeDriver: chrome on WINDOWS (a2d42ac74416aa1a2247b527f72e8f7f)] -> css selector: #product_attribute_3_7]
+2023-05-15 13:05:770 INFO  BuildYourOwnComputerPage :93 - click on OS[[ChromeDriver: chrome on WINDOWS (a2d42ac74416aa1a2247b527f72e8f7f)] -> css selector: #product_attribute_4_9]
+2023-05-15 13:05:875 INFO  BuildYourOwnComputerPage :98 - select Microsoft office[[ChromeDriver: chrome on WINDOWS (a2d42ac74416aa1a2247b527f72e8f7f)] -> css selector: #product_attribute_5_10]
+2023-05-15 13:05:952 INFO  BuildYourOwnComputerPage :106 - click on total commander[[ChromeDriver: chrome on WINDOWS (a2d42ac74416aa1a2247b527f72e8f7f)] -> css selector: #product_attribute_5_12]
+2023-05-15 13:05:24 INFO  BuildYourOwnComputerPage :111 - Check Total Price
+2023-05-15 13:05:91 INFO  BuildYourOwnComputerPage :116 - click on add to cart button[[ChromeDriver: chrome on WINDOWS (a2d42ac74416aa1a2247b527f72e8f7f)] -> xpath: //button[@id='add-to-cart-button-1']]
+2023-05-15 13:05:192 INFO  BuildYourOwnComputerPage :122 - Get shopping cart message
+2023-05-15 13:05:542 INFO  BuildYourOwnComputerPage :128 - click on cross bar[[ChromeDriver: chrome on WINDOWS (a2d42ac74416aa1a2247b527f72e8f7f)] -> xpath: //span[@title='Close']]
+2023-05-15 13:05:772 INFO  ShoppingCartPage :66 - Mouse hover on shopping cart
+2023-05-15 13:05:146 INFO  ShoppingCartPage :71 - click On go to cart 
+2023-05-15 13:05:201 INFO  ShoppingCartPage :61 - Get text from shopping cart
+2023-05-15 13:05:272 INFO  ShoppingCartPage :86 - clear an element from updated shopping cart 
+2023-05-15 13:05:456 INFO  ShoppingCartPage :76 - Update the quantity 2 to quantity field [[ChromeDriver: chrome on WINDOWS (a2d42ac74416aa1a2247b527f72e8f7f)] -> xpath: //input[@class='qty-input']]
+2023-05-15 13:05:610 INFO  ShoppingCartPage :81 - click On update cart button 
+2023-05-15 13:05:487 INFO  ShoppingCartPage :93 - Get text from total
+2023-05-15 13:05:605 INFO  ShoppingCartPage :99 - click on check box 
+2023-05-15 13:05:978 INFO  ShoppingCartPage :104 - click on check out 
+2023-05-15 13:05:765 INFO  CheckOutPage :69 - get text from welcome text
+2023-05-15 13:05:806 INFO  CheckOutPage :74 - click on check out 
+2023-05-15 13:05:639 INFO  CheckOutPage :79 - Enter first name John to username field [[ChromeDriver: chrome on WINDOWS (a2d42ac74416aa1a2247b527f72e8f7f)] -> css selector: #BillingNewAddress_FirstName]
+2023-05-15 13:05:785 INFO  CheckOutPage :84 - Enter last name Smith to username field [[ChromeDriver: chrome on WINDOWS (a2d42ac74416aa1a2247b527f72e8f7f)] -> css selector: #BillingNewAddress_LastName]
+2023-05-15 13:05:931 INFO  CheckOutPage :89 - Enter email xyz@email.com to username field [[ChromeDriver: chrome on WINDOWS (a2d42ac74416aa1a2247b527f72e8f7f)] -> css selector: #BillingNewAddress_Email]
+2023-05-15 13:05:35 INFO  CheckOutPage :94 - select country from dropdown list
+2023-05-15 13:05:265 INFO  CheckOutPage :99 - Enter city name London to username field [[ChromeDriver: chrome on WINDOWS (a2d42ac74416aa1a2247b527f72e8f7f)] -> css selector: #BillingNewAddress_City]
+2023-05-15 13:05:381 INFO  CheckOutPage :104 - Enter address Random Street to username field [[ChromeDriver: chrome on WINDOWS (a2d42ac74416aa1a2247b527f72e8f7f)] -> css selector: #BillingNewAddress_Address1]
+2023-05-15 13:05:546 INFO  CheckOutPage :109 - Enter postcode WES 6RT to username field [[ChromeDriver: chrome on WINDOWS (a2d42ac74416aa1a2247b527f72e8f7f)] -> css selector: #BillingNewAddress_ZipPostalCode]
+2023-05-15 13:05:671 INFO  CheckOutPage :114 - Enter phone number 0777777777 to username field [[ChromeDriver: chrome on WINDOWS (a2d42ac74416aa1a2247b527f72e8f7f)] -> css selector: #BillingNewAddress_PhoneNumber]
+2023-05-15 13:05:776 INFO  CheckOutPage :119 - click on continue 
+2023-05-15 13:05:867 INFO  ShippingPage :31 - click on next day air radio  
+2023-05-15 13:05:262 INFO  ShippingPage :36 - click on continue button 
+2023-05-15 13:05:361 INFO  PaymentPage :58 - Select Credit Card Radio Button
+2023-05-15 13:05:678 INFO  PaymentPage :63 - Continue Payment Button
+2023-05-15 13:05:971 INFO  PaymentPage :68 - Select Credit Card  2 to Credit Card  field [[ChromeDriver: chrome on WINDOWS (a2d42ac74416aa1a2247b527f72e8f7f)] -> id: CreditCardType]
+2023-05-15 13:05:96 INFO  PaymentPage :73 - Select card Holder Name  Mr. Smith to Credit Card  field [[ChromeDriver: chrome on WINDOWS (a2d42ac74416aa1a2247b527f72e8f7f)] -> id: CardholderName]
+2023-05-15 13:05:285 INFO  PaymentPage :78 - Select card Number   5425233430109903 to Credit Card  field [[ChromeDriver: chrome on WINDOWS (a2d42ac74416aa1a2247b527f72e8f7f)] -> id: CardNumber]
+2023-05-15 13:05:408 INFO  PaymentPage :83 - Select Expiry Month 1 to Credit Card  field [[ChromeDriver: chrome on WINDOWS (a2d42ac74416aa1a2247b527f72e8f7f)] -> id: ExpireMonth]
+2023-05-15 13:05:546 INFO  PaymentPage :89 - Select Expiry Year 3 to Credit Card  field [[ChromeDriver: chrome on WINDOWS (a2d42ac74416aa1a2247b527f72e8f7f)] -> id: ExpireYear]
+2023-05-15 13:05:720 INFO  PaymentPage :94 - Enter Card Code 123 to Credit Card  field [[ChromeDriver: chrome on WINDOWS (a2d42ac74416aa1a2247b527f72e8f7f)] -> xpath: //input[@data-val-regex-pattern='^[0-9]{3,4}$']]
+2023-05-15 13:05:795 INFO  PaymentPage :99 - Click Payment Continue Button
+2023-05-15 13:05:879 INFO  OrderConfirmationPage :38 - Get Text From Payment Method
+2023-05-15 13:05:177 INFO  OrderConfirmationPage :44 - Get Text From Shipping Method
+2023-05-15 13:05:215 INFO  OrderConfirmationPage :49 - Get Text From Total Price
+2023-05-15 13:05:264 INFO  OrderConfirmationPage :54 - Click On Confirm Button
+2023-05-15 13:05:384 INFO  OrderCompletionPage :37 - Get Text From ThankYou Title
+2023-05-15 13:05:79 INFO  OrderCompletionPage :41 - Get Text From Order SuccessMessage
+2023-05-15 13:05:178 INFO  OrderCompletionPage :46 - Click On Continue Order Completion Button
+2023-05-15 13:05:762 INFO  HomePage :54 - Get Text From Welcome Store
+2023-05-15 13:05:798 INFO  HomePage :39 - Select Menu
+2023-05-15 13:05:158 INFO  ComputerPage :28 - Click On Desktop
+2023-05-15 13:05:681 INFO  DesktopPage :39 - Select Sort By Position
+2023-05-15 13:05:914 INFO  DesktopPage :65 - Click On Add To Cart
+2023-05-15 13:05:92 INFO  BuildYourOwnComputerPage :73 - Get Text From build your own computer
+2023-05-15 13:05:470 INFO  BuildYourOwnComputerPage :78 - select processor[[ChromeDriver: chrome on WINDOWS (4cd197ac9f38feb4cb2a808864b02f8e)] -> css selector: #product_attribute_1]
+2023-05-15 13:05:646 INFO  BuildYourOwnComputerPage :85 - select RAM[[ChromeDriver: chrome on WINDOWS (4cd197ac9f38feb4cb2a808864b02f8e)] -> css selector: #product_attribute_2]
+2023-05-15 13:05:488 INFO  BuildYourOwnComputerPage :116 - Check Total Price
+2023-05-15 13:05:534 INFO  BuildYourOwnComputerPage :121 - click on add to cart button[[ChromeDriver: chrome on WINDOWS (4cd197ac9f38feb4cb2a808864b02f8e)] -> xpath: //button[@id='add-to-cart-button-1']]
+2023-05-15 13:05:614 INFO  BuildYourOwnComputerPage :127 - Get shopping cart message
+2023-05-15 13:05:888 INFO  BuildYourOwnComputerPage :133 - click on cross bar[[ChromeDriver: chrome on WINDOWS (4cd197ac9f38feb4cb2a808864b02f8e)] -> xpath: //span[@title='Close']]
+2023-05-15 13:05:67 INFO  ShoppingCartPage :66 - Mouse hover on shopping cart
+2023-05-15 13:05:575 INFO  ShoppingCartPage :71 - click On go to cart 
+2023-05-15 13:05:130 INFO  ShoppingCartPage :61 - Get text from shopping cart
+2023-05-15 13:05:289 INFO  ShoppingCartPage :86 - clear an element from updated shopping cart 
+2023-05-15 13:05:672 INFO  ShoppingCartPage :76 - Update the quantity 2 to quantity field [[ChromeDriver: chrome on WINDOWS (4cd197ac9f38feb4cb2a808864b02f8e)] -> xpath: //input[@class='qty-input']]
+2023-05-15 13:05:890 INFO  ShoppingCartPage :81 - click On update cart button 
+2023-05-15 13:05:278 INFO  ShoppingCartPage :93 - Get text from total
+2023-05-15 13:05:732 INFO  HomePage :39 - Select Menu
+2023-05-15 13:05:780 INFO  ComputerPage :28 - Click On Desktop
+2023-05-15 13:05:741 INFO  DesktopPage :39 - Select Sort By Position
+2023-05-15 13:05:26 INFO  DesktopPage :65 - Click On Add To Cart
+2023-05-15 13:05:259 INFO  BuildYourOwnComputerPage :73 - Get Text From build your own computer
+2023-05-15 13:05:151 INFO  HomePage :39 - Select Menu
+2023-05-15 13:05:884 INFO  ComputerPage :28 - Click On Desktop
+2023-05-15 13:05:291 INFO  DesktopPage :39 - Select Sort By Position
+2023-05-15 13:05:534 INFO  DesktopPage :65 - Click On Add To Cart
+2023-05-15 13:05:631 INFO  BuildYourOwnComputerPage :73 - Get Text From build your own computer
+2023-05-15 13:05:184 INFO  HomePage :39 - Select Menu
+2023-05-15 13:05:668 INFO  ComputerPage :28 - Click On Desktop
+2023-05-15 13:05:432 INFO  DesktopPage :39 - Select Sort By Position
+2023-05-15 13:05:587 INFO  DesktopPage :65 - Click On Add To Cart
+2023-05-15 13:05:776 INFO  BuildYourOwnComputerPage :73 - Get Text From build your own computer
+2023-05-15 13:05:494 INFO  HomePage :39 - Select Menu
+2023-05-15 13:05:432 INFO  ComputerPage :28 - Click On Desktop
+2023-05-15 13:05:150 INFO  DesktopPage :39 - Select Sort By Position
+2023-05-15 13:05:333 INFO  DesktopPage :65 - Click On Add To Cart
+2023-05-15 13:05:398 INFO  BuildYourOwnComputerPage :73 - Get Text From build your own computer
+2023-05-15 13:05:942 INFO  HomePage :39 - Select Menu
+2023-05-15 13:05:285 INFO  ComputerPage :28 - Click On Desktop
+2023-05-15 13:05:08 INFO  DesktopPage :39 - Select Sort By Position
+2023-05-15 13:05:218 INFO  DesktopPage :65 - Click On Add To Cart
+2023-05-15 13:05:329 INFO  BuildYourOwnComputerPage :78 - select processor[[ChromeDriver: chrome on WINDOWS (f1f0d67ece4dea33fe02259abd74b53d)] -> css selector: #product_attribute_1]
+2023-05-15 13:05:497 INFO  BuildYourOwnComputerPage :85 - select RAM[[ChromeDriver: chrome on WINDOWS (f1f0d67ece4dea33fe02259abd74b53d)] -> css selector: #product_attribute_2]
+2023-05-15 13:05:230 INFO  BuildYourOwnComputerPage :116 - Check Total Price
+2023-05-15 13:05:270 INFO  BuildYourOwnComputerPage :121 - click on add to cart button[[ChromeDriver: chrome on WINDOWS (f1f0d67ece4dea33fe02259abd74b53d)] -> xpath: //button[@id='add-to-cart-button-1']]
+2023-05-15 13:05:375 INFO  BuildYourOwnComputerPage :127 - Get shopping cart message
+2023-05-15 13:05:691 INFO  BuildYourOwnComputerPage :133 - click on cross bar[[ChromeDriver: chrome on WINDOWS (f1f0d67ece4dea33fe02259abd74b53d)] -> xpath: //span[@title='Close']]
+2023-05-15 13:05:977 INFO  ShoppingCartPage :66 - Mouse hover on shopping cart
+2023-05-15 13:05:316 INFO  ShoppingCartPage :71 - click On go to cart 
+2023-05-15 13:05:375 INFO  ShoppingCartPage :61 - Get text from shopping cart
+2023-05-15 13:05:431 INFO  ShoppingCartPage :86 - clear an element from updated shopping cart 
+2023-05-15 13:05:635 INFO  ShoppingCartPage :76 - Update the quantity 2 to quantity field [[ChromeDriver: chrome on WINDOWS (f1f0d67ece4dea33fe02259abd74b53d)] -> xpath: //input[@class='qty-input']]
+2023-05-15 13:05:782 INFO  ShoppingCartPage :81 - click On update cart button 
+2023-05-15 13:05:667 INFO  ShoppingCartPage :93 - Get text from total
+2023-05-15 13:05:765 INFO  ShoppingCartPage :99 - click on check box 
+2023-05-15 13:05:72 INFO  ShoppingCartPage :104 - click on check out 
+2023-05-15 13:05:952 INFO  CheckOutPage :69 - get text from welcome text
+2023-05-15 13:05:32 INFO  CheckOutPage :74 - click on check out 
+2023-05-15 13:05:804 INFO  CheckOutPage :94 - select country from dropdown list
+2023-05-15 13:05:51 INFO  CheckOutPage :79 - Enter first name John to username field [[ChromeDriver: chrome on WINDOWS (f1f0d67ece4dea33fe02259abd74b53d)] -> css selector: #BillingNewAddress_FirstName]
+2023-05-15 13:05:169 INFO  CheckOutPage :84 - Enter last name Smith to username field [[ChromeDriver: chrome on WINDOWS (f1f0d67ece4dea33fe02259abd74b53d)] -> css selector: #BillingNewAddress_LastName]
+2023-05-15 13:05:280 INFO  CheckOutPage :89 - Enter email xyz@gmail.com to username field [[ChromeDriver: chrome on WINDOWS (f1f0d67ece4dea33fe02259abd74b53d)] -> css selector: #BillingNewAddress_Email]
+2023-05-15 13:05:364 INFO  CheckOutPage :99 - Enter city name London to username field [[ChromeDriver: chrome on WINDOWS (f1f0d67ece4dea33fe02259abd74b53d)] -> css selector: #BillingNewAddress_City]
+2023-05-15 13:05:433 INFO  CheckOutPage :104 - Enter address random street to username field [[ChromeDriver: chrome on WINDOWS (f1f0d67ece4dea33fe02259abd74b53d)] -> css selector: #BillingNewAddress_Address1]
+2023-05-15 13:05:505 INFO  CheckOutPage :109 - Enter postcode WE0 00T to username field [[ChromeDriver: chrome on WINDOWS (f1f0d67ece4dea33fe02259abd74b53d)] -> css selector: #BillingNewAddress_ZipPostalCode]
+2023-05-15 13:05:579 INFO  CheckOutPage :114 - Enter phone number 9825655114 to username field [[ChromeDriver: chrome on WINDOWS (f1f0d67ece4dea33fe02259abd74b53d)] -> css selector: #BillingNewAddress_PhoneNumber]
+2023-05-15 13:05:642 INFO  CheckOutPage :119 - click on continue 
+2023-05-15 13:05:724 INFO  ShippingPage :31 - click on next day air radio  
+2023-05-15 13:05:64 INFO  ShippingPage :36 - click on continue button 
+2023-05-15 13:05:167 INFO  PaymentPage :58 - Select Credit Card Radio Button
+2023-05-15 13:05:471 INFO  PaymentPage :63 - Continue Payment Button
+2023-05-15 13:05:812 INFO  PaymentPage :68 - Select Credit Card  2 to Credit Card  field [[ChromeDriver: chrome on WINDOWS (f1f0d67ece4dea33fe02259abd74b53d)] -> id: CreditCardType]
+2023-05-15 13:05:988 INFO  PaymentPage :73 - Select card Holder Name  Mr. Smith to Credit Card  field [[ChromeDriver: chrome on WINDOWS (f1f0d67ece4dea33fe02259abd74b53d)] -> id: CardholderName]
+2023-05-15 13:05:137 INFO  PaymentPage :78 - Select card Number   5425233430109903 to Credit Card  field [[ChromeDriver: chrome on WINDOWS (f1f0d67ece4dea33fe02259abd74b53d)] -> id: CardNumber]
+2023-05-15 13:05:246 INFO  PaymentPage :83 - Select Expiry Month 1 to Credit Card  field [[ChromeDriver: chrome on WINDOWS (f1f0d67ece4dea33fe02259abd74b53d)] -> id: ExpireMonth]
+2023-05-15 13:05:402 INFO  PaymentPage :89 - Select Expiry Year 3 to Credit Card  field [[ChromeDriver: chrome on WINDOWS (f1f0d67ece4dea33fe02259abd74b53d)] -> id: ExpireYear]
+2023-05-15 13:05:554 INFO  PaymentPage :94 - Enter Card Code 123 to Credit Card  field [[ChromeDriver: chrome on WINDOWS (f1f0d67ece4dea33fe02259abd74b53d)] -> xpath: //input[@data-val-regex-pattern='^[0-9]{3,4}$']]
+2023-05-15 13:05:613 INFO  PaymentPage :99 - Click Payment Continue Button
+2023-05-15 13:05:722 INFO  OrderConfirmationPage :38 - Get Text From Payment Method
+2023-05-15 13:05:10 INFO  OrderConfirmationPage :44 - Get Text From Shipping Method
+2023-05-15 13:05:35 INFO  OrderConfirmationPage :49 - Get Text From Total Price
+2023-05-15 13:05:562 INFO  HomePage :39 - Select Menu
+2023-05-15 13:05:293 INFO  ComputerPage :28 - Click On Desktop
+2023-05-15 13:05:382 INFO  DesktopPage :39 - Select Sort By Position
+2023-05-15 13:05:609 INFO  DesktopPage :65 - Click On Add To Cart
+2023-05-15 13:05:715 INFO  BuildYourOwnComputerPage :78 - select processor[[ChromeDriver: chrome on WINDOWS (444969eb0a22d454b2045b75c9da9b3d)] -> css selector: #product_attribute_1]
+2023-05-15 13:05:883 INFO  BuildYourOwnComputerPage :85 - select RAM[[ChromeDriver: chrome on WINDOWS (444969eb0a22d454b2045b75c9da9b3d)] -> css selector: #product_attribute_2]
+2023-05-15 13:05:608 INFO  BuildYourOwnComputerPage :116 - Check Total Price
+2023-05-15 13:05:649 INFO  BuildYourOwnComputerPage :121 - click on add to cart button[[ChromeDriver: chrome on WINDOWS (444969eb0a22d454b2045b75c9da9b3d)] -> xpath: //button[@id='add-to-cart-button-1']]
+2023-05-15 13:05:742 INFO  BuildYourOwnComputerPage :127 - Get shopping cart message
+2023-05-15 13:05:111 INFO  BuildYourOwnComputerPage :133 - click on cross bar[[ChromeDriver: chrome on WINDOWS (444969eb0a22d454b2045b75c9da9b3d)] -> xpath: //span[@title='Close']]
+2023-05-15 13:05:334 INFO  ShoppingCartPage :66 - Mouse hover on shopping cart
+2023-05-15 13:05:611 INFO  ShoppingCartPage :71 - click On go to cart 
+2023-05-15 13:05:689 INFO  ShoppingCartPage :61 - Get text from shopping cart
+2023-05-15 13:05:749 INFO  ShoppingCartPage :86 - clear an element from updated shopping cart 
+2023-05-15 13:05:936 INFO  ShoppingCartPage :76 - Update the quantity 2 to quantity field [[ChromeDriver: chrome on WINDOWS (444969eb0a22d454b2045b75c9da9b3d)] -> xpath: //input[@class='qty-input']]
+2023-05-15 13:05:104 INFO  ShoppingCartPage :81 - click On update cart button 
+2023-05-15 13:05:984 INFO  ShoppingCartPage :93 - Get text from total
+2023-05-15 13:05:90 INFO  ShoppingCartPage :99 - click on check box 
+2023-05-15 13:05:444 INFO  ShoppingCartPage :104 - click on check out 
+2023-05-15 13:05:311 INFO  CheckOutPage :69 - get text from welcome text
+2023-05-15 13:05:379 INFO  CheckOutPage :74 - click on check out 
+2023-05-15 13:05:100 INFO  CheckOutPage :94 - select country from dropdown list
+2023-05-15 13:05:381 INFO  CheckOutPage :79 - Enter first name John to username field [[ChromeDriver: chrome on WINDOWS (444969eb0a22d454b2045b75c9da9b3d)] -> css selector: #BillingNewAddress_FirstName]
+2023-05-15 13:05:524 INFO  CheckOutPage :84 - Enter last name Smith to username field [[ChromeDriver: chrome on WINDOWS (444969eb0a22d454b2045b75c9da9b3d)] -> css selector: #BillingNewAddress_LastName]
+2023-05-15 13:05:610 INFO  CheckOutPage :89 - Enter email xyz@gmail.com to username field [[ChromeDriver: chrome on WINDOWS (444969eb0a22d454b2045b75c9da9b3d)] -> css selector: #BillingNewAddress_Email]
+2023-05-15 13:05:683 INFO  CheckOutPage :99 - Enter city name London to username field [[ChromeDriver: chrome on WINDOWS (444969eb0a22d454b2045b75c9da9b3d)] -> css selector: #BillingNewAddress_City]
+2023-05-15 13:05:757 INFO  CheckOutPage :104 - Enter address random street to username field [[ChromeDriver: chrome on WINDOWS (444969eb0a22d454b2045b75c9da9b3d)] -> css selector: #BillingNewAddress_Address1]
+2023-05-15 13:05:829 INFO  CheckOutPage :109 - Enter postcode WE0 00T to username field [[ChromeDriver: chrome on WINDOWS (444969eb0a22d454b2045b75c9da9b3d)] -> css selector: #BillingNewAddress_ZipPostalCode]
+2023-05-15 13:05:895 INFO  CheckOutPage :114 - Enter phone number 9825655114 to username field [[ChromeDriver: chrome on WINDOWS (444969eb0a22d454b2045b75c9da9b3d)] -> css selector: #BillingNewAddress_PhoneNumber]
+2023-05-15 13:05:962 INFO  CheckOutPage :119 - click on continue 
+2023-05-15 13:05:55 INFO  ShippingPage :31 - click on next day air radio  
+2023-05-15 13:05:408 INFO  ShippingPage :36 - click on continue button 
+2023-05-15 13:05:496 INFO  PaymentPage :58 - Select Credit Card Radio Button
+2023-05-15 13:05:804 INFO  PaymentPage :63 - Continue Payment Button
+2023-05-15 13:05:103 INFO  PaymentPage :68 - Select Credit Card  2 to Credit Card  field [[ChromeDriver: chrome on WINDOWS (444969eb0a22d454b2045b75c9da9b3d)] -> id: CreditCardType]
+2023-05-15 13:05:257 INFO  PaymentPage :73 - Select card Holder Name  Mr. Smith to Credit Card  field [[ChromeDriver: chrome on WINDOWS (444969eb0a22d454b2045b75c9da9b3d)] -> id: CardholderName]
+2023-05-15 13:05:440 INFO  PaymentPage :78 - Select card Number   5425233430109903 to Credit Card  field [[ChromeDriver: chrome on WINDOWS (444969eb0a22d454b2045b75c9da9b3d)] -> id: CardNumber]
+2023-05-15 13:05:595 INFO  PaymentPage :83 - Select Expiry Month 1 to Credit Card  field [[ChromeDriver: chrome on WINDOWS (444969eb0a22d454b2045b75c9da9b3d)] -> id: ExpireMonth]
+2023-05-15 13:05:737 INFO  PaymentPage :89 - Select Expiry Year 3 to Credit Card  field [[ChromeDriver: chrome on WINDOWS (444969eb0a22d454b2045b75c9da9b3d)] -> id: ExpireYear]
+2023-05-15 13:05:916 INFO  PaymentPage :94 - Enter Card Code 123 to Credit Card  field [[ChromeDriver: chrome on WINDOWS (444969eb0a22d454b2045b75c9da9b3d)] -> xpath: //input[@data-val-regex-pattern='^[0-9]{3,4}$']]
+2023-05-15 13:05:985 INFO  PaymentPage :99 - Click Payment Continue Button
+2023-05-15 13:05:95 INFO  OrderConfirmationPage :38 - Get Text From Payment Method
+2023-05-15 13:05:366 INFO  OrderConfirmationPage :44 - Get Text From Shipping Method
+2023-05-15 13:05:412 INFO  OrderConfirmationPage :49 - Get Text From Total Price
+2023-05-15 13:05:449 INFO  OrderConfirmationPage :54 - Click On Confirm Button
+2023-05-15 13:05:569 INFO  OrderCompletionPage :37 - Get Text From ThankYou Title
+2023-05-15 13:05:288 INFO  OrderCompletionPage :41 - Get Text From Order SuccessMessage
+2023-05-15 13:05:331 INFO  OrderCompletionPage :46 - Click On Continue Order Completion Button
+2023-05-15 13:05:900 INFO  HomePage :54 - Get Text From Welcome Store
+2023-05-15 14:05:99 INFO  HomePage :39 - Select Menu
+2023-05-15 14:05:693 INFO  ComputerPage :28 - Click On Desktop
+2023-05-15 14:05:249 INFO  DesktopPage :39 - Select Sort By Position
+2023-05-15 14:05:566 INFO  DesktopPage :65 - Click On Add To Cart
+2023-05-15 14:05:677 INFO  BuildYourOwnComputerPage :78 - select processor[[ChromeDriver: chrome on WINDOWS (eb3f056f8650a6783141b0fbb1de1084)] -> css selector: #product_attribute_1]
+2023-05-15 14:05:848 INFO  BuildYourOwnComputerPage :85 - select RAM[[ChromeDriver: chrome on WINDOWS (eb3f056f8650a6783141b0fbb1de1084)] -> css selector: #product_attribute_2]
+2023-05-15 14:05:684 INFO  BuildYourOwnComputerPage :116 - Check Total Price
+2023-05-15 14:05:736 INFO  BuildYourOwnComputerPage :121 - click on add to cart button[[ChromeDriver: chrome on WINDOWS (eb3f056f8650a6783141b0fbb1de1084)] -> xpath: //button[@id='add-to-cart-button-1']]
+2023-05-15 14:05:831 INFO  BuildYourOwnComputerPage :127 - Get shopping cart message
+2023-05-15 14:05:521 INFO  BuildYourOwnComputerPage :133 - click on cross bar[[ChromeDriver: chrome on WINDOWS (eb3f056f8650a6783141b0fbb1de1084)] -> xpath: //span[@title='Close']]
+2023-05-15 14:05:896 INFO  ShoppingCartPage :66 - Mouse hover on shopping cart
+2023-05-15 14:05:547 INFO  ShoppingCartPage :71 - click On go to cart 
+2023-05-15 14:05:88 INFO  ShoppingCartPage :61 - Get text from shopping cart
+2023-05-15 14:05:153 INFO  ShoppingCartPage :86 - clear an element from updated shopping cart 
+2023-05-15 14:05:419 INFO  ShoppingCartPage :76 - Update the quantity 2 to quantity field [[ChromeDriver: chrome on WINDOWS (eb3f056f8650a6783141b0fbb1de1084)] -> xpath: //input[@class='qty-input']]
+2023-05-15 14:05:587 INFO  ShoppingCartPage :81 - click On update cart button 
+2023-05-15 14:05:763 INFO  ShoppingCartPage :93 - Get text from total
+2023-05-15 14:05:31 INFO  ShoppingCartPage :99 - click on check box 
+2023-05-15 14:05:495 INFO  ShoppingCartPage :104 - click on check out 
+2023-05-15 14:05:207 INFO  CheckOutPage :69 - get text from welcome text
+2023-05-15 14:05:289 INFO  CheckOutPage :74 - click on check out 
+2023-05-15 14:05:210 INFO  CheckOutPage :94 - select country from dropdown list
+2023-05-15 14:05:960 INFO  CheckOutPage :79 - Enter first name John to username field [[ChromeDriver: chrome on WINDOWS (eb3f056f8650a6783141b0fbb1de1084)] -> css selector: #BillingNewAddress_FirstName]
+2023-05-15 14:05:251 INFO  CheckOutPage :84 - Enter last name Smith to username field [[ChromeDriver: chrome on WINDOWS (eb3f056f8650a6783141b0fbb1de1084)] -> css selector: #BillingNewAddress_LastName]
+2023-05-15 14:05:440 INFO  CheckOutPage :89 - Enter email xyz@gmail.com to username field [[ChromeDriver: chrome on WINDOWS (eb3f056f8650a6783141b0fbb1de1084)] -> css selector: #BillingNewAddress_Email]
+2023-05-15 14:05:526 INFO  CheckOutPage :99 - Enter city name London to username field [[ChromeDriver: chrome on WINDOWS (eb3f056f8650a6783141b0fbb1de1084)] -> css selector: #BillingNewAddress_City]
+2023-05-15 14:05:594 INFO  CheckOutPage :104 - Enter address random street to username field [[ChromeDriver: chrome on WINDOWS (eb3f056f8650a6783141b0fbb1de1084)] -> css selector: #BillingNewAddress_Address1]
+2023-05-15 14:05:677 INFO  CheckOutPage :109 - Enter postcode WE0 00T to username field [[ChromeDriver: chrome on WINDOWS (eb3f056f8650a6783141b0fbb1de1084)] -> css selector: #BillingNewAddress_ZipPostalCode]
+2023-05-15 14:05:762 INFO  CheckOutPage :114 - Enter phone number 9825655114 to username field [[ChromeDriver: chrome on WINDOWS (eb3f056f8650a6783141b0fbb1de1084)] -> css selector: #BillingNewAddress_PhoneNumber]
+2023-05-15 14:05:836 INFO  CheckOutPage :119 - click on continue 
+2023-05-15 14:05:927 INFO  ShippingPage :31 - click on next day air radio  
+2023-05-15 14:05:335 INFO  ShippingPage :36 - click on continue button 
+2023-05-15 14:05:488 INFO  PaymentPage :58 - Select Credit Card Radio Button
+2023-05-15 14:05:786 INFO  PaymentPage :63 - Continue Payment Button
+2023-05-15 14:05:75 INFO  PaymentPage :68 - Select Credit Card  2 to Credit Card  field [[ChromeDriver: chrome on WINDOWS (eb3f056f8650a6783141b0fbb1de1084)] -> id: CreditCardType]
+2023-05-15 14:05:267 INFO  PaymentPage :73 - Select card Holder Name  Mr Smith to Credit Card  field [[ChromeDriver: chrome on WINDOWS (eb3f056f8650a6783141b0fbb1de1084)] -> id: CardholderName]
+2023-05-15 14:05:639 INFO  PaymentPage :78 - Select card Number   5105105105105100 to Credit Card  field [[ChromeDriver: chrome on WINDOWS (eb3f056f8650a6783141b0fbb1de1084)] -> id: CardNumber]
+2023-05-15 14:05:887 INFO  PaymentPage :83 - Select Expiry Month 12 to Credit Card  field [[ChromeDriver: chrome on WINDOWS (eb3f056f8650a6783141b0fbb1de1084)] -> id: ExpireMonth]
+2023-05-15 14:05:260 INFO  PaymentPage :90 - Select Expiry Year 2023 to Credit Card  field [[ChromeDriver: chrome on WINDOWS (eb3f056f8650a6783141b0fbb1de1084)] -> id: ExpireYear]
+2023-05-15 14:05:448 INFO  PaymentPage :96 - Enter Card Code 203 to Credit Card  field [[ChromeDriver: chrome on WINDOWS (eb3f056f8650a6783141b0fbb1de1084)] -> xpath: //input[@data-val-regex-pattern='^[0-9]{3,4}$']]
+2023-05-15 14:05:567 INFO  PaymentPage :101 - Click Payment Continue Button
+2023-05-15 14:05:662 INFO  OrderConfirmationPage :38 - Get Text From Payment Method
+2023-05-15 14:05:00 INFO  OrderConfirmationPage :44 - Get Text From Shipping Method
+2023-05-15 14:05:60 INFO  OrderConfirmationPage :49 - Get Text From Total Price
+2023-05-15 14:05:152 INFO  OrderConfirmationPage :54 - Click On Confirm Button
+2023-05-15 14:05:309 INFO  OrderCompletionPage :37 - Get Text From ThankYou Title
+2023-05-15 14:05:151 INFO  OrderCompletionPage :41 - Get Text From Order SuccessMessage
+2023-05-15 14:05:323 INFO  OrderCompletionPage :46 - Click On Continue Order Completion Button
+2023-05-15 14:05:694 INFO  HomePage :54 - Get Text From Welcome Store
+2023-05-15 15:05:285 INFO  HomePage :39 - Select Menu
+2023-05-15 15:05:819 INFO  ComputerPage :28 - Click On Desktop
+2023-05-15 15:05:189 INFO  DesktopPage :39 - Select Sort By Position
+2023-05-15 15:05:292 INFO  DesktopPage :44 - Products arranged in alphabetical order
+2023-05-15 15:05:591 INFO  HomePage :59 - Mouse Hover On Electronics
+2023-05-15 15:05:760 INFO  HomePage :64 - Mouse Hover And Click OnCell Phone
+2023-05-15 15:05:312 INFO  CellPhonePage :31 - Get page title text of cell phone page
+2023-05-15 15:05:549 INFO  HomePage :39 - Select Menu
+2023-05-15 15:05:672 INFO  HomePage :39 - Select Menu
+2023-05-15 15:05:169 INFO  ComputerPage :28 - Click On Desktop
+2023-05-15 15:05:609 INFO  DesktopPage :39 - Select Sort By Position
+2023-05-15 15:05:728 INFO  DesktopPage :44 - Products arranged in alphabetical order
+2023-05-15 15:05:281 INFO  HomePage :39 - Select Menu
+2023-05-15 15:05:781 INFO  ComputerPage :28 - Click On Desktop
+2023-05-15 15:05:211 INFO  DesktopPage :39 - Select Sort By Position
+2023-05-15 15:05:342 INFO  DesktopPage :65 - Click On Add To Cart
+2023-05-15 15:05:403 INFO  BuildYourOwnComputerPage :78 - select processor[[ChromeDriver: chrome on WINDOWS (beb67e704395e827fb4832f0187d5b3e)] -> css selector: #product_attribute_1]
+2023-05-15 15:05:456 INFO  BuildYourOwnComputerPage :84 - select RAM[[ChromeDriver: chrome on WINDOWS (beb67e704395e827fb4832f0187d5b3e)] -> css selector: #product_attribute_2]
+2023-05-15 15:05:889 INFO  BuildYourOwnComputerPage :89 - Check Total Price
+2023-05-15 15:05:922 INFO  BuildYourOwnComputerPage :94 - click on add to cart button[[ChromeDriver: chrome on WINDOWS (beb67e704395e827fb4832f0187d5b3e)] -> xpath: //button[@id='add-to-cart-button-1']]
+2023-05-15 15:05:968 INFO  BuildYourOwnComputerPage :100 - Get shopping cart message
+2023-05-15 15:05:693 INFO  BuildYourOwnComputerPage :106 - click on cross bar[[ChromeDriver: chrome on WINDOWS (beb67e704395e827fb4832f0187d5b3e)] -> xpath: //span[@title='Close']]
+2023-05-15 15:05:735 INFO  ShoppingCartPage :66 - Mouse hover on shopping cart
+2023-05-15 15:05:898 INFO  ShoppingCartPage :71 - click On go to cart 
+2023-05-15 15:05:282 INFO  ShoppingCartPage :61 - Get text from shopping cart
+2023-05-15 15:05:309 INFO  ShoppingCartPage :86 - clear an element from updated shopping cart 
+2023-05-15 15:05:370 INFO  ShoppingCartPage :76 - Update the quantity 2 to quantity field [[ChromeDriver: chrome on WINDOWS (beb67e704395e827fb4832f0187d5b3e)] -> xpath: //input[@class='qty-input']]
+2023-05-15 15:05:420 INFO  ShoppingCartPage :81 - click On update cart button 
+2023-05-15 15:05:842 INFO  ShoppingCartPage :93 - Get text from total
+2023-05-15 15:05:875 INFO  ShoppingCartPage :99 - click on check box 
+2023-05-15 15:05:939 INFO  ShoppingCartPage :104 - click on check out 
+2023-05-15 15:05:459 INFO  CheckOutPage :69 - get text from welcome text
+2023-05-15 15:05:487 INFO  CheckOutPage :74 - click on check out 
+2023-05-15 15:05:123 INFO  CheckOutPage :94 - select country from dropdown list
+2023-05-15 15:05:265 INFO  CheckOutPage :79 - Enter first name John to username field [[ChromeDriver: chrome on WINDOWS (beb67e704395e827fb4832f0187d5b3e)] -> css selector: #BillingNewAddress_FirstName]
+2023-05-15 15:05:332 INFO  CheckOutPage :84 - Enter last name Smith to username field [[ChromeDriver: chrome on WINDOWS (beb67e704395e827fb4832f0187d5b3e)] -> css selector: #BillingNewAddress_LastName]
+2023-05-15 15:05:391 INFO  CheckOutPage :89 - Enter email xyz@gmail.com to username field [[ChromeDriver: chrome on WINDOWS (beb67e704395e827fb4832f0187d5b3e)] -> css selector: #BillingNewAddress_Email]
+2023-05-15 15:05:453 INFO  CheckOutPage :99 - Enter city name London to username field [[ChromeDriver: chrome on WINDOWS (beb67e704395e827fb4832f0187d5b3e)] -> css selector: #BillingNewAddress_City]
+2023-05-15 15:05:514 INFO  CheckOutPage :104 - Enter address random street to username field [[ChromeDriver: chrome on WINDOWS (beb67e704395e827fb4832f0187d5b3e)] -> css selector: #BillingNewAddress_Address1]
+2023-05-15 15:05:574 INFO  CheckOutPage :109 - Enter postcode WE0 00T to username field [[ChromeDriver: chrome on WINDOWS (beb67e704395e827fb4832f0187d5b3e)] -> css selector: #BillingNewAddress_ZipPostalCode]
+2023-05-15 15:05:630 INFO  CheckOutPage :114 - Enter phone number 9825655114 to username field [[ChromeDriver: chrome on WINDOWS (beb67e704395e827fb4832f0187d5b3e)] -> css selector: #BillingNewAddress_PhoneNumber]
+2023-05-15 15:05:683 INFO  CheckOutPage :119 - click on continue 
+2023-05-15 15:05:733 INFO  ShippingPage :31 - click on next day air radio  
+2023-05-15 15:05:47 INFO  ShippingPage :36 - click on continue button 
+2023-05-15 15:05:94 INFO  PaymentPage :58 - Select Credit Card Radio Button
+2023-05-15 15:05:420 INFO  PaymentPage :63 - Continue Payment Button
+2023-05-15 15:05:678 INFO  PaymentPage :68 - Select Credit Card  2 to Credit Card  field [[ChromeDriver: chrome on WINDOWS (beb67e704395e827fb4832f0187d5b3e)] -> id: CreditCardType]
+2023-05-15 15:05:768 INFO  PaymentPage :73 - Select card Holder Name  Mr Smith to Credit Card  field [[ChromeDriver: chrome on WINDOWS (beb67e704395e827fb4832f0187d5b3e)] -> id: CardholderName]
+2023-05-15 15:05:819 INFO  PaymentPage :78 - Select card Number   5105105105105100 to Credit Card  field [[ChromeDriver: chrome on WINDOWS (beb67e704395e827fb4832f0187d5b3e)] -> id: CardNumber]
+2023-05-15 15:05:878 INFO  PaymentPage :83 - Select Expiry Month 12 to Credit Card  field [[ChromeDriver: chrome on WINDOWS (beb67e704395e827fb4832f0187d5b3e)] -> id: ExpireMonth]
+2023-05-15 15:05:948 INFO  PaymentPage :89 - Select Expiry Year 2023 to Credit Card  field [[ChromeDriver: chrome on WINDOWS (beb67e704395e827fb4832f0187d5b3e)] -> id: ExpireYear]
+2023-05-15 15:05:00 INFO  PaymentPage :94 - Enter Card Code 203 to Credit Card  field [[ChromeDriver: chrome on WINDOWS (beb67e704395e827fb4832f0187d5b3e)] -> xpath: //input[@data-val-regex-pattern='^[0-9]{3,4}$']]
+2023-05-15 15:05:32 INFO  PaymentPage :99 - Click Payment Continue Button
+2023-05-15 15:05:85 INFO  OrderConfirmationPage :38 - Get Text From Payment Method
+2023-05-15 15:05:359 INFO  OrderConfirmationPage :44 - Get Text From Shipping Method
+2023-05-15 15:05:380 INFO  OrderConfirmationPage :49 - Get Text From Total Price
+2023-05-15 15:05:407 INFO  OrderConfirmationPage :54 - Click On Confirm Button
+2023-05-15 15:05:452 INFO  OrderCompletionPage :37 - Get Text From ThankYou Title
+2023-05-15 15:05:105 INFO  OrderCompletionPage :41 - Get Text From Order SuccessMessage
+2023-05-15 15:05:125 INFO  OrderCompletionPage :46 - Click On Continue Order Completion Button
+2023-05-15 15:05:493 INFO  HomePage :54 - Get Text From Welcome Store
+2023-05-15 15:05:571 INFO  HomePage :59 - Mouse Hover On Electronics
+2023-05-15 15:05:722 INFO  HomePage :64 - Mouse Hover And Click OnCell Phone
+2023-05-15 15:05:736 INFO  CellPhonePage :31 - Get page title text of cell phone page
+2023-05-15 15:05:207 INFO  HomePage :59 - Mouse Hover On Electronics
+2023-05-15 15:05:358 INFO  HomePage :64 - Mouse Hover And Click OnCell Phone
+2023-05-15 15:05:04 INFO  CellPhonePage :31 - Get page title text of cell phone page
+2023-05-15 15:05:47 INFO  CellPhonePage :36 - click on list view icon[[ChromeDriver: chrome on WINDOWS (fb05dfcc6f315efc5b84763576358eb2)] -> xpath: //a[contains(text(),'List')]]
+2023-05-15 15:05:100 INFO  CellPhonePage :42 - click on product nokia lumia 1020
+2023-05-15 15:05:141 INFO  NokiaLumia1020Page :50 - Actual Title Text Of Product NokiaLumia1020Page
+2023-05-15 15:05:169 INFO  NokiaLumia1020Page :55 - Actual Price  Of Product NokiaLumia1020
+2023-05-15 15:05:190 INFO  NokiaLumia1020Page :60 - Clear An Element Before Entering Qty
+2023-05-15 15:05:248 INFO  NokiaLumia1020Page :65 - Update the Quantity  2to Quantity Field[[ChromeDriver: chrome on WINDOWS (fb05dfcc6f315efc5b84763576358eb2)] -> xpath: (//input[@id='product_enteredQuantity_20'])[1]]
+2023-05-15 15:05:290 INFO  NokiaLumia1020Page :70 - Click On Button Add To Cart From Page NokiaLumia1020
+2023-05-15 15:05:337 INFO  NokiaLumia1020Page :76 - Actual Message Of Product Being In Shopping Cart
+2023-05-15 15:05:357 INFO  NokiaLumia1020Page :81 - Click On Cross From Message
+2023-05-15 15:05:407 INFO  NokiaLumia1020Page :87 - Hover To Shopping Cart And Click On Add To Cart
+2023-05-15 15:05:942 INFO  ShoppingCartPage :61 - Get text from shopping cart
+2023-05-15 15:05:958 INFO  ShoppingCartPage :113 - verifyQuantity 
+2023-05-15 15:05:979 INFO  ShoppingCartPage :93 - Get text from total
+2023-05-15 15:05:997 INFO  ShoppingCartPage :99 - click on check box 
+2023-05-15 15:05:36 INFO  ShoppingCartPage :104 - click on check out 
+2023-05-15 15:05:545 INFO  CheckOutPage :69 - get text from welcome text
+2023-05-15 15:05:573 INFO  CheckOutPage :124 - click on button register 
+2023-05-15 15:05:958 INFO  RegisterPage :90 - get actual title text of register page
+2023-05-15 15:05:982 INFO  RegisterPage :70 - Enter email [[ChromeDriver: chrome on WINDOWS (fb05dfcc6f315efc5b84763576358eb2)] -> xpath: //input[@id='Email']]
+2023-05-15 15:05:33 INFO  RegisterPage :54 - Enter first name John to username field [[ChromeDriver: chrome on WINDOWS (fb05dfcc6f315efc5b84763576358eb2)] -> xpath: //input[@id='FirstName']]
+2023-05-15 15:05:86 INFO  RegisterPage :59 - Enter last name Smith to username field [[ChromeDriver: chrome on WINDOWS (fb05dfcc6f315efc5b84763576358eb2)] -> xpath: //input[@id='LastName']]
+2023-05-15 15:05:141 INFO  RegisterPage :74 - Enter password Password1 to password field [[ChromeDriver: chrome on WINDOWS (fb05dfcc6f315efc5b84763576358eb2)] -> xpath: //input[@id='Password']]
+2023-05-15 15:05:197 INFO  RegisterPage :79 - Enter confirm password Password1 to confirm password field [[ChromeDriver: chrome on WINDOWS (fb05dfcc6f315efc5b84763576358eb2)] -> xpath: //input[@id='ConfirmPassword']]
+2023-05-15 15:05:249 INFO  RegisterPage :84 - click on button register next step 
+2023-05-15 15:05:831 INFO  RegistrationSuccessfulPage :30 - Get text successful registration
+2023-05-15 15:05:848 INFO  RegistrationSuccessfulPage :35 - click on continue button 
+2023-05-15 15:05:157 INFO  ShoppingCartPage :61 - Get text from shopping cart
+2023-05-15 15:05:172 INFO  LoginPage :45 - Click On Login Link
+2023-05-15 15:05:480 INFO  LoginPage :50 - Enter email  mocky3681210680nkIEmouse@gmail.com to Email  field [[ChromeDriver: chrome on WINDOWS (fb05dfcc6f315efc5b84763576358eb2)] -> css selector: #Email]
+2023-05-15 15:05:546 INFO  LoginPage :55 - Enter Password  Password1 to Password  field [[ChromeDriver: chrome on WINDOWS (fb05dfcc6f315efc5b84763576358eb2)] -> css selector: #Password]
+2023-05-15 15:05:595 INFO  LoginPage :61 - Click On Login Button
+2023-05-15 15:05:257 INFO  LoginPage :66 - click on check box 
+2023-05-15 15:05:319 INFO  LoginPage :71 - click on check out 
+2023-05-15 15:05:185 INFO  CheckOutAfterRegistrationPage :138 - Enter email mocky3681210680nkIEmouse@gmail.com to username field [[ChromeDriver: chrome on WINDOWS (fb05dfcc6f315efc5b84763576358eb2)] -> xpath: //input[@id='BillingNewAddress_Email']]
+2023-05-15 15:05:281 INFO  CheckOutAfterRegistrationPage :144 - select country from dropdown list
+2023-05-15 15:05:397 INFO  CheckOutAfterRegistrationPage :126 - Enter first name John to username field [[ChromeDriver: chrome on WINDOWS (fb05dfcc6f315efc5b84763576358eb2)] -> xpath: //input[@id='BillingNewAddress_FirstName']]
+2023-05-15 15:05:484 INFO  CheckOutAfterRegistrationPage :132 - Enter last name Smith to username field [[ChromeDriver: chrome on WINDOWS (fb05dfcc6f315efc5b84763576358eb2)] -> xpath: //input[@id='BillingNewAddress_LastName']]
+2023-05-15 15:05:567 INFO  CheckOutAfterRegistrationPage :149 - Enter city name London to username field [[ChromeDriver: chrome on WINDOWS (fb05dfcc6f315efc5b84763576358eb2)] -> xpath: //input[@id='BillingNewAddress_City']]
+2023-05-15 15:05:625 INFO  CheckOutAfterRegistrationPage :154 - Enter address 101 House to username field [[ChromeDriver: chrome on WINDOWS (fb05dfcc6f315efc5b84763576358eb2)] -> xpath: //input[@id='BillingNewAddress_Address1']]
+2023-05-15 15:05:691 INFO  CheckOutAfterRegistrationPage :159 - Enter postcode GS1 2FG to username field [[ChromeDriver: chrome on WINDOWS (fb05dfcc6f315efc5b84763576358eb2)] -> xpath: //input[@id='BillingNewAddress_ZipPostalCode']]
+2023-05-15 15:05:746 INFO  CheckOutAfterRegistrationPage :164 - Enter phone number 02022039384 to username field [[ChromeDriver: chrome on WINDOWS (fb05dfcc6f315efc5b84763576358eb2)] -> xpath: //input[@id='BillingNewAddress_PhoneNumber']]
+2023-05-15 15:05:793 INFO  CheckOutAfterRegistrationPage :169 - click on continue 
+2023-05-15 15:05:854 INFO  CheckOutAfterRegistrationPage :266 - click on radio button 2nd DayAir 
+2023-05-15 15:05:914 INFO  CheckOutAfterRegistrationPage :182 - click on button continue from shipping method 
+2023-05-15 15:05:950 INFO  CheckOutAfterRegistrationPage :189 - click on radio button credit card 
+2023-05-15 15:05:252 INFO  CheckOutAfterRegistrationPage :195 - click on button continue from payment method 
+2023-05-15 15:05:290 INFO  CheckOutAfterRegistrationPage :201 - click on drop down select card 
+2023-05-15 15:05:540 INFO  CheckOutAfterRegistrationPage :207 - Enter card holder name Mr Smith to username field [[ChromeDriver: chrome on WINDOWS (fb05dfcc6f315efc5b84763576358eb2)] -> xpath: //input[@id='CardholderName']]
+2023-05-15 15:05:599 INFO  CheckOutAfterRegistrationPage :213 - Enter card number 5105105105105100 to username field [[ChromeDriver: chrome on WINDOWS (fb05dfcc6f315efc5b84763576358eb2)] -> xpath: //input[@id='CardNumber']]
+2023-05-15 15:05:649 INFO  CheckOutAfterRegistrationPage :219 - select month from dropdown 
+2023-05-15 15:05:718 INFO  CheckOutAfterRegistrationPage :225 - select year from dropdown 
+2023-05-15 15:05:777 INFO  CheckOutAfterRegistrationPage :231 - Enter card code 203 to username field [[ChromeDriver: chrome on WINDOWS (fb05dfcc6f315efc5b84763576358eb2)] -> xpath: //input[@id='CardCode']]
+2023-05-15 15:05:810 INFO  CheckOutAfterRegistrationPage :237 - click On button continue from payment information 
+2023-05-15 15:05:847 INFO  CheckOutAfterRegistrationPage :243 - verify actual text of card method
+2023-05-15 15:05:114 INFO  CheckOutAfterRegistrationPage :249 - verify actual text of shipping method
+2023-05-15 15:05:138 INFO  CheckOutAfterRegistrationPage :255 - verify actual total final price
+2023-05-15 15:05:164 INFO  CheckOutAfterRegistrationPage :261 - click on button confirm 
+2023-05-15 15:05:210 INFO  OrderCompletionPage :37 - Get Text From ThankYou Title
+2023-05-15 15:05:859 INFO  OrderCompletionPage :41 - Get Text From Order SuccessMessage
+2023-05-15 15:05:882 INFO  OrderCompletionPage :46 - Click On Continue Order Completion Button
+2023-05-15 15:05:229 INFO  HomePage :54 - Get Text From Welcome Store
+2023-05-15 15:05:657 INFO  HomePage :39 - Select Menu
